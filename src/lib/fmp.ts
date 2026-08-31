@@ -18,6 +18,8 @@ export interface FmpMap {
   gridB: number;
   walls: FmpWall[];
   wallSectionBytes: [number, number];
+  /** vegas-стиль: записи 204 Б, u16@+186 = Y ряда, байты +28..+37 = битмаск колонок (80 бит) */
+  rowBitmask?: { row: number; mask: Uint8Array }[];
 }
 
 const MARKER = [0x20, 0x40, 0x00, 0x00];
@@ -71,10 +73,17 @@ export function parseFmp(buf: Uint8Array): FmpMap {
     prevY = y;
   }
 
-  // ВАЖНО: на картах vegas-стиля (76×74) секция 0 — это записи ОБЪЕКТОВ (~204 Б,
-  // последовательные instance-ID ~6000+, float поворота π/2), а не стены-ряды,
-  // поэтому поле +18 там константа 0xFE и wall-рендер к ним неприменим.
-  // Разделение типов секций — нерешённая задача (см. docs/ASSET-FORMATS.md).
+  // ВАЖНО: на картах vegas-стиля (76×74) секция 0 — это записи ОБЪЕКТОВ ~204 Б,
+  // u16@+186 = Y ряда (2..73, уникальны), байты +28..+37 = битмаск колонок (80 бит),
+  // +26 = u16-ID (5746..6035), +38 = float поворота. Извлекаем как rowBitmask.
+  let rowBitmask: { row: number; mask: Uint8Array }[] | undefined;
+  const big = recs.filter((r) => r.end - r.start === 204);
+  if (big.length >= gridB - 4 && big.every((r) => buf[r.start + 18] === 0xfe)) {
+    rowBitmask = big.map((r) => ({
+      row: dv.getUint16(r.start + 186, true),
+      mask: buf.slice(r.start + 28, r.start + 38),
+    }));
+  }
   return {
     version,
     srcPath,
@@ -82,5 +91,6 @@ export function parseFmp(buf: Uint8Array): FmpMap {
     gridB,
     walls,
     wallSectionBytes: recs.length ? [recs[0].start, recs[0].end] : [0, 0],
+    rowBitmask,
   };
 }

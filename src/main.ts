@@ -235,14 +235,30 @@ function initBrowser(index: AssetsIndex) {
           g.moveTo(0, gy * cell).lineTo(map.gridB * cell, gy * cell).stroke({ width: 1, color: 0x1d2129 });
         }
         const colors = [0xd8a048, 0x6fbf73, 0x5b8dd8, 0xc96f6f, 0xb088d8];
-        for (const w of map.walls) {
-          const x0 = w.x0 < 0 ? 0 : w.x0;
-          const x1 = w.x1 < 0 ? map.gridB - 1 : w.x1;
-          const lo = Math.max(0, Math.min(x0, x1));
-          const hi = Math.min(map.gridB - 1, Math.max(x0, x1));
-          if (hi < lo) continue;
-          g.rect(lo * cell + 1, w.y * cell + 1, (hi - lo + 1) * cell - 2, cell - 2)
-            .fill({ color: colors[w.type % colors.length], alpha: 0.85 });
+        if (map.rowBitmask) {
+          for (const { row, mask } of map.rowBitmask) {
+            for (let byteI = 0; byteI < mask.length; byteI++) {
+              for (let bit = 0; bit < 8; bit++) {
+                if (mask[byteI] & (1 << bit)) {
+                  const col = byteI * 8 + bit;
+                  if (col < map.gridB) {
+                    g.rect(col * cell + 1, row * cell + 1, cell - 2, cell - 2)
+                      .fill({ color: 0xd8a048, alpha: 0.9 });
+                  }
+                }
+              }
+            }
+          }
+        } else {
+          for (const w of map.walls) {
+            const x0 = w.x0 < 0 ? 0 : w.x0;
+            const x1 = w.x1 < 0 ? map.gridB - 1 : w.x1;
+            const lo = Math.max(0, Math.min(x0, x1));
+            const hi = Math.min(map.gridB - 1, Math.max(x0, x1));
+            if (hi < lo) continue;
+            g.rect(lo * cell + 1, w.y * cell + 1, (hi - lo + 1) * cell - 2, cell - 2)
+              .fill({ color: colors[w.type % colors.length], alpha: 0.85 });
+          }
         }
         app.stage.addChild(g);
         previewEl.appendChild(app.canvas);
