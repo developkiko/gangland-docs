@@ -224,45 +224,22 @@ function initBrowser(index: AssetsIndex) {
     } else if (ext === '.fmp') {
       try {
         const map = parseFmp(new Uint8Array(buf));
-        const cell = 14;
+        const cell = 12;
         const app = new Application();
         await app.init({ width: map.gridB * cell + 2, height: map.gridA * cell + 2, background: '#101216' });
         const g = new Graphics();
-        for (let gx = 0; gx <= map.gridB; gx++) {
-          g.moveTo(gx * cell, 0).lineTo(gx * cell, map.gridA * cell).stroke({ width: 1, color: 0x1d2129 });
-        }
-        for (let gy = 0; gy <= map.gridA; gy++) {
-          g.moveTo(0, gy * cell).lineTo(map.gridB * cell, gy * cell).stroke({ width: 1, color: 0x1d2129 });
-        }
-        const colors = [0xd8a048, 0x6fbf73, 0x5b8dd8, 0xc96f6f, 0xb088d8];
-        if (map.rowBitmask) {
-          for (const { row, mask } of map.rowBitmask) {
-            for (let byteI = 0; byteI < mask.length; byteI++) {
-              for (let bit = 0; bit < 8; bit++) {
-                if (mask[byteI] & (1 << bit)) {
-                  const col = byteI * 8 + bit;
-                  if (col < map.gridB) {
-                    g.rect(col * cell + 1, row * cell + 1, cell - 2, cell - 2)
-                      .fill({ color: 0xd8a048, alpha: 0.9 });
-                  }
-                }
-              }
+        for (let gy = 0; gy < map.gridA; gy++) {
+          for (let gx = 0; gx < map.gridB; gx++) {
+            const v = map.grid[gy * map.gridB + gx];
+            if (v !== 0) {
+              g.rect(gx * cell + 1, gy * cell + 1, cell - 2, cell - 2)
+                .fill({ color: v === 1 ? 0xd8a048 : 0x6fbf73, alpha: 0.9 });
             }
-          }
-        } else {
-          for (const w of map.walls) {
-            const x0 = w.x0 < 0 ? 0 : w.x0;
-            const x1 = w.x1 < 0 ? map.gridB - 1 : w.x1;
-            const lo = Math.max(0, Math.min(x0, x1));
-            const hi = Math.min(map.gridB - 1, Math.max(x0, x1));
-            if (hi < lo) continue;
-            g.rect(lo * cell + 1, w.y * cell + 1, (hi - lo + 1) * cell - 2, cell - 2)
-              .fill({ color: colors[w.type % colors.length], alpha: 0.85 });
           }
         }
         app.stage.addChild(g);
         previewEl.appendChild(app.canvas);
-        addCaption(`FWMP ${map.gridA}×${map.gridB}, исходник ${map.srcPath}. Гипотеза: секция стен (записей ${map.walls.length}) — +18=Y, +26=тип, +31/+43=X-диапазон. Валидация визуалом.`);
+        addCaption(`FWMP ${map.gridA}×${map.gridB}: занято ${map.occupied} тайлов из ${map.gridA * map.gridB}. Исходник: ${map.srcPath}. Раскладка объектов карты.`);
       } catch (e) {
         const pre = document.createElement('pre');
         pre.textContent = hexdump(new Uint8Array(buf).subarray(0, 512));
