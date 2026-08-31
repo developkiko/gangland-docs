@@ -1,0 +1,542 @@
+[
+ {
+  "name": "ansi/arial/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "ansi/arial/15.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "ansi/arial/16.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "ansi/arial/19.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "ansi/impact/17.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "ansi/impact/19.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "ansi/impact/20.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "ansi/impact/21.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "ansi/impact/23.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "ansi/impact/26.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "ansi/impact/29.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "ansi/impact/50.mmf",
+  "size": 268308,
+  "flags": 0
+ },
+ {
+  "name": "ansi/palatinolinotype/28.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "ansi/terminalbold/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "ansi/timesnewroman/12.mmf",
+  "size": 38932,
+  "flags": 0
+ },
+ {
+  "name": "ansi/timesnewroman/15.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "ansi/timesnewroman/18.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "ansi/verdana/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/arial/14.mmf",
+  "size": 576116,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/arial/15.mmf",
+  "size": 576116,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/arial/16.mmf",
+  "size": 1100404,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/arial/19.mmf",
+  "size": 1100404,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/impact/17.mmf",
+  "size": 1100404,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/impact/19.mmf",
+  "size": 1100404,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/impact/20.mmf",
+  "size": 1100404,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/impact/21.mmf",
+  "size": 1100404,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/impact/23.mmf",
+  "size": 1100404,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/impact/26.mmf",
+  "size": 2145940,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/impact/29.mmf",
+  "size": 2138716,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/impact/50.mmf",
+  "size": 2119284,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/palatinolinotype/28.mmf",
+  "size": 2140704,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/terminalbold/14.mmf",
+  "size": 576116,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/timesnewroman/12.mmf",
+  "size": 576116,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/timesnewroman/15.mmf",
+  "size": 576116,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/timesnewroman/18.mmf",
+  "size": 1100404,
+  "flags": 0
+ },
+ {
+  "name": "chinesebig5/verdana/14.mmf",
+  "size": 576116,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/arial/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/arial/15.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/arial/16.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/arial/19.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/impact/17.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/impact/19.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/impact/20.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/impact/21.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/impact/23.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/impact/26.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/impact/29.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/impact/50.mmf",
+  "size": 268308,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/palatinolinotype/28.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/terminalbold/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/timesnewroman/12.mmf",
+  "size": 38932,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/timesnewroman/15.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/timesnewroman/18.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "easteurope/verdana/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/arial/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/arial/15.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/arial/16.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/arial/19.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/impact/17.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/impact/19.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/impact/20.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/impact/21.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "greek/impact/23.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "greek/impact/26.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "greek/impact/29.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "greek/impact/50.mmf",
+  "size": 530452,
+  "flags": 0
+ },
+ {
+  "name": "greek/palatinolinotype/28.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "greek/terminalbold/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/timesnewroman/12.mmf",
+  "size": 38932,
+  "flags": 0
+ },
+ {
+  "name": "greek/timesnewroman/15.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/timesnewroman/18.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "greek/verdana/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/arial/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/arial/15.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/arial/16.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/arial/19.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/impact/17.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/impact/19.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/impact/20.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/impact/21.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "russian/impact/23.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "russian/impact/26.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "russian/impact/29.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "russian/impact/50.mmf",
+  "size": 530452,
+  "flags": 0
+ },
+ {
+  "name": "russian/palatinolinotype/28.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "russian/terminalbold/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/timesnewroman/12.mmf",
+  "size": 38932,
+  "flags": 0
+ },
+ {
+  "name": "russian/timesnewroman/15.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/timesnewroman/18.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "russian/verdana/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/arial/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/arial/15.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/arial/16.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/arial/19.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/impact/17.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/impact/19.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/impact/20.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/impact/21.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "turkish/impact/23.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "turkish/impact/26.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "turkish/impact/29.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "turkish/impact/50.mmf",
+  "size": 268308,
+  "flags": 0
+ },
+ {
+  "name": "turkish/palatinolinotype/28.mmf",
+  "size": 137236,
+  "flags": 0
+ },
+ {
+  "name": "turkish/terminalbold/14.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/timesnewroman/12.mmf",
+  "size": 38932,
+  "flags": 0
+ },
+ {
+  "name": "turkish/timesnewroman/15.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/timesnewroman/18.mmf",
+  "size": 71700,
+  "flags": 0
+ },
+ {
+  "name": "turkish/verdana/14.mmf",
+  "size": 71700,
+  "flags": 0
+ }
+]

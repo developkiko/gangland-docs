@@ -1,0 +1,952 @@
+[
+ {
+  "name": "bribe_civilian/bribe_civilian.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_00.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_01.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_02.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_03.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_04.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_05.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_06.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_07.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_08.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_09.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_10.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_11.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_12.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_13.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_14.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_15.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_16.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_17.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_18.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_19.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_20.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_21.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_22.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_23.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_24.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_25.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_26.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_27.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_28.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_29.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_30.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_31.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_32.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_33.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_34.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_35.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/explosion/car_explosion_36.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/00.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/01.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/02.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/03.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/04.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/05.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/06.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/07.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/08.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/09.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/10.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/11.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/12.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/13.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/14.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/15.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/16.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/17.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/18.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/19.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/20.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/21.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/22.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/23.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave/24.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "car_explosion/shockwave_ground.dds",
+  "size": 262272,
+  "flags": 0
+ },
+ {
+  "name": "contract_target/contract_target.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "favor_target/favor_target.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_00.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_00_2.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_00_4.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_01.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_02.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_03.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_04.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_05.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_06.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_07.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_08.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_09.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_10.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_11.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_12.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_13.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "fire/fire_14.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_00.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_01.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_02.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_03.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_04.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_05.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_06.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_07.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_08.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_09.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_10.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_11.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_12.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_13.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_14.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_15.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_16.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_17.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_18.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade/grenade_19.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "grenade_soot/grenade_soot_64.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "health_bar_gradient/health_bar_gradient.dds",
+  "size": 160,
+  "flags": 0
+ },
+ {
+  "name": "move_to/move_to_00.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "move_to/move_to_01.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "move_to/move_to_02.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "move_to/move_to_03.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "move_to/move_to_04.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "move_to/move_to_05.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "move_to/move_to_06.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "move_to/move_to_07.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "move_to/move_to_08.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "particles/bless/bless.dds",
+  "size": 1152,
+  "flags": 0
+ },
+ {
+  "name": "particles/blood.dds",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "particles/bullet.dds",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "particles/curse/curse.dds",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "particles/emission_0000.dds",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "particles/ricochet.dds",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "particles/smoke_00.dds",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "particles/stunhit.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_00.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_01.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_02.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_03.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_04.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_05.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_06.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_07.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_08.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_09.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_10.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_11.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_12.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_13.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_14.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_15.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_16.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_17.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_18.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_19.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_20.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_21.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_22.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_23.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_24.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_25.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_26.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_27.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_28.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_29.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_30.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion/shop_explosion_31.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_00.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_01.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_02.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_03.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_04.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_05.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_06.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_07.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_08.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_09.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_10.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_11.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_12.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_13.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_14.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_15.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_16.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_17.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_18.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_19.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_20.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_21.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_22.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_23.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_24.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_25.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_26.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_27.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_28.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_29.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_30.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_31.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_32.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_33.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "shop_explosion_01/shop_explosion_34.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "spark/spark_00.dds",
+  "size": 384,
+  "flags": 0
+ }
+]

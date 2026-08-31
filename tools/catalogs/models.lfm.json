@@ -1,0 +1,6267 @@
+[
+ {
+  "name": "buildings/arms_dealer_2x2.mmo",
+  "size": 207430,
+  "flags": 0
+ },
+ {
+  "name": "buildings/arms_dealer_2x2_corner.mmo",
+  "size": 232622,
+  "flags": 0
+ },
+ {
+  "name": "buildings/arms_dealer_2x2_corner_mirror.mmo",
+  "size": 234352,
+  "flags": 0
+ },
+ {
+  "name": "buildings/arms_dealer_4x2.mmo",
+  "size": 263394,
+  "flags": 0
+ },
+ {
+  "name": "buildings/bank_4x4_back.mmo",
+  "size": 116301,
+  "flags": 0
+ },
+ {
+  "name": "buildings/bank_4x4_front.mmo",
+  "size": 230210,
+  "flags": 0
+ },
+ {
+  "name": "buildings/brothel_exclusive_3x2.mmo",
+  "size": 164326,
+  "flags": 0
+ },
+ {
+  "name": "buildings/brothel_worn_3x2.mmo",
+  "size": 157217,
+  "flags": 0
+ },
+ {
+  "name": "buildings/casino_4x4_back.mmo",
+  "size": 127613,
+  "flags": 0
+ },
+ {
+  "name": "buildings/casino_4x4_front.mmo",
+  "size": 373147,
+  "flags": 0
+ },
+ {
+  "name": "buildings/church_baptist_2x2_back.mmo",
+  "size": 110577,
+  "flags": 0
+ },
+ {
+  "name": "buildings/church_baptist_2x2_front.mmo",
+  "size": 103553,
+  "flags": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x2_back.mmo",
+  "size": 57912,
+  "flags": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x2_back_corner.mmo",
+  "size": 30694,
+  "flags": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x2_front.mmo",
+  "size": 113898,
+  "flags": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x2_front_corner.mmo",
+  "size": 44939,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_2x2.mmo",
+  "size": 455882,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_2x2_back.mmo",
+  "size": 451382,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_2x2_corner.mmo",
+  "size": 447992,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_3x1.mmo",
+  "size": 491002,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_3x1_back.mmo",
+  "size": 485482,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_3x1_corner.mmo",
+  "size": 460902,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2.mmo",
+  "size": 599142,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_back.mmo",
+  "size": 594822,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_corner.mmo",
+  "size": 648002,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_3x3.mmo",
+  "size": 940682,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_4x2.mmo",
+  "size": 770722,
+  "flags": 0
+ },
+ {
+  "name": "buildings/destroyed_4x2_back.mmo",
+  "size": 772022,
+  "flags": 0
+ },
+ {
+  "name": "buildings/distillery_4x4_back.mmo",
+  "size": 206025,
+  "flags": 0
+ },
+ {
+  "name": "buildings/distillery_4x4_front.mmo",
+  "size": 148454,
+  "flags": 0
+ },
+ {
+  "name": "buildings/empty_back_2x2.mmo",
+  "size": 25076,
+  "flags": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_back.mmo",
+  "size": 54155,
+  "flags": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_back_corner.mmo",
+  "size": 55701,
+  "flags": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_front.mmo",
+  "size": 145896,
+  "flags": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_front_corner.mmo",
+  "size": 152317,
+  "flags": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_front_corner_mirror.mmo",
+  "size": 155035,
+  "flags": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_front_mirror.mmo",
+  "size": 145540,
+  "flags": 0
+ },
+ {
+  "name": "buildings/gambling_den_2x2.mmo",
+  "size": 124612,
+  "flags": 0
+ },
+ {
+  "name": "buildings/gambling_den_4x2.mmo",
+  "size": 173211,
+  "flags": 0
+ },
+ {
+  "name": "buildings/garage_2x2.mmo",
+  "size": 271075,
+  "flags": 0
+ },
+ {
+  "name": "buildings/garage_2x2_corner.mmo",
+  "size": 459602,
+  "flags": 0
+ },
+ {
+  "name": "buildings/garage_2x2_corner_mirror.mmo",
+  "size": 194122,
+  "flags": 0
+ },
+ {
+  "name": "buildings/hotel_exclusive_3x3.mmo",
+  "size": 307508,
+  "flags": 0
+ },
+ {
+  "name": "buildings/hotel_worn_3x2.mmo",
+  "size": 383818,
+  "flags": 0
+ },
+ {
+  "name": "buildings/import_export_2x4_back.mmo",
+  "size": 75476,
+  "flags": 0
+ },
+ {
+  "name": "buildings/import_export_2x4_back_corner.mmo",
+  "size": 65339,
+  "flags": 0
+ },
+ {
+  "name": "buildings/import_export_2x4_front.mmo",
+  "size": 201934,
+  "flags": 0
+ },
+ {
+  "name": "buildings/import_export_2x4_front_corner.mmo",
+  "size": 171063,
+  "flags": 0
+ },
+ {
+  "name": "buildings/import_export_2x4_front_corner_mirror.mmo",
+  "size": 169935,
+  "flags": 0
+ },
+ {
+  "name": "buildings/jeweller_3x2_back.mmo",
+  "size": 48294,
+  "flags": 0
+ },
+ {
+  "name": "buildings/jeweller_3x2_back_corner.mmo",
+  "size": 61953,
+  "flags": 0
+ },
+ {
+  "name": "buildings/jeweller_3x2_back_corner_mirror.mmo",
+  "size": 61681,
+  "flags": 0
+ },
+ {
+  "name": "buildings/jeweller_3x2_front.mmo",
+  "size": 151764,
+  "flags": 0
+ },
+ {
+  "name": "buildings/jeweller_3x2_front_corner.mmo",
+  "size": 101575,
+  "flags": 0
+ },
+ {
+  "name": "buildings/jeweller_3x2_front_corner_mirror.mmo",
+  "size": 101455,
+  "flags": 0
+ },
+ {
+  "name": "buildings/loanshark_2x2.mmo",
+  "size": 89157,
+  "flags": 0
+ },
+ {
+  "name": "buildings/loanshark_2x2_mirror.mmo",
+  "size": 88957,
+  "flags": 0
+ },
+ {
+  "name": "buildings/museum_4x4_back.mmo",
+  "size": 146212,
+  "flags": 0
+ },
+ {
+  "name": "buildings/museum_4x4_front.mmo",
+  "size": 192140,
+  "flags": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_back.mmo",
+  "size": 70529,
+  "flags": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_back_corner.mmo",
+  "size": 79214,
+  "flags": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_front.mmo",
+  "size": 86605,
+  "flags": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_front_corner.mmo",
+  "size": 79067,
+  "flags": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_back.mmo",
+  "size": 76332,
+  "flags": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_back_corner.mmo",
+  "size": 77539,
+  "flags": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_front.mmo",
+  "size": 107160,
+  "flags": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_front_corner.mmo",
+  "size": 95729,
+  "flags": 0
+ },
+ {
+  "name": "buildings/pawnshop_2x2.mmo",
+  "size": 240549,
+  "flags": 0
+ },
+ {
+  "name": "buildings/pawnshop_2x2_corner.mmo",
+  "size": 206813,
+  "flags": 0
+ },
+ {
+  "name": "buildings/pawnshop_2x2_corner_mirror.mmo",
+  "size": 190855,
+  "flags": 0
+ },
+ {
+  "name": "buildings/policestation_2x4_back.mmo",
+  "size": 100972,
+  "flags": 0
+ },
+ {
+  "name": "buildings/policestation_2x4_front.mmo",
+  "size": 87153,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_back.mmo",
+  "size": 77700,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_back_corner.mmo",
+  "size": 78803,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_front.mmo",
+  "size": 100532,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_front_corner.mmo",
+  "size": 154895,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_back.mmo",
+  "size": 22980,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_back_corner.mmo",
+  "size": 23100,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_front.mmo",
+  "size": 211780,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_front_corner.mmo",
+  "size": 227305,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x4_back.mmo",
+  "size": 27559,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x4_back_corner.mmo",
+  "size": 27562,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x4_front.mmo",
+  "size": 317038,
+  "flags": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x4_front_corner.mmo",
+  "size": 420296,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_4x4_back.mmo",
+  "size": 182578,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_4x4_front.mmo",
+  "size": 274790,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_level_0_2x2_corner.mmo",
+  "size": 291498,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_level_0_2x2_corner_mirror.mmo",
+  "size": 289117,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_level_0_2x2_standard.mmo",
+  "size": 268568,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_level_1_2x2_corner.mmo",
+  "size": 340560,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_level_1_2x2_corner_mirror.mmo",
+  "size": 328520,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_level_1_2x2_standard.mmo",
+  "size": 309451,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_level_2_2x2_corner.mmo",
+  "size": 362103,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_level_2_2x2_corner_mirror.mmo",
+  "size": 360029,
+  "flags": 0
+ },
+ {
+  "name": "buildings/restaurant_level_2_2x2_standard.mmo",
+  "size": 352461,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/bank_back.mmo",
+  "size": 57876,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/bank_front.mmo",
+  "size": 64016,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/church_baptist_back.mmo",
+  "size": 7016,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/church_baptist_front.mmo",
+  "size": 23408,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/church_catholic_back.mmo",
+  "size": 45458,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/church_catholic_front.mmo",
+  "size": 69157,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/docks.mmo",
+  "size": 187527,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/factory.mmo",
+  "size": 38504,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/italian.mmo",
+  "size": 107267,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/policestation_2x4_back.mmo",
+  "size": 23379,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/policestation_2x4_front.mmo",
+  "size": 27499,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/poor.mmo",
+  "size": 187526,
+  "flags": 0
+ },
+ {
+  "name": "buildings/roof/vegas.mmo",
+  "size": 187527,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_0_2x4_back.mmo",
+  "size": 85190,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_0_2x4_back_corner.mmo",
+  "size": 181484,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_0_2x4_front.mmo",
+  "size": 374050,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_0_2x4_front_corner.mmo",
+  "size": 588705,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_1_2x4_back.mmo",
+  "size": 99770,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_1_2x4_back_corner.mmo",
+  "size": 195695,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_1_2x4_front.mmo",
+  "size": 370251,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_1_2x4_front_corner.mmo",
+  "size": 517895,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_2_2x4_back.mmo",
+  "size": 117441,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_2_2x4_back_corner.mmo",
+  "size": 213345,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_2_2x4_front.mmo",
+  "size": 385140,
+  "flags": 0
+ },
+ {
+  "name": "buildings/safehouse_level_2_2x4_front_corner.mmo",
+  "size": 509667,
+  "flags": 0
+ },
+ {
+  "name": "buildings/speak_easy_level_0_2x2.mmo",
+  "size": 136318,
+  "flags": 0
+ },
+ {
+  "name": "buildings/speak_easy_level_1_2x2.mmo",
+  "size": 127048,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/firestairs_2_75m.mmo",
+  "size": 11513,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/firestairs_3_5m.mmo",
+  "size": 12413,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/firestairs_3m.mmo",
+  "size": 11633,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/firestairs_4m.mmo",
+  "size": 13233,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/firestairs_5m.mmo",
+  "size": 13733,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/firestairs_6m.mmo",
+  "size": 14233,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_01.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_02.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_03.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_04.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_05.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_06.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_07.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_08.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_09.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_10.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_11.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_12.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/graffiti_13.mmo",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/italian_flag.mmo",
+  "size": 4889,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_neon_airplane.mmo",
+  "size": 5112,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_neon_beer.mmo",
+  "size": 5481,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_neon_cigarette.mmo",
+  "size": 1916,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_neon_cigars.mmo",
+  "size": 5085,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_neon_fireworks.mmo",
+  "size": 3373,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_neon_girls.mmo",
+  "size": 1223,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_neon_orangeade.mmo",
+  "size": 4391,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_neon_palmtrees.mmo",
+  "size": 16406,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_rotating_01.mmo",
+  "size": 1642,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_rotating_02.mmo",
+  "size": 1642,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_rotating_03.mmo",
+  "size": 1642,
+  "flags": 0
+ },
+ {
+  "name": "buildings/wall_accessories/sign_rotating_04.mmo",
+  "size": 1642,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/bricks_brown.mmo",
+  "size": 20442,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/bricks_dark_grey.mmo",
+  "size": 21214,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/bricks_red.mmo",
+  "size": 23156,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/condemned_1.mmo",
+  "size": 34400,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/docks_00.mmo",
+  "size": 46853,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/docks_01.mmo",
+  "size": 38931,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/docks_02.mmo",
+  "size": 49843,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/factory_grey.mmo",
+  "size": 12398,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/little_italy_grey.mmo",
+  "size": 21754,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/little_italy_red.mmo",
+  "size": 22169,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/little_italy_yellow.mmo",
+  "size": 28297,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/vegas_grey.mmo",
+  "size": 52247,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/vegas_red.mmo",
+  "size": 113948,
+  "flags": 0
+ },
+ {
+  "name": "buildings/walls/vegas_white.mmo",
+  "size": 75247,
+  "flags": 0
+ },
+ {
+  "name": "buildings/warehouse_2x4_back.mmo",
+  "size": 66735,
+  "flags": 0
+ },
+ {
+  "name": "buildings/warehouse_2x4_front.mmo",
+  "size": 98412,
+  "flags": 0
+ },
+ {
+  "name": "buildings/warehouse_4x4_back.mmo",
+  "size": 129686,
+  "flags": 0
+ },
+ {
+  "name": "buildings/warehouse_4x4_front.mmo",
+  "size": 108664,
+  "flags": 0
+ },
+ {
+  "name": "buildings/windows/italian.mmo",
+  "size": 3669,
+  "flags": 0
+ },
+ {
+  "name": "buildings/windows/vegas_1.mmo",
+  "size": 4231,
+  "flags": 0
+ },
+ {
+  "name": "buildings/windows/vegas_2.mmo",
+  "size": 9393,
+  "flags": 0
+ },
+ {
+  "name": "buildings/windows/vegas_3.mmo",
+  "size": 11631,
+  "flags": 0
+ },
+ {
+  "name": "editor_helpers/connection.mmo",
+  "size": 259,
+  "flags": 0
+ },
+ {
+  "name": "editor_helpers/direction_of_travel.mmo",
+  "size": 255,
+  "flags": 0
+ },
+ {
+  "name": "editor_helpers/no_car.mmo",
+  "size": 331,
+  "flags": 0
+ },
+ {
+  "name": "editor_helpers/no_walk.mmo",
+  "size": 331,
+  "flags": 0
+ },
+ {
+  "name": "editor_helpers/no_walk_no_see.mmo",
+  "size": 331,
+  "flags": 0
+ },
+ {
+  "name": "editor_helpers/point_and_direction.mmo",
+  "size": 661,
+  "flags": 0
+ },
+ {
+  "name": "general/buildings/building_marker/building_marker.mmo",
+  "size": 5607,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/arrow/arrow.mmc",
+  "size": 68,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/arrow/arrow.mmo",
+  "size": 1689,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/capo_indicator/capo_indicator.mmc",
+  "size": 8,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/capo_indicator/capo_indicator.mmo",
+  "size": 241,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/capo_influence/capo_influence.mmc",
+  "size": 8,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/capo_influence/capo_influence.mmo",
+  "size": 241,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/character_selection/character_selection.mmc",
+  "size": 24,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/character_selection/character_selection.mmo",
+  "size": 785,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/character_shadow/character_shadow.mmc",
+  "size": 8,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/character_shadow/character_shadow.mmo",
+  "size": 251,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female.mmc",
+  "size": 240,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female.mmo",
+  "size": 11770,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow.mmc",
+  "size": 90,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow.mmo",
+  "size": 3471,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male.mmc",
+  "size": 223,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male.mmo",
+  "size": 11093,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow.mmc",
+  "size": 89,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow.mmo",
+  "size": 3439,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker.mmc",
+  "size": 216,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker.mmo",
+  "size": 11201,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_shadow.mmc",
+  "size": 91,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_shadow.mmo",
+  "size": 3462,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/contract_out/contract_out.mmc",
+  "size": 52,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/contract_out/contract_out.mmo",
+  "size": 2021,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop.mmc",
+  "size": 436,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop.mmo",
+  "size": 21596,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_lod.mmc",
+  "size": 87,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_lod.mmo",
+  "size": 6992,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_shadow.mmc",
+  "size": 87,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_shadow.mmo",
+  "size": 3339,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/eye/eye.mmc",
+  "size": 62,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/eye/eye.mmo",
+  "size": 3071,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/favour/favour.mmc",
+  "size": 52,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/favour/favour.mmo",
+  "size": 2022,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent.mmc",
+  "size": 236,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent.mmo",
+  "size": 11564,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_shadow.mmc",
+  "size": 89,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_shadow.mmo",
+  "size": 3439,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/for_hire/for_hire.mmc",
+  "size": 34,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/for_hire/for_hire.mmo",
+  "size": 2046,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager.mmc",
+  "size": 497,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager.mmo",
+  "size": 24239,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum.mmc",
+  "size": 197,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum.mmo",
+  "size": 9835,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_shadow.mmc",
+  "size": 95,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_shadow.mmo",
+  "size": 3660,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader.mmc",
+  "size": 231,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader.mmo",
+  "size": 12012,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_lod.mmc",
+  "size": 99,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_lod.mmo",
+  "size": 6158,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_shadow.mmc",
+  "size": 99,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_shadow.mmo",
+  "size": 3743,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/level_up_coin/level_up_coin.mmc",
+  "size": 58,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/level_up_coin/level_up_coin.mmo",
+  "size": 1538,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/level_up_star/level_up_doublestar.mmc",
+  "size": 28,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/level_up_star/level_up_doublestar.mmo",
+  "size": 984,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/level_up_star/level_up_star.mmc",
+  "size": 16,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/level_up_star/level_up_star.mmo",
+  "size": 544,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor.mmc",
+  "size": 208,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor.mmo",
+  "size": 10848,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor_shadow.mmc",
+  "size": 89,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor_shadow.mmo",
+  "size": 3439,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy.mmc",
+  "size": 271,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy.mmo",
+  "size": 14238,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_shadow.mmc",
+  "size": 106,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_shadow.mmo",
+  "size": 4063,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/rage/rage.mmc",
+  "size": 52,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/rage/rage.mmo",
+  "size": 1833,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist.mmc",
+  "size": 546,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist.mmo",
+  "size": 26703,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/security_guard/security_guard.mmc",
+  "size": 458,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/security_guard/security_guard.mmo",
+  "size": 22774,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/male_shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/male_shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_woman.mmc",
+  "size": 90,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_woman.mmo",
+  "size": 3469,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/speak/speak.mmc",
+  "size": 36,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/speak/speak.mmo",
+  "size": 1357,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian.mmc",
+  "size": 397,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian.mmo",
+  "size": 18809,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_lod.mmc",
+  "size": 103,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_lod.mmo",
+  "size": 6935,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow.mmc",
+  "size": 71,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow.mmo",
+  "size": 2726,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop.mmc",
+  "size": 502,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop.mmo",
+  "size": 24977,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shadow.mmc",
+  "size": 91,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shadow.mmo",
+  "size": 3506,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/team_color/team_color.mmc",
+  "size": 8,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/team_color/team_color.mmo",
+  "size": 233,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/team_color/team_color_s.mmc",
+  "size": 8,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/team_color/team_color_s.mmo",
+  "size": 235,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/team_color/team_color_s2.mmc",
+  "size": 8,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/team_color/team_color_s2.mmo",
+  "size": 236,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/trophy/trophy.mmc",
+  "size": 303,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/trophy/trophy.mmo",
+  "size": 14140,
+  "flags": 0
+ },
+ {
+  "name": "general/cursor/cursor.mmo",
+  "size": 1165,
+  "flags": 0
+ },
+ {
+  "name": "general/cursor/cursor_move.mmo",
+  "size": 1156,
+  "flags": 0
+ },
+ {
+  "name": "general/cursor/cursor_moving.mmo",
+  "size": 306,
+  "flags": 0
+ },
+ {
+  "name": "general/cursor/cursor_rotating.mmo",
+  "size": 1016,
+  "flags": 0
+ },
+ {
+  "name": "general/effects/blood/blood.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "general/effects/bribe_civilian/bribe_civilian.mmo",
+  "size": 3033,
+  "flags": 0
+ },
+ {
+  "name": "general/effects/debri/building_debri/building_debri_01.mmo",
+  "size": 1087,
+  "flags": 0
+ },
+ {
+  "name": "general/effects/debri/building_debri/building_debri_02.mmo",
+  "size": 958,
+  "flags": 0
+ },
+ {
+  "name": "general/effects/debri/building_debri/building_debri_03.mmo",
+  "size": 958,
+  "flags": 0
+ },
+ {
+  "name": "general/effects/debri/handgrenade_debri/handgrenade_debri_01.mmo",
+  "size": 484,
+  "flags": 0
+ },
+ {
+  "name": "general/effects/debri/spark/spark_01.mmo",
+  "size": 534,
+  "flags": 0
+ },
+ {
+  "name": "general/effects/stun_star/stun_stars.mmo",
+  "size": 1801,
+  "flags": 0
+ },
+ {
+  "name": "general/effects/wannatalk/wannatalk.mmo",
+  "size": 1344,
+  "flags": 0
+ },
+ {
+  "name": "general/items/ammo_box/ammo_box.mmo",
+  "size": 624,
+  "flags": 0
+ },
+ {
+  "name": "general/items/block/block.mmo",
+  "size": 712,
+  "flags": 0
+ },
+ {
+  "name": "general/items/bodysack/bodysack.mmo",
+  "size": 1961,
+  "flags": 0
+ },
+ {
+  "name": "general/items/briefcase/briefcase.mmo",
+  "size": 1929,
+  "flags": 0
+ },
+ {
+  "name": "general/items/buddha/buddha.mmo",
+  "size": 14140,
+  "flags": 0
+ },
+ {
+  "name": "general/items/firstaidkit/firstaidkit.mmo",
+  "size": 727,
+  "flags": 0
+ },
+ {
+  "name": "general/items/firstaidkit/firstaidkit_storemanager.mmo",
+  "size": 733,
+  "flags": 0
+ },
+ {
+  "name": "general/items/firstaidkit/firstaidkit_stormanager.mmo",
+  "size": 733,
+  "flags": 0
+ },
+ {
+  "name": "general/items/hammer/hammer.mmo",
+  "size": 1007,
+  "flags": 0
+ },
+ {
+  "name": "general/items/newspaper/newspaper_civilian_female.mmo",
+  "size": 1216,
+  "flags": 0
+ },
+ {
+  "name": "general/items/newspaper/newspaper_civilian_male.mmo",
+  "size": 1934,
+  "flags": 0
+ },
+ {
+  "name": "general/items/newspaper/newspaper_newspaper_boy.mmo",
+  "size": 736,
+  "flags": 0
+ },
+ {
+  "name": "general/items/sword/sword.mmo",
+  "size": 6997,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/bat_1.mmo",
+  "size": 2610,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/bat_1_spiked.mmo",
+  "size": 3784,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/bat_1_spiked_ui.mmo",
+  "size": 5447,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/bat_1_ui.mmo",
+  "size": 2793,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/baton.mmo",
+  "size": 3350,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/bazooka.mmo",
+  "size": 7100,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/bazooka_ui.mmo",
+  "size": 18159,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/calculator.mmo",
+  "size": 730,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/car_gun.mmo",
+  "size": 1443,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/derringer.mmo",
+  "size": 2944,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/derringer_ui.mmo",
+  "size": 5289,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/dynamite.mmo",
+  "size": 1106,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/dynamite_one_stick.mmo",
+  "size": 1606,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/firstaidkit_stormanager.mmo",
+  "size": 733,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/fist_01.mmo",
+  "size": 1807,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/gasgrenade.mmo",
+  "size": 1370,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/gasgrenade_ui.mmo",
+  "size": 4474,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/handgrenade.mmo",
+  "size": 5308,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/handgrenade_ui.mmo",
+  "size": 12908,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/handgun.mmo",
+  "size": 2942,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/handgun2x_ui.mmo",
+  "size": 11727,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/handgun2xscope_ui.mmo",
+  "size": 17831,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/handgun_scope.mmo",
+  "size": 4365,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/handgun_scope_ui.mmo",
+  "size": 9031,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/handgun_ui.mmo",
+  "size": 5927,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/knife.mmo",
+  "size": 2480,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/nitro_bomb.mmo",
+  "size": 4392,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/no_weapon_no_effect.mmo",
+  "size": 44,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/pepper_spray.mmo",
+  "size": 2964,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/pepper_spray_ui.mmo",
+  "size": 2965,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/poison.mmo",
+  "size": 44,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/poison_flask.mmo",
+  "size": 1809,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/rocket.mmo",
+  "size": 1917,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/sai.mmo",
+  "size": 2737,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/samurai_swords.mmo",
+  "size": 6770,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/semi_goldhandgun.mmo",
+  "size": 3096,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/semi_goldhandgun_scope.mmo",
+  "size": 5712,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/semi_goldhandgun_scope_ui.mmo",
+  "size": 6963,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/semi_goldhandgun_ui.mmo",
+  "size": 4217,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/semi_handgun.mmo",
+  "size": 3071,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/semi_handgun2x_ui.mmo",
+  "size": 8292,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/semi_handgun_scope.mmo",
+  "size": 4487,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/semi_handgun_scope_ui.mmo",
+  "size": 6949,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/semi_handgun_ui.mmo",
+  "size": 4212,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/shotgun.mmo",
+  "size": 2900,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/shotgun_double_barreled.mmo",
+  "size": 5379,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/shotgun_double_barreled_ui.mmo",
+  "size": 6419,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/shotgun_ui.mmo",
+  "size": 4705,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/sniper_rifle.mmo",
+  "size": 4250,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/sniper_rifle_scope.mmo",
+  "size": 5666,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/sniper_rifle_scope_silencer.mmo",
+  "size": 6186,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/sniper_rifle_scope_silencer_ui.mmo",
+  "size": 10755,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/sniper_rifle_scope_ui.mmo",
+  "size": 10035,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/sniper_rifle_ui.mmo",
+  "size": 7395,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tank_gun.mmo",
+  "size": 3750,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tommygun.mmo",
+  "size": 4643,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tommygun2x_ui.mmo",
+  "size": 30728,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tommygun2xsilencer_ui.mmo",
+  "size": 32168,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tommygun_gold.mmo",
+  "size": 4663,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tommygun_gold_ui.mmo",
+  "size": 15458,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tommygun_silencer.mmo",
+  "size": 5163,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tommygun_silencer_gold.mmo",
+  "size": 5183,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tommygun_silencer_gold_ui.mmo",
+  "size": 16178,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tommygun_silencer_ui.mmo",
+  "size": 16148,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/tommygun_ui.mmo",
+  "size": 15428,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/uzi.mmo",
+  "size": 5292,
+  "flags": 0
+ },
+ {
+  "name": "general/items/weapons/uzi_ui.mmo",
+  "size": 13300,
+  "flags": 0
+ },
+ {
+  "name": "general/items/wood_box/wood_box.mmo",
+  "size": 564,
+  "flags": 0
+ },
+ {
+  "name": "general/items/wood_box/wood_box1.mmo",
+  "size": 558,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/barsketball_court/barsketball_court_end.mmo",
+  "size": 224,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/barsketball_court/barsketball_court_middle.mmo",
+  "size": 224,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/bridge_01/bridge_end.mmo",
+  "size": 4915,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/bridge_01/bridge_middle.mmo",
+  "size": 3935,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/bridge_02/bridge_02.mmo",
+  "size": 13295,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/concrete_blocker/concreteblocker_1.mmo",
+  "size": 1771,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/concrete_blocker/concreteblocker_2.mmo",
+  "size": 1772,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/concrete_blocker/concreteblocker_3.mmo",
+  "size": 1772,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/concrete_blocker/concreteblocker_4.mmo",
+  "size": 1772,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/concrete_blocker/concreteblocker_end.mmo",
+  "size": 1996,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/dead_grass/dead_grass.mmo",
+  "size": 214,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/dead_grass/dead_grass_random_01.mmo",
+  "size": 214,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/dead_grass/dead_grass_random_02.mmo",
+  "size": 214,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/dead_grass/dead_grass_random_03.mmo",
+  "size": 214,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_corner_into.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_corner_middle.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_cross.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_cross_t.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_pedestrian_crossing.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_stopline_line.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_stopline_no_line.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_straight.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_straight_fow.mmo",
+  "size": 1135,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_straight_fow_random_01.mmo",
+  "size": 1135,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_straight_fow_random_02.mmo",
+  "size": 1135,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_straight_random_01.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/asphalt_straight_random_02.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_2alley.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_alley.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_alley_corner.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_alley_random_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_building2alley.mmo",
+  "size": 217,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_full.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_full_random_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_grating_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_inner_corner_sharp.mmo",
+  "size": 459,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_kerb.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_kerb_random_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_kerb_random_02.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_outer_corner_sharp.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_outer_corner_soft_middle_type_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/pavement_outer_corner_soft_side.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_building_corner.mmo",
+  "size": 565,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_building_corner2pavement.mmo",
+  "size": 565,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_building_l_corner.mmo",
+  "size": 573,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_building_straight.mmo",
+  "size": 515,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_building_straight_random_01.mmo",
+  "size": 515,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_crane_track_end.mmo",
+  "size": 1365,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_crane_track_straight.mmo",
+  "size": 1185,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_crane_track_straight_car_collision_side.mmo",
+  "size": 2094,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_crane_track_straight_random_01.mmo",
+  "size": 1185,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_no_tracks.mmo",
+  "size": 377,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_no_tracks_random_01.mmo",
+  "size": 377,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_no_tracks_random_02.mmo",
+  "size": 377,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_no_tracks_random_03.mmo",
+  "size": 377,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_no_tracks_under_container.mmo",
+  "size": 703,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_tracks_corner.mmo",
+  "size": 377,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_tracks_cross.mmo",
+  "size": 597,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_tracks_fade.mmo",
+  "size": 377,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_tracks_straight.mmo",
+  "size": 377,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_tracks_straight_random_01.mmo",
+  "size": 377,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_tracks_straight_random_02.mmo",
+  "size": 377,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/quay_tracks_t_cross.mmo",
+  "size": 377,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_corner_inner.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_corner_into.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_corner_outer.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_double_track_connector.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_shunting_track_connector.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_straight.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_straight_car_collision_end.mmo",
+  "size": 830,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_straight_car_collision_side.mmo",
+  "size": 3890,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_straight_fow.mmo",
+  "size": 1136,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_straight_fow_random_01.mmo",
+  "size": 1136,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_straight_fow_random_02.mmo",
+  "size": 1136,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_straight_random_01.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_straight_random_02.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_straight_road_cross.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_t_cross_bottom.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_t_cross_side.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/docks/railroad_t_cross_top.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/empty.mmo",
+  "size": 212,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_2cobblestone.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_corner.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_corner_into.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_corner_middle.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_cross.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_cross_t.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_fade.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_pedestrian_crossing.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_stopline_line.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_stopline_no_line.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_straight.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_straight_random_01.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/asphalt_straight_random_02.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/cobblestone_2asphalt_corner.mmo",
+  "size": 939,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/cobblestone_2asphalt_middle.mmo",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/cobblestone_2asphalt_straight.mmo",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/cobblestone_corner.mmo",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/cobblestone_cross.mmo",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/cobblestone_cross_t.mmo",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/cobblestone_fade.mmo",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/cobblestone_straight.mmo",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/cobblestone_straight_random_01.mmo",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/cobblestone_straight_random_02.mmo",
+  "size": 384,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_2alley.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_alley.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_alley_corner.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_alley_random_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_full.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_full_random_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_grating_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_inner_corner_sharp.mmo",
+  "size": 549,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_inner_corner_soft.mmo",
+  "size": 559,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_kerb.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_kerb_random_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_kerb_random_02.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_outer_corner_sharp.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_outer_corner_soft_middle_type_01.mmo",
+  "size": 459,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_outer_corner_soft_middle_type_02.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/italy/pavement_outer_corner_soft_side.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_grass.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_grass_bush_shadow.mmo",
+  "size": 224,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_grass_random_01.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_grass_random_02.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_grass_random_03.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_01.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_02.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_2_italian_pavement.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_2_vegas_pavement.mmo",
+  "size": 250,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_corner_01.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_corner_02.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_cross.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_cross_t.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_full.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_one_small_corner.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_one_small_corner_and_straight.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_path_two_small_corners.mmo",
+  "size": 211,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/park/park_stone_corner.mmo",
+  "size": 251,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_bay_01.mmo",
+  "size": 382,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_bay_01_car_collision.mmo",
+  "size": 1001,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_bay_01_car_collision_bottom.mmo",
+  "size": 791,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_bay_01_car_collision_corner.mmo",
+  "size": 1001,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_bay_02.mmo",
+  "size": 382,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_bay_02_car_collision.mmo",
+  "size": 1001,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_bay_02_car_collision_bottom.mmo",
+  "size": 791,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_bay_02_car_collision_corner.mmo",
+  "size": 1001,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_entrance_01.mmo",
+  "size": 791,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_entrance_02.mmo",
+  "size": 1021,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_middle_01.mmo",
+  "size": 382,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_middle_01_car_collision.mmo",
+  "size": 831,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_middle_02.mmo",
+  "size": 382,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/parkinglot/parkinglot_middle_02_car_collision.mmo",
+  "size": 791,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/pier/pier_innercorner.mmo",
+  "size": 1527,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/pier/pier_outercorner.mmo",
+  "size": 1527,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/pier/pier_s_corner.mmo",
+  "size": 2190,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/pier/pier_straight1.mmo",
+  "size": 862,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/pier/pier_straight2.mmo",
+  "size": 862,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/pier/pier_straight3.mmo",
+  "size": 862,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/pier/pier_straight4.mmo",
+  "size": 862,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/asphalt_corner_into.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/asphalt_corner_middle.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/asphalt_cross.mmo",
+  "size": 379,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/asphalt_cross_t.mmo",
+  "size": 379,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/asphalt_pedestrian_crossing.mmo",
+  "size": 379,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/asphalt_stopline_line.mmo",
+  "size": 379,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/asphalt_stopline_no_line.mmo",
+  "size": 379,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/asphalt_straight.mmo",
+  "size": 379,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/asphalt_straight_random_01.mmo",
+  "size": 379,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/asphalt_straight_random_02.mmo",
+  "size": 379,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/freeway_middle.mmo",
+  "size": 214,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/freeway_straight.mmo",
+  "size": 214,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/freeway_straight_random_01.mmo",
+  "size": 214,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/freeway_straight_random_02.mmo",
+  "size": 214,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_2alley.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_alley.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_alley_corner.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_alley_random_01.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_full.mmo",
+  "size": 475,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_full_body.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_full_random_01.mmo",
+  "size": 475,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_grating_01.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_inner_corner_sharp.mmo",
+  "size": 458,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_kerb.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_kerb_body.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_kerb_random_01.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_kerb_random_02.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_outer_corner_sharp.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_outer_corner_soft_middle_type_01.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/poor/pavement_outer_corner_soft_side.mmo",
+  "size": 220,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/red_cross.mmo",
+  "size": 6918,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/river/river_wall_01.mmo",
+  "size": 1895,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/river/river_wall_01_mirror.mmo",
+  "size": 1895,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/river/river_water_01.mmo",
+  "size": 261,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_1_lane2asphalt_2_lanes_t_cross.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_1_lane_corner.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_1_lane_cross.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_1_lane_cross_t.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_1_lane_pedestrian_crossing.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_1_lane_stopline_line.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_1_lane_straight.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_1_lane_straight_random_01.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_corner_into.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_corner_middle.mmo",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_cross.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_cross_t.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_pedestrian_crossing.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_stopline_line.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_stopline_no_line.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_straight.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_straight_grass.mmo",
+  "size": 999,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_straight_grass_end.mmo",
+  "size": 1189,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_straight_grass_end_mirror.mmo",
+  "size": 1189,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_straight_grass_random_01.mmo",
+  "size": 999,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_straight_grass_random_02.mmo",
+  "size": 999,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_straight_random_01.mmo",
+  "size": 600,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/asphalt_2_lanes_straight_random_02.mmo",
+  "size": 380,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_2alley.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_alley.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_alley_corner.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_alley_random_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_full.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_full_random_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_grating_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_inner_corner_sharp.mmo",
+  "size": 559,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_kerb.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_kerb_random_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_kerb_random_02.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_outer_corner_sharp.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_outer_corner_soft_middle_type_01.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/vegas/pavement_outer_corner_soft_side.mmo",
+  "size": 221,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/walkway/walkway.mmo",
+  "size": 11625,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/docks_water_01.mmo",
+  "size": 704,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/docks_water_01_10m.mmo",
+  "size": 704,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/lake_water_01.mmo",
+  "size": 634,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/lake_water_01_corner.mmo",
+  "size": 1089,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/lake_water_01_corner_02.mmo",
+  "size": 1049,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/lake_water_01_corner_03.mmo",
+  "size": 1229,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/lake_water_01_corner_04.mmo",
+  "size": 1109,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_01.mmo",
+  "size": 261,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_n_01.mmo",
+  "size": 642,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_n_grass_01.mmo",
+  "size": 984,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_n_path_01.mmo",
+  "size": 984,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_n_pavement_kerb_01.mmo",
+  "size": 994,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_s_01.mmo",
+  "size": 642,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_s_path_01.mmo",
+  "size": 984,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_s_pavement_kerb_01.mmo",
+  "size": 994,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_w_01.mmo",
+  "size": 642,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_w_path_01.mmo",
+  "size": 984,
+  "flags": 0
+ },
+ {
+  "name": "ground_tiles/water/river_water_w_pavement_kerb_01.mmo",
+  "size": 994,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin.mmc",
+  "size": 498,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin.mmo",
+  "size": 23785,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/baptist/baptist.mmc",
+  "size": 568,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/baptist/baptist.mmo",
+  "size": 27106,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy.mmc",
+  "size": 229,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy.mmo",
+  "size": 11524,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow.mmc",
+  "size": 71,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow.mmo",
+  "size": 2713,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss.mmc",
+  "size": 480,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss.mmo",
+  "size": 24794,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_shadow.mmc",
+  "size": 80,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_shadow.mmo",
+  "size": 3063,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard.mmc",
+  "size": 447,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard.mmo",
+  "size": 23152,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow.mmc",
+  "size": 109,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow.mmo",
+  "size": 3822,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/chinese_boss/chinese_boss.mmc",
+  "size": 568,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/chinese_boss/chinese_boss.mmo",
+  "size": 27518,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/chinese_boss/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/chinese_boss/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss.mmc",
+  "size": 507,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss.mmo",
+  "size": 24767,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss.mmc",
+  "size": 570,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss.mmo",
+  "size": 26577,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss.mmc",
+  "size": 420,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss.mmo",
+  "size": 22130,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss_shadow.mmc",
+  "size": 94,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss_shadow.mmo",
+  "size": 3643,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman.mmc",
+  "size": 463,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman.mmo",
+  "size": 23704,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_shadow.mmc",
+  "size": 94,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_shadow.mmo",
+  "size": 3643,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja.mmc",
+  "size": 285,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja.mmo",
+  "size": 12326,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow.mmc",
+  "size": 109,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow.mmo",
+  "size": 3822,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja_elite/ninja_elite.mmc",
+  "size": 285,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja_elite/ninja_elite.mmo",
+  "size": 12338,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss.mmc",
+  "size": 564,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss.mmo",
+  "size": 29672,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss_shadow.mmc",
+  "size": 94,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss_shadow.mmo",
+  "size": 3643,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss.mmc",
+  "size": 497,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss.mmo",
+  "size": 23865,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicillian_boss/sicillian_boss.mmc",
+  "size": 497,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicillian_boss/sicillian_boss.mmo",
+  "size": 23867,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/statue/statue.mmc",
+  "size": 443,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/statue/statue.mmo",
+  "size": 20949,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer.mmc",
+  "size": 262,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer.mmo",
+  "size": 12905,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow.mmc",
+  "size": 80,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow.mmo",
+  "size": 3063,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo.mmc",
+  "size": 482,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo.mmo",
+  "size": 25219,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shadow.mmc",
+  "size": 109,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shadow.mmo",
+  "size": 3822,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin.mmc",
+  "size": 266,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin.mmo",
+  "size": 13668,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_lod.mmc",
+  "size": 115,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_lod.mmo",
+  "size": 6308,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_shadow.mmc",
+  "size": 100,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_shadow.mmo",
+  "size": 3924,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss.mmc",
+  "size": 501,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss.mmo",
+  "size": 25257,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_shadow.mmc",
+  "size": 89,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_shadow.mmo",
+  "size": 3439,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber.mmc",
+  "size": 307,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber.mmo",
+  "size": 13605,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow.mmc",
+  "size": 89,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow.mmo",
+  "size": 3422,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer.mmc",
+  "size": 388,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer.mmo",
+  "size": 18372,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_lod.mmc",
+  "size": 111,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_lod.mmo",
+  "size": 6268,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow.mmc",
+  "size": 80,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow.mmo",
+  "size": 3063,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy.mmc",
+  "size": 192,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy.mmo",
+  "size": 9962,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_lod.mmc",
+  "size": 99,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_lod.mmo",
+  "size": 6602,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_shadow.mmc",
+  "size": 99,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_shadow.mmo",
+  "size": 3729,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer.mmc",
+  "size": 233,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer.mmo",
+  "size": 11519,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_lod.mmc",
+  "size": 108,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_lod.mmo",
+  "size": 6419,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_shadow.mmc",
+  "size": 90,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_shadow.mmo",
+  "size": 3383,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/collector/collector.mmc",
+  "size": 562,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/collector/collector.mmo",
+  "size": 25603,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier.mmc",
+  "size": 213,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier.mmo",
+  "size": 10827,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_lod.mmc",
+  "size": 111,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_lod.mmo",
+  "size": 6283,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_shadow.mmc",
+  "size": 93,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_shadow.mmo",
+  "size": 3583,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer.mmc",
+  "size": 280,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer.mmo",
+  "size": 12795,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_shadow.mmc",
+  "size": 95,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_shadow.mmo",
+  "size": 3666,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller.mmc",
+  "size": 225,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller.mmo",
+  "size": 10711,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_shadow.mmc",
+  "size": 109,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_shadow.mmo",
+  "size": 3822,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer.mmc",
+  "size": 454,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer.mmo",
+  "size": 23315,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_shadow.mmc",
+  "size": 109,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_shadow.mmo",
+  "size": 3822,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman.mmc",
+  "size": 219,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman.mmo",
+  "size": 11545,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow.mmo",
+  "size": 3384,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl.mmc",
+  "size": 261,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl.mmo",
+  "size": 12595,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_lod.mmc",
+  "size": 124,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_lod.mmo",
+  "size": 7555,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_shadow.mmc",
+  "size": 95,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_shadow.mmo",
+  "size": 3583,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah.mmc",
+  "size": 198,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah.mmo",
+  "size": 9998,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_shadow.mmc",
+  "size": 87,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_shadow.mmo",
+  "size": 3343,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon.mmc",
+  "size": 197,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon.mmo",
+  "size": 10099,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_lod.mmc",
+  "size": 99,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_lod.mmo",
+  "size": 5934,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_shadow.mmc",
+  "size": 76,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_shadow.mmo",
+  "size": 2900,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman.mmc",
+  "size": 253,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman.mmo",
+  "size": 11545,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow.mmc",
+  "size": 109,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow.mmo",
+  "size": 3822,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman.mmc",
+  "size": 201,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman.mmo",
+  "size": 10331,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_lod.mmc",
+  "size": 93,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_lod.mmo",
+  "size": 6764,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow.mmc",
+  "size": 89,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow.mmo",
+  "size": 3424,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0.mmc",
+  "size": 473,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0.mmo",
+  "size": 22241,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/herol_0_shadow.mmc",
+  "size": 82,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/herol_0_shadow.mmo",
+  "size": 3143,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1.mmc",
+  "size": 469,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1.mmo",
+  "size": 22481,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/herol_1_shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/herol_1_shadow.mmo",
+  "size": 3383,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2.mmc",
+  "size": 509,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2.mmo",
+  "size": 24341,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/herol_2_shadow.mmc",
+  "size": 98,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/herol_2_shadow.mmo",
+  "size": 3783,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator.mmc",
+  "size": 245,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator.mmo",
+  "size": 11362,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_lod.mmc",
+  "size": 114,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_lod.mmo",
+  "size": 6203,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow.mmc",
+  "size": 89,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow.mmo",
+  "size": 3419,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer.mmc",
+  "size": 381,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer.mmo",
+  "size": 19627,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_lod.mmc",
+  "size": 144,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_lod.mmo",
+  "size": 8747,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_shadow.mmc",
+  "size": 90,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_shadow.mmo",
+  "size": 3422,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark.mmc",
+  "size": 198,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark.mmo",
+  "size": 10004,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_shadow.mmc",
+  "size": 87,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_shadow.mmo",
+  "size": 3343,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse.mmc",
+  "size": 217,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse.mmo",
+  "size": 10908,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse_shadow.mmc",
+  "size": 89,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse_shadow.mmo",
+  "size": 3439,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest.mmc",
+  "size": 256,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest.mmo",
+  "size": 12145,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_shadow.mmc",
+  "size": 92,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_shadow.mmo",
+  "size": 3542,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno.mmc",
+  "size": 456,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno.mmo",
+  "size": 22708,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romano.mmc",
+  "size": 458,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romano.mmo",
+  "size": 22707,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress.mmc",
+  "size": 412,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress.mmo",
+  "size": 19131,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_lod.mmc",
+  "size": 514,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_lod.mmo",
+  "size": 12027,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow.mmc",
+  "size": 85,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow.mmo",
+  "size": 3263,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper.mmc",
+  "size": 250,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper.mmo",
+  "size": 13827,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_lod.mmc",
+  "size": 128,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_lod.mmo",
+  "size": 7947,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow.mmc",
+  "size": 90,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow.mmo",
+  "size": 3444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow.mmc",
+  "size": 88,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow.mmo",
+  "size": 3389,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny.mmc",
+  "size": 480,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny.mmo",
+  "size": 24523,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse.mmc",
+  "size": 234,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse.mmo",
+  "size": 11570,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse_shadow.mmc",
+  "size": 90,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse_shadow.mmo",
+  "size": 3471,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_interlectual/spouse_interlectual.mmc",
+  "size": 619,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_interlectual/spouse_interlectual.mmo",
+  "size": 29089,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_seductor/spouse_seductor.mmc",
+  "size": 554,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_seductor/spouse_seductor.mmo",
+  "size": 25761,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_sporty/spouse_sporty.mmc",
+  "size": 596,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_sporty/spouse_sporty.mmo",
+  "size": 28139,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager.mmc",
+  "size": 226,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager.mmo",
+  "size": 10976,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow.mmc",
+  "size": 93,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow.mmo",
+  "size": 3589,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl.mmc",
+  "size": 263,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl.mmo",
+  "size": 12849,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow.mmc",
+  "size": 95,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow.mmo",
+  "size": 3666,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief.mmc",
+  "size": 251,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief.mmo",
+  "size": 12902,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_lod.mmc",
+  "size": 132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_lod.mmo",
+  "size": 7292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow.mmc",
+  "size": 94,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow.mmo",
+  "size": 3621,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/banner/italian_flag_15m.mmo",
+  "size": 5728,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/banner/italian_flag_5m.mmo",
+  "size": 2605,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_closed_00.mmo",
+  "size": 2752,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_closed_01.mmo",
+  "size": 2745,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_closed_02.mmo",
+  "size": 2745,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_closed_03.mmo",
+  "size": 2745,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_damaged_00.mmo",
+  "size": 5105,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_damaged_01.mmo",
+  "size": 5105,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_damaged_02.mmo",
+  "size": 5105,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_damaged_horizontal_00.mmo",
+  "size": 5105,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_damaged_horizontal_01.mmo",
+  "size": 5105,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_damaged_horizontal_02.mmo",
+  "size": 5105,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_new_blue.mmo",
+  "size": 2753,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_new_green.mmo",
+  "size": 2754,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barrels/barrel_new_red.mmo",
+  "size": 2752,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barsketball_basket/barsketball_basket_01.mmo",
+  "size": 7131,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/barsketball_basket/barsketball_basket_02.mmo",
+  "size": 7851,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/bench/bench.mmo",
+  "size": 12844,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/bench/broken_bench.mmo",
+  "size": 17484,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/bench/parkbench.mmo",
+  "size": 12412,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/buk/buk.mmo",
+  "size": 4078,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/busstop_shelter/busstop_shelter.mmo",
+  "size": 14209,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/busstop_shelter/busstop_shelter_broken.mmo",
+  "size": 15729,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/car_wrecks/car_wreck_01.mmo",
+  "size": 18852,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/car_wrecks/car_wreck_02.mmo",
+  "size": 27192,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cardboard_box/cardboard_box_00.mmo",
+  "size": 1321,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/carpet/carpet_25.mmo",
+  "size": 227,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/carpet/carpet_5.mmo",
+  "size": 327,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cars_parked/chrysler.mmo",
+  "size": 19672,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cars_parked/humvee.mmo",
+  "size": 21046,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cars_parked/policecruiser.mmo",
+  "size": 23447,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cars_parked/towncar.mmo",
+  "size": 22649,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cars_parked/truck_01.mmo",
+  "size": 22195,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cars_parked/viper.mmo",
+  "size": 30167,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cars_parked/yellowcab.mmo",
+  "size": 23255,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/column/column.mmo",
+  "size": 9935,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/column/column_l_wall.mmo",
+  "size": 33588,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/column/column_round_corner_wall.mmo",
+  "size": 38548,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/column/column_round_inverse_corner_wall.mmo",
+  "size": 40488,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/column/column_streight_wall.mmo",
+  "size": 21968,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/column/column_streight_wall_small.mmo",
+  "size": 1795,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/combi/small_object_combi_00.mmo",
+  "size": 10250,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/combi/small_object_combi_01.mmo",
+  "size": 10868,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/combi/small_object_combi_02.mmo",
+  "size": 10868,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/combi/small_object_combi_03.mmo",
+  "size": 10979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_01.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_01_air_2_5.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_01_air_5_0.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_02.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_02_air_2_5.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_02_air_5_0.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_03.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_03_air_2_5.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_03_air_5_0.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_04.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_04_air_2_5.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_04_air_5_0.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_05.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_05_air_2_5.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_05_air_5_0.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_06.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_06_air_2_5.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_06_air_5_0.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_07.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_07_air_2_5.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_07_air_5_0.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_08.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_08_air_2_5.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_long_08_air_5_0.mmo",
+  "size": 4629,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_01.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_01_air_2_5.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_01_air_5_0.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_02.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_02_air_2_5.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_02_air_5_0.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_03.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_03_air_2_5.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_03_air_5_0.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_04.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_04_air_2_5.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_04_air_5_0.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_05.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_05_air_2_5.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_05_air_5_0.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_06.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_06_air_2_5.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_06_air_5_0.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_07.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_07_air_2_5.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_07_air_5_0.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_08.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_08_air_2_5.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/containers/container_short_08_air_5_0.mmo",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/big_container_crane.mmo",
+  "size": 94012,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/rotating_crane.mmo",
+  "size": 115897,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/rotating_crane_cargo1.mmo",
+  "size": 3250,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/rotating_crane_cargo2.mmo",
+  "size": 11200,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/rotating_crane_cargo3.mmo",
+  "size": 8110,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/rotating_crane_cargo4.mmo",
+  "size": 12235,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/rotating_crane_cargo5.mmo",
+  "size": 5410,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/rotating_crane_cargo6.mmo",
+  "size": 9380,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/small_container_crane.mmo",
+  "size": 96997,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/small_container_crane_cargo1.mmo",
+  "size": 1778,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/small_container_crane_cargo2.mmo",
+  "size": 1778,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/small_container_crane_cargo3.mmo",
+  "size": 1778,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/cranes/small_container_crane_cargo4.mmo",
+  "size": 1778,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/elephant/elephant.mmo",
+  "size": 26694,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/elephant/elephant_pond.mmo",
+  "size": 24663,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence.mmo",
+  "size": 9558,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence_l.mmo",
+  "size": 19103,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence_parallel.mmo",
+  "size": 18738,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence_wire.mmo",
+  "size": 2616,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence_wire_closed_gate.mmo",
+  "size": 7056,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence_wire_damaged.mmo",
+  "size": 5520,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence_wire_l.mmo",
+  "size": 4396,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence_wire_open_gate.mmo",
+  "size": 7256,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence_wood.mmo",
+  "size": 2610,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence_wood_half.mmo",
+  "size": 2110,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fence/fence_wood_l.mmo",
+  "size": 4570,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/firehydrant/firehydrant.mmo",
+  "size": 5607,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flat_rubbish/leaves_01.mmo",
+  "size": 233,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flat_rubbish/leaves_02.mmo",
+  "size": 236,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flat_rubbish/leaves_corner_02.mmo",
+  "size": 243,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flat_rubbish/newspaper_01.mmo",
+  "size": 236,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flat_rubbish/newspaper_02.mmo",
+  "size": 238,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flat_rubbish/rubbish_01.mmo",
+  "size": 236,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flat_rubbish/rubbish_02.mmo",
+  "size": 236,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flower_box/flower_box_01.mmo",
+  "size": 36681,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flower_box/flower_box_02.mmo",
+  "size": 35631,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flower_box/flower_box_03.mmo",
+  "size": 25064,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/flower_box/flower_box_04.mmo",
+  "size": 26881,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fountains/fountain_01.mmo",
+  "size": 18805,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/fountains/fountain_02.mmo",
+  "size": 19820,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/freeway_centreblock/freeway_centreblock.mmo",
+  "size": 3062,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/garbage_bin/dumpster_01.mmo",
+  "size": 5537,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/garbage_bin/dumpster_02.mmo",
+  "size": 4777,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/garbage_bin/garbage_bin_01.mmo",
+  "size": 5036,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/garbage_bin/garbage_bin_02.mmo",
+  "size": 13876,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/garbage_bin/garbage_bin_03.mmo",
+  "size": 18496,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/garbage_bin/garbage_bin_04.mmo",
+  "size": 14956,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/garbage_bin/garbage_vegas_01.mmo",
+  "size": 2657,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/garbage_bin/skip_01.mmo",
+  "size": 8022,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/girders/girder_pile_00.mmo",
+  "size": 8287,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/girders/girder_rubbish_pile_00.mmo",
+  "size": 11769,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/girders/girder_wall_00.mmo",
+  "size": 8963,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/grass/grass_clump.mmo",
+  "size": 3564,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/grass/grass_corner.mmo",
+  "size": 1384,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/grass/grass_wall.mmo",
+  "size": 2644,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/hotdog_stand/hotdog_stand.mmo",
+  "size": 23275,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/hub/hub.mmo",
+  "size": 4657,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/hub/hub_against_wall.mmo",
+  "size": 4657,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/hub/hub_upright.mmo",
+  "size": 4657,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/italian_flag/italian_flag.mmo",
+  "size": 5630,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/laundry/laundry_01.mmo",
+  "size": 1650,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/laundry/laundry_02.mmo",
+  "size": 1650,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/laundry/laundry_03.mmo",
+  "size": 1650,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/lightpost/lightpost_docks.mmo",
+  "size": 4633,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/lightpost/lightpost_little_italy.mmo",
+  "size": 17632,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/lightpost/lightpost_poor.mmo",
+  "size": 7091,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/lightpost/lightpost_vegas.mmo",
+  "size": 11586,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/lion/lion.mmo",
+  "size": 17635,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/mailbox/mailbox.mmo",
+  "size": 4666,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/neon/neon_fireworks.mmo",
+  "size": 5742,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/neon/neon_palmtrees.mmo",
+  "size": 9972,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/newspaper_stand/newspaper_stand.mmo",
+  "size": 24165,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_01.mmo",
+  "size": 2619,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_01_air_1_5.mmo",
+  "size": 2619,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_01_air_2_5.mmo",
+  "size": 2619,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_01_air_3_5.mmo",
+  "size": 2619,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_02.mmo",
+  "size": 10569,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_02_air_1_5.mmo",
+  "size": 10569,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_02_air_2_5.mmo",
+  "size": 10569,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_02_air_3_5.mmo",
+  "size": 10569,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_03.mmo",
+  "size": 11604,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_03_air_1_5.mmo",
+  "size": 11604,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_03_air_2_5.mmo",
+  "size": 11604,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_03_air_3_5.mmo",
+  "size": 11604,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_04.mmo",
+  "size": 7479,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_04_air_1_5.mmo",
+  "size": 7479,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_04_air_2_5.mmo",
+  "size": 7479,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_04_air_3_5.mmo",
+  "size": 7479,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_05.mmo",
+  "size": 4779,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_05_air_1_5.mmo",
+  "size": 4779,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_05_air_2_5.mmo",
+  "size": 4779,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_05_air_3_5.mmo",
+  "size": 4779,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_06.mmo",
+  "size": 8749,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_06_air_1_5.mmo",
+  "size": 8749,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_06_air_2_5.mmo",
+  "size": 8749,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pallet/pallet_06_air_3_5.mmo",
+  "size": 8749,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/park_entrance/park_entrance.mmo",
+  "size": 42533,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/parkometer/parkometer.mmo",
+  "size": 3283,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/phonebooth/phonebooth.mmo",
+  "size": 12466,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pier_accessories/pieraccessory_hangingtire.mmo",
+  "size": 4799,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pier_accessories/pieraccessory_ladder.mmo",
+  "size": 4539,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pier_accessories/pieraccessory_rope.mmo",
+  "size": 2419,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pier_accessories/pieraccessory_towblock.mmo",
+  "size": 1759,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/pier_accessories/pieraccessory_wallpipe.mmo",
+  "size": 3289,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/planks/planks_ground_messy.mmo",
+  "size": 5604,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/planks/planks_wall.mmo",
+  "size": 8398,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_04_375m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_05_0m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_05_625m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_06_25m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_06_875m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_07_5m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_08_125m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_08_75m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_09_375m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_10_0m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_10_625m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_11_25m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_11_875m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_12_5m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_13_125m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_13_75m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_14_375m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_15_0m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_15_625m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_16_25m.mmo",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_16_875m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_17_5m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_18_125m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_18_75m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_19_375m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_20_0m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_20_625m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_21_25m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_21_875m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_22_5m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_23_125m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_23_75m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_24_375m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_25_0m.mmo",
+  "size": 1979,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_04_375m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_05_0m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_05_625m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_06_25m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_06_875m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_07_5m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_08_125m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_08_75m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_09_375m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_10_0m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_10_625m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_11_25m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_11_875m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_12_5m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_13_125m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_13_75m.mmo",
+  "size": 6516,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_14_375m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_15_0m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_15_625m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_16_25m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_16_875m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_17_5m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_18_125m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_18_75m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_19_375m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_20_0m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_20_625m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_21_25m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_21_875m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_22_5m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_23_125m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_23_75m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_24_375m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_end_25_0m.mmo",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_wall_2_wall_10m.mmo",
+  "size": 11316,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_wall_2_wall_15m.mmo",
+  "size": 11716,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_wall_2_wall_20m.mmo",
+  "size": 11716,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerlines/powerlines_wall_2_wall_25m.mmo",
+  "size": 11716,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerpoles/powerpole_1.mmo",
+  "size": 5709,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/powerpoles/powerpole_1_cross.mmo",
+  "size": 10229,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/rubbish/rubbish_corner.mmo",
+  "size": 4606,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/rubbish/rubbish_wall.mmo",
+  "size": 5504,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/search_light/light_cone.mmo",
+  "size": 2863,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/search_light/search_light.mmo",
+  "size": 8144,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/ship/containership1.mmo",
+  "size": 76463,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/ship/containership2.mmo",
+  "size": 133846,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/ship/containership3.mmo",
+  "size": 153643,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/small_round_container/small_can_00.mmo",
+  "size": 1784,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/small_round_container/small_can_01.mmo",
+  "size": 1784,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/small_round_container/small_can_02.mmo",
+  "size": 2784,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/small_round_container/small_can_03.mmo",
+  "size": 2784,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/small_round_container/small_round_containers_00.mmo",
+  "size": 8251,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/small_round_container/small_round_containers_01.mmo",
+  "size": 8251,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/small_round_container/small_round_containers_02.mmo",
+  "size": 3051,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/statue/statue.mmo",
+  "size": 63944,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/statue/statue_02.mmo",
+  "size": 17907,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/statue/statue_03.mmo",
+  "size": 17907,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/statue/statue_04.mmo",
+  "size": 33554,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/subway/subway.mmo",
+  "size": 31405,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/subway/subway_glass.mmo",
+  "size": 44958,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/subway/subway_small.mmo",
+  "size": 37662,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/subway/subway_small_poor.mmo",
+  "size": 31887,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/subway/subway_small_vegas.mmo",
+  "size": 37088,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficlight/trafficlight.mmo",
+  "size": 7990,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficlight/trafficlight_straight.mmo",
+  "size": 5590,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_deaddend.mmo",
+  "size": 1854,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_docks.mmo",
+  "size": 6666,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_maximumspeed50.mmo",
+  "size": 1868,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_noparking.mmo",
+  "size": 1858,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_noparking_thissideofthestreet.mmo",
+  "size": 1895,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_oneway.mmo",
+  "size": 1852,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_pedestrian_crossing.mmo",
+  "size": 1878,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_pole.mmo",
+  "size": 1854,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_speedlimit25.mmo",
+  "size": 1864,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_stop.mmo",
+  "size": 2328,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_suburbs.mmo",
+  "size": 6668,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trafficsigns/trafficsign_turn.mmo",
+  "size": 1848,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/train_stopper/train_stopper_01.mmo",
+  "size": 8237,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/train_wagon/train_wagon_01.mmo",
+  "size": 19076,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/train_wagon/train_wagon_02.mmo",
+  "size": 27872,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/bush_01.mmo",
+  "size": 5020,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/bush_02.mmo",
+  "size": 5020,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/bush_03.mmo",
+  "size": 5020,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/dead_tree_01.mmo",
+  "size": 34463,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/oak_tree_01.mmo",
+  "size": 9048,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/oak_tree_02.mmo",
+  "size": 8016,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/palm_tree01.mmo",
+  "size": 10284,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/palm_tree02.mmo",
+  "size": 12664,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/palm_tree03.mmo",
+  "size": 10944,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/palm_tree04.mmo",
+  "size": 12664,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/park_tree_01.mmo",
+  "size": 12733,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/pine_tree_01.mmo",
+  "size": 6534,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/pine_tree_01_cut_down.mmo",
+  "size": 4534,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/pine_tree_02.mmo",
+  "size": 11719,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/pine_tree_03.mmo",
+  "size": 6189,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/pine_tree_04.mmo",
+  "size": 7723,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/pine_tree_05.mmo",
+  "size": 8073,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/street_tree_01.mmo",
+  "size": 13213,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/trees/street_tree_dead_01.mmo",
+  "size": 34187,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/tyres/tyre_flat_00.mmo",
+  "size": 4800,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/tyres/tyre_pile_00.mmo",
+  "size": 10000,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/tyres/tyre_pile_01.mmo",
+  "size": 14000,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/tyres/tyre_pile_02.mmo",
+  "size": 8800,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/tyres/tyre_wall_00.mmo",
+  "size": 4800,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_bridge_water.mmo",
+  "size": 3379,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_corner_l_02_water.mmo",
+  "size": 3869,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_corner_l_standalone.mmo",
+  "size": 4749,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_corner_l_water.mmo",
+  "size": 3849,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_corner_zigzag_02_water.mmo",
+  "size": 9296,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_corner_zigzag_standalone.mmo",
+  "size": 11529,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_corner_zigzag_water.mmo",
+  "size": 11056,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_round_corner_02_water.mmo",
+  "size": 10046,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_round_corner_standalone.mmo",
+  "size": 12749,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_round_corner_water.mmo",
+  "size": 9986,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_standalone.mmo",
+  "size": 3429,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/wall/wall_water.mmo",
+  "size": 2829,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/water_plants/bull_rush.mmo",
+  "size": 3406,
+  "flags": 0
+ },
+ {
+  "name": "street_accessories/water_plants/water_lilly.mmo",
+  "size": 917,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow.mmc",
+  "size": 236,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow.mmo",
+  "size": 11330,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_lod.mmc",
+  "size": 196,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_lod.mmo",
+  "size": 9529,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow.mmc",
+  "size": 87,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow.mmo",
+  "size": 3325,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/guardian/guardian.mmc",
+  "size": 225,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/guardian/guardian.mmo",
+  "size": 11143,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/light_combat_unit/light_combat.mmc",
+  "size": 236,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/light_combat_unit/light_combat.mmo",
+  "size": 11337,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/light_combat_unit/light_combat_lod.mmc",
+  "size": 196,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/light_combat_unit/light_combat_lod.mmo",
+  "size": 9529,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/light_combat_unit/light_combat_shadow.mmc",
+  "size": 87,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/light_combat_unit/light_combat_shadow.mmo",
+  "size": 3396,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/master_of_deception/master_of_deception.mmc",
+  "size": 296,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/master_of_deception/master_of_deception.mmo",
+  "size": 13203,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/poker_dealer/poker_dealer.mmc",
+  "size": 236,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/poker_dealer/poker_dealer.mmo",
+  "size": 11332,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shaolin_monk/heavy_combat_unit.mmc",
+  "size": 223,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shaolin_monk/heavy_combat_unit.mmo",
+  "size": 11422,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog.mmc",
+  "size": 160,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog.mmo",
+  "size": 7586,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/store_manager/store_manager.mmc",
+  "size": 293,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/store_manager/store_manager.mmo",
+  "size": 13317,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer.mmc",
+  "size": 260,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer.mmo",
+  "size": 12422,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_lod.mmc",
+  "size": 110,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_lod.mmo",
+  "size": 6112,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow.mmc",
+  "size": 74,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow.mmo",
+  "size": 2823,
+  "flags": 0
+ },
+ {
+  "name": "vehicles/chrysler.mmo",
+  "size": 77156,
+  "flags": 0
+ },
+ {
+  "name": "vehicles/humvee.mmo",
+  "size": 76604,
+  "flags": 0
+ },
+ {
+  "name": "vehicles/mini.mmo",
+  "size": 72239,
+  "flags": 0
+ },
+ {
+  "name": "vehicles/policecruiser.mmo",
+  "size": 85819,
+  "flags": 0
+ },
+ {
+  "name": "vehicles/tank.mmo",
+  "size": 15682,
+  "flags": 0
+ },
+ {
+  "name": "vehicles/towncar.mmo",
+  "size": 146731,
+  "flags": 0
+ },
+ {
+  "name": "vehicles/truck_01.mmo",
+  "size": 115718,
+  "flags": 0
+ },
+ {
+  "name": "vehicles/viper.mmo",
+  "size": 96099,
+  "flags": 0
+ },
+ {
+  "name": "vehicles/yellowcab.mmo",
+  "size": 81526,
+  "flags": 0
+ }
+]

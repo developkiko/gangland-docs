@@ -2,401 +2,401 @@
  {
   "name": "characters.ini",
   "size": 5533,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/civilian_female/character.ini",
   "size": 1550,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/civilian_male/character.ini",
   "size": 1518,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/construction_worker/character.ini",
   "size": 908,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/cop/character.ini",
   "size": 1195,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/fbi_agent/character.ini",
   "size": 1040,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/heavy_store_manager/character.ini",
   "size": 2184,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/hoodlum/character.ini",
   "size": 947,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/hoodlum_leader/character.ini",
   "size": 1142,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/mayor/character.ini",
   "size": 625,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/newspaper_boy/character.ini",
   "size": 1140,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/receptionist/character.ini",
   "size": 2086,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/security_guard/character.ini",
   "size": 1586,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/security_guard_02/character.ini",
   "size": 1096,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/store_manager_italian/character.ini",
   "size": 2048,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/street_cop/character.ini",
   "size": 2940,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/street_cop_02/character.ini",
   "size": 1081,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/baptist/character.ini",
   "size": 1279,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/bazooka_guy/character.ini",
   "size": 2778,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/black_boss/character.ini",
   "size": 2358,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/bodyguard/character.ini",
   "size": 4291,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/chinese_boss/character.ini",
   "size": 2412,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/columbian_boss/character.ini",
   "size": 2579,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/fake_cop/character.ini",
   "size": 2928,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/japanese_boss/character.ini",
   "size": 2603,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/jewish_boss/character.ini",
   "size": 2291,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/jewish_businessman/character.ini",
   "size": 1833,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/russian_boss/character.ini",
   "size": 2333,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/sicilian_boss/character.ini",
   "size": 3426,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international_connections/super_bouncer/character.ini",
   "size": 2362,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/angelo/character.ini",
   "size": 9489,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/assasin/character.ini",
   "size": 2882,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/big_boss/character.ini",
   "size": 1474,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/bomber/character.ini",
   "size": 2527,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/bouncer/character.ini",
   "size": 2464,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/boy/character.ini",
   "size": 785,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/boy_enforcer/character.ini",
   "size": 938,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/collector/character.ini",
   "size": 1305,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/croupier/character.ini",
   "size": 1416,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/dancer/character.ini",
   "size": 1098,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/distiller/character.ini",
   "size": 1359,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/family_henchman/character.ini",
   "size": 4332,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/girl/character.ini",
   "size": 809,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/goombah/character.ini",
   "size": 1093,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/goon/character.ini",
   "size": 1166,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/gunman/character.ini",
   "size": 4191,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/henchman/character.ini",
   "size": 4498,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/hero_0/character.ini",
   "size": 10486,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/hero_1/character.ini",
   "size": 10977,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/hero_2/character.ini",
   "size": 10944,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/infiltrator/character.ini",
   "size": 1915,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/lawyer/character.ini",
   "size": 1586,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/loanshark/character.ini",
   "size": 1561,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/male_spouse/character.ini",
   "size": 713,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/priest/character.ini",
   "size": 1486,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/prostitute/character.ini",
   "size": 1117,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/romanno/character.ini",
   "size": 9653,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/seductress/character.ini",
   "size": 1706,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/sniper/character.ini",
   "size": 2567,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/sonny/character.ini",
   "size": 10226,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/spouse/character.ini",
   "size": 817,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/spouse_interlectual/character.ini",
   "size": 1127,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/spouse_seductor/character.ini",
   "size": 1097,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/spouse_sporty/character.ini",
   "size": 1069,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/store_manager/character.ini",
   "size": 2640,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/street_girl/character.ini",
   "size": 2538,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "italian/thief/character.ini",
   "size": 2203,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/big_guy/character.ini",
   "size": 1058,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/black_widow/character.ini",
   "size": 2668,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/female_combat/character.ini",
   "size": 1172,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/guardian/character.ini",
   "size": 1077,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/healer/character.ini",
   "size": 1039,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/ninja/character.ini",
   "size": 1555,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/ninja_elite/character.ini",
   "size": 2073,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/shar_pei_war_dog/character.ini",
   "size": 972,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/store_manager/character.ini",
   "size": 967,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/war_dog_trainer/character.ini",
   "size": 1553,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "triad/wizard/character.ini",
   "size": 967,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "upgrades.ini",
   "size": 3612,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "weapons.ini",
   "size": 7593,
-  "flag": 1
+  "flags": 1
  }
 ]

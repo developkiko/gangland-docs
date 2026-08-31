@@ -1,0 +1,8257 @@
+[
+ {
+  "name": "general/characters/civilian_female/civilian_female_dance.vta",
+  "size": 51412,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_die.vta",
+  "size": 37132,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_huddle_down.vta",
+  "size": 8572,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_huddle_loop.vta",
+  "size": 12856,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_huddle_up.vta",
+  "size": 8572,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_idle.vta",
+  "size": 32848,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_idle_newspaper.vta",
+  "size": 12856,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_run.vta",
+  "size": 19996,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow_die.vta",
+  "size": 13204,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow_huddle_down.vta",
+  "size": 2644,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow_huddle_loop.vta",
+  "size": 5284,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow_huddle_up.vta",
+  "size": 2644,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow_idle.vta",
+  "size": 11620,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow_idle_newspaper.vta",
+  "size": 4756,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow_run.vta",
+  "size": 7396,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow_walk.vta",
+  "size": 6340,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_shadow_window.vta",
+  "size": 10036,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_walk.vta",
+  "size": 17140,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_female/civilian_female_window.vta",
+  "size": 29992,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_dance.vta",
+  "size": 49066,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_die.vta",
+  "size": 37132,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_huddle_down.vta",
+  "size": 9286,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_huddle_loop.vta",
+  "size": 7960,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_huddle_up.vta",
+  "size": 9286,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_idle.vta",
+  "size": 29176,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_idle_newspaper.vta",
+  "size": 27850,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_run.vta",
+  "size": 19894,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow_die.vta",
+  "size": 14098,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow_huddle_down.vta",
+  "size": 3658,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow_huddle_loop.vta",
+  "size": 3136,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow_huddle_up.vta",
+  "size": 3658,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow_idle.vta",
+  "size": 10966,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow_idle_newspaper.vta",
+  "size": 10444,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow_run.vta",
+  "size": 7834,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow_walk.vta",
+  "size": 5224,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_shadow_window.vta",
+  "size": 14098,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_walk.vta",
+  "size": 13264,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/civilian_male/civilian_male_window.vta",
+  "size": 37132,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_die.vta",
+  "size": 35956,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_idle.vta",
+  "size": 24400,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_run.vta",
+  "size": 19264,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_shadow_die.vta",
+  "size": 15490,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_shadow_idle.vta",
+  "size": 10150,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_shadow_run.vta",
+  "size": 8014,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_shadow_walk.vta",
+  "size": 6412,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_shadow_work.vta",
+  "size": 4810,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_walk.vta",
+  "size": 15412,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/construction_worker/construction_worker_work.vta",
+  "size": 12844,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_die.vta",
+  "size": 70312,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_idle.vta",
+  "size": 124996,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_reload.vta",
+  "size": 36460,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_run.vta",
+  "size": 28648,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_shadow_die.vta",
+  "size": 12754,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_shadow_idle.vta",
+  "size": 9694,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_shadow_reload.vta",
+  "size": 7654,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_shadow_run.vta",
+  "size": 6634,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_shadow_shoot.vta",
+  "size": 3064,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_shadow_walk.vta",
+  "size": 11734,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_shoot.vta",
+  "size": 15628,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/cop/cop_walk.vta",
+  "size": 93748,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_attack.vta",
+  "size": 16852,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_die.vta",
+  "size": 46336,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_idle.vta",
+  "size": 46336,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_reload.vta",
+  "size": 36508,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_run.vta",
+  "size": 21064,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_shadow_attack.vta",
+  "size": 5746,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_shadow_die.vta",
+  "size": 15664,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_shadow_idle.vta",
+  "size": 17230,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_shadow_reload.vta",
+  "size": 13054,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_shadow_run.vta",
+  "size": 7834,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_shadow_walk.vta",
+  "size": 5224,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/fbi_agent/fbi_agent_walk.vta",
+  "size": 14044,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager_die_knockout.vta",
+  "size": 198994,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager_heal.vta",
+  "size": 50494,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager_idle_fat_ass.vta",
+  "size": 62374,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager_run.vta",
+  "size": 44554,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager_sitting_die.vta",
+  "size": 62374,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager_sitting_heal.vta",
+  "size": 50494,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager_sitting_idle.vta",
+  "size": 53464,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager_walk.vta",
+  "size": 41584,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/heavy_store_manager_work.vta",
+  "size": 112864,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/shadow_die_knockout.vta",
+  "size": 25288,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/shadow_run.vta",
+  "size": 6712,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/heavy_store_manager/shadow_walk.vta",
+  "size": 6712,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_attack.vta",
+  "size": 8194,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_die.vta",
+  "size": 31594,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_idle.vta",
+  "size": 25744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_reload.vta",
+  "size": 23404,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_run.vta",
+  "size": 17554,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_shadow_attack.vta",
+  "size": 2794,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_shadow_die.vta",
+  "size": 15070,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_shadow_idle.vta",
+  "size": 12280,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_shadow_reload.vta",
+  "size": 10048,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_shadow_run.vta",
+  "size": 8374,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_shadow_walk.vta",
+  "size": 5584,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum/hoodlum_walk.vta",
+  "size": 12874,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_attack.vta",
+  "size": 13744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_die.vta",
+  "size": 39850,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_idle.vta",
+  "size": 71452,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_reload.vta",
+  "size": 24736,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_run.vta",
+  "size": 20614,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_shadow_attack.vta",
+  "size": 5824,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_shadow_die.vta",
+  "size": 15136,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_shadow_idle.vta",
+  "size": 29104,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_shadow_reload.vta",
+  "size": 10480,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_shadow_run.vta",
+  "size": 8734,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_shadow_walk.vta",
+  "size": 5824,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/hoodlum_leader/hoodlum_leader_walk.vta",
+  "size": 13744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor_die.vta",
+  "size": 42028,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor_idle.vta",
+  "size": 30904,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor_run.vta",
+  "size": 18544,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor_shadow_die.vta",
+  "size": 15664,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor_shadow_idle.vta",
+  "size": 10966,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor_shadow_run.vta",
+  "size": 7834,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor_shadow_walk.vta",
+  "size": 5224,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/mayor/mayor_walk.vta",
+  "size": 12364,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_die.vta",
+  "size": 45196,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_idle.vta",
+  "size": 37126,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_run.vta",
+  "size": 22600,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_sell_newspaper.vta",
+  "size": 30670,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_shadow_die.vta",
+  "size": 15604,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_shadow_idle.vta",
+  "size": 14980,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_shadow_run.vta",
+  "size": 8740,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_shadow_sell_newspaper.vta",
+  "size": 11860,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_shadow_walk.vta",
+  "size": 7492,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_snitch.vta",
+  "size": 14530,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_snitch_shadow.vta",
+  "size": 5620,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/newspaper_boy/newspaper_boy_walk.vta",
+  "size": 20986,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist_die_colapse.vta",
+  "size": 75076,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist_heal.vta",
+  "size": 48964,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist_idle_generic.vta",
+  "size": 16324,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist_run.vta",
+  "size": 42436,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist_sitting_die.vta",
+  "size": 62020,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist_sitting_heal.vta",
+  "size": 42436,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist_sitting_idle.vta",
+  "size": 48964,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist_walk.vta",
+  "size": 42436,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/receptionist/receptionist_work_in_shop.vta",
+  "size": 84868,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/security_guard/security_guard_die_knockout.vta",
+  "size": 136804,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/security_guard/security_guard_hit_with_batton.vta",
+  "size": 54724,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/security_guard/security_guard_idle_2.vta",
+  "size": 24628,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/security_guard/security_guard_reload_handgun.vta",
+  "size": 46516,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/security_guard/security_guard_run.vta",
+  "size": 32836,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/security_guard/security_guard_shoot_handgun.vta",
+  "size": 8212,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/security_guard/security_guard_walk.vta",
+  "size": 35572,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/columbian_boss_idle_wait.vta",
+  "size": 36364,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/russian_boss_die_colapse.vta",
+  "size": 77560,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/russian_boss_idle_wait.vta",
+  "size": 30352,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_assasin_attack.vta",
+  "size": 10324,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_assasin_reload.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_assasin_reload_sitting.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_assasin_sitting_attack.vta",
+  "size": 10324,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_die.vta",
+  "size": 25288,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_die_backwards.vta",
+  "size": 23740,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_die_colapse.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_die_die_sitting.vta",
+  "size": 9808,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_die_fist.vta",
+  "size": 13420,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_die_knockout.vta",
+  "size": 25288,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_die_knockout_backwards.vta",
+  "size": 25288,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_die_shot_forwards.vta",
+  "size": 23224,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_die_sitting.vta",
+  "size": 9808,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_female_die_collapse.vta",
+  "size": 10564,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_female_die_knockout.vta",
+  "size": 22180,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_female_idle.vta",
+  "size": 7396,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_female_run.vta",
+  "size": 5812,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_female_walk.vta",
+  "size": 6868,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_fist.vta",
+  "size": 10324,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_heal.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_heal_cower.vta",
+  "size": 11872,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_heal_sitting.vta",
+  "size": 7228,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_hit_with_batton.vta",
+  "size": 10324,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle1.vta",
+  "size": 3616,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle2.vta",
+  "size": 62440,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle_deteriorated.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle_deteriorated_sitting.vta",
+  "size": 2584,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle_fat_ass.vta",
+  "size": 9808,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle_feminie.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle_generic.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle_long.vta",
+  "size": 66052,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle_sitting.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle_sitting_deteriorated.vta",
+  "size": 2584,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle_wait.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_idle`_deteriorated.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_in_office.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_money_walk.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_punch_one_two.vta",
+  "size": 13420,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_acid_spray.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_deteriorated.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_granade.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_granade_under_arm.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_granade_under_arm_sitting.vta",
+  "size": 6196,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_granade_under_arm_sitting_1.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_grenade.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_grenade_crouched.vta",
+  "size": 5680,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_grenade_roll.vta",
+  "size": 5680,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_handgun.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_handgun_deteriorated.vta",
+  "size": 7228,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_handgun_deteriorated_sitting.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_handgun_sitting_deteriorated.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_handguns.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_handguns_sitting.vta",
+  "size": 6712,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_one_handgun_sitting.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_shotgun.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_shotgun_sitting.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_sniper_rifle.vta",
+  "size": 12388,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_sniper_rifle_sitting.vta",
+  "size": 47476,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_sniperrifle_standing.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_tommygun.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_tommygun_deteriorated.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_tommygun_deteriorated_sitting.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_tommygun_sitting.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_tommygun_sitting_deteriorated.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_tommyguns_sitting.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_two_handgun.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_two_handgun_sitting.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_two_handgun_sitting_deteriorated.vta",
+  "size": 7228,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_two_tommygun.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_reload_two_tommygun_sitting.vta",
+  "size": 9292,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_right_hand_punch.vta",
+  "size": 11356,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_run.vta",
+  "size": 6712,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_run_fast.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_2_uzi.vta",
+  "size": 2584,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_acid_spray.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_bat.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_handgun.vta",
+  "size": 2068,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_handgun_deteriorated.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_handgun_sitting.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_handgun_sitting_deteriorated.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_handguns.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_handguns2.vta",
+  "size": 3616,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_handguns_sitting.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_machineguns.vta",
+  "size": 2068,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_shotgun.vta",
+  "size": 5680,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_shotgun_sitting.vta",
+  "size": 5680,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_sniper_rifle_sitting.vta",
+  "size": 6712,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_tommygun.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_tommygun_deteriorated.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_tommygun_sitting.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_tommygun_sitting_deteriorated.vta",
+  "size": 2068,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_tommyguns_sitting.vta",
+  "size": 2068,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_two_handgun.vta",
+  "size": 5680,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_two_handgun_sitting.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_two_tommygun.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_shoot_two_tommygun_sitting.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_sitting_cower.vta",
+  "size": 11356,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_sitting_die.vta",
+  "size": 9808,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_sitting_heal.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_sitting_idle.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_standing_sniper_attack.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_stop_wait.vta",
+  "size": 6196,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_throw_dynamite_sitting.vta",
+  "size": 25804,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_throw_grenade.vta",
+  "size": 31480,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_throw_grenade_crouched.vta",
+  "size": 26320,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_throw_grenade_cruched.vta",
+  "size": 25804,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_throw_grenade_overhand.vta",
+  "size": 34060,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_throw_grenade_roll.vta",
+  "size": 14968,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_throw_grenade_sitting.vta",
+  "size": 25804,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_throw_grenade_sitting_roll.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_throw_grenade_under_arm.vta",
+  "size": 13420,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_walk.vta",
+  "size": 6712,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_walk_deteriorated.vta",
+  "size": 6196,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_walk_deteriorated2.vta",
+  "size": 6196,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_walk_female.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_walk_march.vta",
+  "size": 16000,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_work_in_church.vta",
+  "size": 37156,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_work_in_office.vta",
+  "size": 9808,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/shadow/shadow_work_in_shop.vta",
+  "size": 13936,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_die.vta",
+  "size": 42664,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_heal.vta",
+  "size": 21334,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_idle.vta",
+  "size": 237004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_run.vta",
+  "size": 18964,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow_die.vta",
+  "size": 7456,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow_heal.vta",
+  "size": 3730,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow_idle.vta",
+  "size": 40162,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow_run.vta",
+  "size": 3316,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow_sitting_die.vta",
+  "size": 19462,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow_sitting_heal.vta",
+  "size": 3730,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow_sitting_idle.vta",
+  "size": 36850,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow_walk.vta",
+  "size": 2902,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_shadow_work.vta",
+  "size": 12424,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_sitting_die.vta",
+  "size": 109024,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_sitting_heal.vta",
+  "size": 21334,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_sitting_idle.vta",
+  "size": 215674,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_walk.vta",
+  "size": 42664,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_italian_work.vta",
+  "size": 78214,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/store_manager_italian/store_manager_shadow_italian_die.vta",
+  "size": 7456,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_die.vta",
+  "size": 39988,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_die_knockout.vta",
+  "size": 144004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_die_sitting.vta",
+  "size": 51004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_heal.vta",
+  "size": 42004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_heal_sitting.vta",
+  "size": 42004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_hit_with_batton.vta",
+  "size": 57004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_idle.vta",
+  "size": 29992,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_idle1.vta",
+  "size": 24004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_idle_sitting.vta",
+  "size": 45004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_reload.vta",
+  "size": 18568,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_reload_handgun.vta",
+  "size": 51004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_reload_sitting.vta",
+  "size": 51004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_run.vta",
+  "size": 42004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shadow_die.vta",
+  "size": 14956,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shadow_idle.vta",
+  "size": 11218,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shadow_reload.vta",
+  "size": 6412,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shadow_run.vta",
+  "size": 8014,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shadow_shoot.vta",
+  "size": 3208,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shadow_walk.vta",
+  "size": 5878,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shoot.vta",
+  "size": 10000,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shoot_handgun.vta",
+  "size": 9004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_shoot_sitting.vta",
+  "size": 9004,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_walk.vta",
+  "size": 15712,
+  "flags": 0
+ },
+ {
+  "name": "general/characters/street_cop/street_cop_walk_march.vta",
+  "size": 87004,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_attack.vta",
+  "size": 59524,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_die_knockout.vta",
+  "size": 151780,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_heal.vta",
+  "size": 47620,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_idle.vta",
+  "size": 20836,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_reload.vta",
+  "size": 44644,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_run.vta",
+  "size": 41668,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_sitting_attack.vta",
+  "size": 62500,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_sitting_die.vta",
+  "size": 56548,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_sitting_heal.vta",
+  "size": 47620,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_sitting_idle.vta",
+  "size": 41668,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_sitting_reload.vta",
+  "size": 47620,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/assasin/assasin_walk.vta",
+  "size": 38692,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/baptist/baptist_die_shot_forward.vta",
+  "size": 169804,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/baptist/baptist_idle_generic.vta",
+  "size": 20380,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/baptist/baptist_run.vta",
+  "size": 47548,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/baptist/baptist_walk.vta",
+  "size": 50944,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/baptist/baptist_work_in_church.vta",
+  "size": 441484,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_die.vta",
+  "size": 32692,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_fist.vta",
+  "size": 23158,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_heal.vta",
+  "size": 9538,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_idle.vta",
+  "size": 13624,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow_die.vta",
+  "size": 9526,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow_fist.vta",
+  "size": 7042,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow_heal.vta",
+  "size": 2902,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow_idle.vta",
+  "size": 4144,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow_sitting_attack.vta",
+  "size": 1660,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow_sitting_die.vta",
+  "size": 9526,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow_sitting_heal.vta",
+  "size": 2902,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow_sitting_idle.vta",
+  "size": 2074,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow_sitting_reload.vta",
+  "size": 7870,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_shadow_walk.vta",
+  "size": 4558,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_sitting_attack.vta",
+  "size": 5452,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_sitting_die.vta",
+  "size": 34054,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_sitting_heal.vta",
+  "size": 9538,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_sitting_idle.vta",
+  "size": 6814,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_sitting_reload.vta",
+  "size": 24520,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bazooka_guy/bazooka_guy_walk.vta",
+  "size": 14986,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_die_colapse.vta",
+  "size": 68836,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_heal_cower.vta",
+  "size": 77440,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_heal_sitting.vta",
+  "size": 45892,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_idle_wait.vta",
+  "size": 34420,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_in_office.vta",
+  "size": 60232,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_reload_handgun.vta",
+  "size": 42640,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_reload_shotgun.vta",
+  "size": 63100,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_run.vta",
+  "size": 43024,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_shoot_shotgun.vta",
+  "size": 37288,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_shot_handgun.vta",
+  "size": 7528,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/black_boss/black_boss_walk.vta",
+  "size": 45892,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_attack.vta",
+  "size": 53404,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_deteriorated_attack.vta",
+  "size": 29374,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_deteriorated_idle.vta",
+  "size": 194914,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_deteriorated_reload.vta",
+  "size": 66754,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_deteriorated_walk.vta",
+  "size": 26704,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_die.vta",
+  "size": 85444,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_heal.vta",
+  "size": 16024,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_idle.vta",
+  "size": 253654,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_reload.vta",
+  "size": 72094,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_run.vta",
+  "size": 40054,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_attack.vta",
+  "size": 12202,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_deteriorated_attack.vta",
+  "size": 7066,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_deteriorated_idle.vta",
+  "size": 46228,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_deteriorated_reload.vta",
+  "size": 13486,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_deteriorated_walk.vta",
+  "size": 6424,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_die.vta",
+  "size": 21190,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_heal.vta",
+  "size": 3214,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_idle.vta",
+  "size": 58426,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_reload.vta",
+  "size": 17338,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_run.vta",
+  "size": 9634,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_sitting_attack.vta",
+  "size": 12844,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_sitting_deteriorated_attack.vta",
+  "size": 10918,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_sitting_deteriorated_idle.vta",
+  "size": 12202,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_sitting_deteriorated_reload.vta",
+  "size": 15412,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_sitting_die.vta",
+  "size": 17980,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_sitting_heal.vta",
+  "size": 3214,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_sitting_idle.vta",
+  "size": 28252,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_sitting_reload.vta",
+  "size": 17338,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_shadow_walk.vta",
+  "size": 8992,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_sitting_attack.vta",
+  "size": 56074,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_sitting_deteriorated_attack.vta",
+  "size": 45394,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_sitting_deteriorated_idle.vta",
+  "size": 48064,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_sitting_deteriorated_reload.vta",
+  "size": 64084,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_sitting_die.vta",
+  "size": 77434,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_sitting_heal.vta",
+  "size": 16024,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_sitting_idle.vta",
+  "size": 120154,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_sitting_reload.vta",
+  "size": 72094,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/bodyguard/bodyguard_walk.vta",
+  "size": 37384,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_die.vta",
+  "size": 66664,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_die_colapse.vta",
+  "size": 66664,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_heal_cower.vta",
+  "size": 81814,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_idle_wait.vta",
+  "size": 36364,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_in_office.vta",
+  "size": 69694,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_reload_two_tommygun.vta",
+  "size": 48484,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_run.vta",
+  "size": 45454,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_shoot_two_tommygun.vta",
+  "size": 21214,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_sitting_cower.vta",
+  "size": 66664,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_sitting_heal.vta",
+  "size": 45454,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/columbian_boss/columbian_boss_walk.vta",
+  "size": 39394,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss_die_colapse.vta",
+  "size": 78388,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss_heal_cower.vta",
+  "size": 92020,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss_idle_wait.vta",
+  "size": 40900,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss_in_office.vta",
+  "size": 78388,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss_reload_handguns.vta",
+  "size": 54532,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss_run.vta",
+  "size": 51124,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss_shoot_handguns.vta",
+  "size": 34084,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss_sitting_cower.vta",
+  "size": 81796,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/japanese_boss/japanese_boss_walk.vta",
+  "size": 51124,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss_die.vta",
+  "size": 52672,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss_heal_cower.vta",
+  "size": 67720,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss_idle.vta",
+  "size": 17560,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss_reload_handgun.vta",
+  "size": 42640,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss_run.vta",
+  "size": 32608,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss_shoot_handgun.vta",
+  "size": 7528,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss_walk.vta",
+  "size": 37624,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_boss/jewish_boss_work_in_office.vta",
+  "size": 22576,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_die.vta",
+  "size": 116176,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_heal.vta",
+  "size": 13834,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_idle.vta",
+  "size": 185326,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_shadow_die.vta",
+  "size": 22636,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_shadow_heal.vta",
+  "size": 2764,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_shadow_idle.vta",
+  "size": 24292,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_shadow_sitting_die.vta",
+  "size": 22084,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_shadow_sitting_heal.vta",
+  "size": 2764,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_shadow_sitting_idle.vta",
+  "size": 24292,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_shadow_walk.vta",
+  "size": 6628,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_sitting_die.vta",
+  "size": 113410,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_sitting_heal.vta",
+  "size": 13834,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_sitting_idle.vta",
+  "size": 185326,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/jewish_businessman/jewish_businessman_walk.vta",
+  "size": 33196,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/gunman_sitting_idle.vta",
+  "size": 16984,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_attack.vta",
+  "size": 73018,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_die.vta",
+  "size": 74716,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_heal.vta",
+  "size": 8494,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_idle.vta",
+  "size": 23776,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_run.vta",
+  "size": 25474,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow_attack.vta",
+  "size": 26968,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow_die.vta",
+  "size": 25684,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow_heal.vta",
+  "size": 3856,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow_idle.vta",
+  "size": 5782,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow_run.vta",
+  "size": 9634,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow_sitting_die.vta",
+  "size": 17338,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow_sitting_heal.vta",
+  "size": 4498,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow_sitting_idle.vta",
+  "size": 1930,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow_sneak.vta",
+  "size": 16696,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_shadow_stealth_attack.vta",
+  "size": 19264,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_sitting_die.vta",
+  "size": 47548,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_sitting_heal.vta",
+  "size": 8494,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_sitting_idle.vta",
+  "size": 16984,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_sneak.vta",
+  "size": 45850,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/ninja/ninja_stealth_attack.vta",
+  "size": 59434,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss_die.vta",
+  "size": 175348,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss_die_colapse.vta",
+  "size": 77560,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss_heal_cower.vta",
+  "size": 84304,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss_idle.vta",
+  "size": 30352,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss_reload_shotgun.vta",
+  "size": 67444,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss_run.vta",
+  "size": 70816,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss_shoot_shotgun.vta",
+  "size": 43840,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_boss_walk.vta",
+  "size": 43840,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/russian_work_in_office.vta",
+  "size": 77560,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/shadow_die_colapse.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/shadow_idle_wait.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/shadow_in_office.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/shadow_run.vta",
+  "size": 6712,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/shadow_shoot_shotgun.vta",
+  "size": 5680,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/russian_boss/shadow_walk.vta",
+  "size": 6196,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/shadow_die_colapse.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/shadow_idle_wait.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/shadow_in_office.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/shadow_reload_tommygun.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/shadow_run.vta",
+  "size": 6712,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/shadow_shoot_shotgun.vta",
+  "size": 5680,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/shadow_shoot_tommygun.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/shadow_walk.vta",
+  "size": 6196,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_die_colapse.vta",
+  "size": 68314,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_die_collapse.vta",
+  "size": 68314,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_heal_cower.vta",
+  "size": 86134,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_idle_wait.vta",
+  "size": 38614,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_in_office.vta",
+  "size": 139594,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_reload_machinegun.vta",
+  "size": 62374,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_reload_tommygun.vta",
+  "size": 62374,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_run.vta",
+  "size": 41584,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_shoot_machinegun.vta",
+  "size": 8914,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_shoot_tommygun.vta",
+  "size": 8914,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_sitting_cower.vta",
+  "size": 74254,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/sicilian_boss/sicilian_boss_walk.vta",
+  "size": 44554,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/statue/statue_die_knockout.vta",
+  "size": 134950,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/statue/statue_idle.vta",
+  "size": 338692,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/statue/statue_run.vta",
+  "size": 37048,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/statue/statue_shoot_2_machineguns.vta",
+  "size": 10588,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/statue/statue_walk.vta",
+  "size": 37048,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_attack_baseball_bat.vta",
+  "size": 42124,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_attack_boxing.vta",
+  "size": 48364,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_die.vta",
+  "size": 29644,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_heal.vta",
+  "size": 7804,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_idle.vta",
+  "size": 42124,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_run.vta",
+  "size": 21844,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow_attack_baseball_bat.vta",
+  "size": 13108,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow_attack_boxing.vta",
+  "size": 13576,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow_die.vta",
+  "size": 8896,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow_heal.vta",
+  "size": 2344,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow_idle.vta",
+  "size": 12172,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow_run.vta",
+  "size": 7024,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow_sitting_die.vta",
+  "size": 6556,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow_sitting_heal.vta",
+  "size": 2344,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow_sitting_idle.vta",
+  "size": 12172,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_shadow_walk.vta",
+  "size": 6088,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_sitting_die.vta",
+  "size": 21844,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_sitting_heal.vta",
+  "size": 7804,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_sitting_idle.vta",
+  "size": 42124,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/super_bouncer/super_bouncer_walk.vta",
+  "size": 20284,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/triad_boss/triad_boss_die.vta",
+  "size": 71320,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/triad_boss/triad_boss_heal_cower.vta",
+  "size": 81508,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/triad_boss/triad_boss_idle.vta",
+  "size": 424504,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/triad_boss/triad_boss_reload_uzi.vta",
+  "size": 47548,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/triad_boss/triad_boss_run.vta",
+  "size": 47548,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/triad_boss/triad_boss_shoot_uzi.vta",
+  "size": 16984,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/triad_boss/triad_boss_walk.vta",
+  "size": 40756,
+  "flags": 0
+ },
+ {
+  "name": "international_connections/characters/triad_boss/triad_boss_work_in_office.vta",
+  "size": 71320,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_acidspray.vta",
+  "size": 31684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_bat.vta",
+  "size": 69124,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_die.vta",
+  "size": 132484,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_die_sitting.vta",
+  "size": 48964,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_heal.vta",
+  "size": 25924,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_heal_sitting.vta",
+  "size": 46084,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_idle.vta",
+  "size": 362884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_idle_deteriorated.vta",
+  "size": 34564,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_idle_sitting.vta",
+  "size": 43204,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_idle_sitting_deteriorated.vta",
+  "size": 17284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_punch.vta",
+  "size": 60484,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_2handgun.vta",
+  "size": 46084,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_2handgun_sitting.vta",
+  "size": 46084,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_acidspray.vta",
+  "size": 48964,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_grenade.vta",
+  "size": 28804,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_handgun.vta",
+  "size": 46084,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_handgun_deteriorated.vta",
+  "size": 43204,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_handgun_deteriorated_sitting.vta",
+  "size": 54724,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_handgun_sitting.vta",
+  "size": 48964,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_shotgun.vta",
+  "size": 51844,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_shotgun_sitting.vta",
+  "size": 51844,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_sitting_grenade.vta",
+  "size": 34564,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_sniperrifle.vta",
+  "size": 69124,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_reload_sniperrifle_standing.vta",
+  "size": 60484,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_run.vta",
+  "size": 60484,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shoot_2handgun.vta",
+  "size": 25924,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shoot_2handgun_sitting.vta",
+  "size": 23044,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shoot_grenade.vta",
+  "size": 83524,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shoot_handgun.vta",
+  "size": 8644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shoot_handgun_deteriorated.vta",
+  "size": 17284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shoot_handgun_deteriorated_sitting.vta",
+  "size": 17284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shoot_handgun_sitting.vta",
+  "size": 8644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shoot_shotgun.vta",
+  "size": 31684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shoot_shotgun_sitting.vta",
+  "size": 31684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_shoot_sniperrifle.vta",
+  "size": 40324,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_standing_sniper_attack.vta",
+  "size": 34564,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_throw_sitting.vta",
+  "size": 141124,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_walk.vta",
+  "size": 40324,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_walk_deteriorated.vta",
+  "size": 34564,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/angelo/angelo_work_in_office.vta",
+  "size": 63364,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_attack.vta",
+  "size": 59524,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_attack_shadow.vta",
+  "size": 3532,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_die.vta",
+  "size": 60196,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_idle.vta",
+  "size": 50692,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_idle_shadow.vta",
+  "size": 17644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_reload.vta",
+  "size": 44644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_reload_shadow.vta",
+  "size": 6472,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_run.vta",
+  "size": 17428,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_run_shadow.vta",
+  "size": 6472,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_shadow_attack.vta",
+  "size": 3532,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_shadow_die.vta",
+  "size": 21172,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_shadow_idle.vta",
+  "size": 17644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_shadow_reload.vta",
+  "size": 6472,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_shadow_run.vta",
+  "size": 6472,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_shadow_walk.vta",
+  "size": 6472,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/assasin/assasin_walk.vta",
+  "size": 17428,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_attack.vta",
+  "size": 26950,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_die.vta",
+  "size": 92818,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_idle.vta",
+  "size": 68866,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_reload.vta",
+  "size": 98806,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_run.vta",
+  "size": 44914,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_shadow_attack.vta",
+  "size": 4702,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_shadow_die.vta",
+  "size": 15664,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_shadow_idle.vta",
+  "size": 10966,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_shadow_reload.vta",
+  "size": 15664,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_shadow_run.vta",
+  "size": 8356,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_shadow_walk.vta",
+  "size": 5224,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_shadow_work_in_office.vta",
+  "size": 47506,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_walk.vta",
+  "size": 35932,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/big_boss/big_boss_work_in_office.vta",
+  "size": 116770,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_attack.vta",
+  "size": 69544,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_die.vta",
+  "size": 47584,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_heal.vta",
+  "size": 14644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_idle.vta",
+  "size": 47584,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_place_bomb.vta",
+  "size": 18304,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_place_bomb_sitting.vta",
+  "size": 18304,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_reload.vta",
+  "size": 5494,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_run.vta",
+  "size": 27454,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_attack.vta",
+  "size": 17230,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_die.vta",
+  "size": 13576,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_heal.vta",
+  "size": 4180,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_idle.vta",
+  "size": 13054,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_place_bomb.vta",
+  "size": 5224,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_place_bomb_sitting.vta",
+  "size": 5224,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_reload.vta",
+  "size": 1570,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_run.vta",
+  "size": 7834,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_sitting_attack.vta",
+  "size": 15664,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_sitting_die.vta",
+  "size": 6790,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_sitting_heal.vta",
+  "size": 3136,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_sitting_idle.vta",
+  "size": 10444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_sitting_reload.vta",
+  "size": 5224,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_shadow_walk.vta",
+  "size": 6268,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_sitting_attack.vta",
+  "size": 58564,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_sitting_die.vta",
+  "size": 23794,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_sitting_heal.vta",
+  "size": 10984,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_sitting_idle.vta",
+  "size": 34774,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_sitting_reload.vta",
+  "size": 18304,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bomber/bomber_walk.vta",
+  "size": 18304,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_attack.vta",
+  "size": 75244,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_attack1.vta",
+  "size": 61564,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_die.vta",
+  "size": 70684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_die_fall_forward.vta",
+  "size": 115804,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_fist.vta",
+  "size": 76432,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_heal.vta",
+  "size": 37060,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_heal_sitting.vta",
+  "size": 34744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_idle.vta",
+  "size": 145924,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_idle_generic.vta",
+  "size": 13900,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_idle_sitting.vta",
+  "size": 41692,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_run.vta",
+  "size": 32428,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow_attack.vta",
+  "size": 13576,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow_attack1.vta",
+  "size": 10300,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow_die.vta",
+  "size": 10768,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow_heal.vta",
+  "size": 3748,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow_idle.vta",
+  "size": 28552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow_run.vta",
+  "size": 7024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow_sitting_heal.vta",
+  "size": 13108,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow_sitting_idle.vta",
+  "size": 13576,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow_walk.vta",
+  "size": 4684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shadow_work.vta",
+  "size": 8428,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_shoot_bat.vta",
+  "size": 48640,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_sitting_heal.vta",
+  "size": 72964,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_sitting_idle.vta",
+  "size": 72964,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_walk.vta",
+  "size": 34744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_work.vta",
+  "size": 41044,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/bouncer/bouncer_work_in_office.vta",
+  "size": 55588,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_die.vta",
+  "size": 26224,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_idle.vta",
+  "size": 26224,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_run.vta",
+  "size": 13684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_shadow_die.vta",
+  "size": 13390,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_shadow_idle.vta",
+  "size": 13390,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_shadow_run.vta",
+  "size": 6988,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_shadow_walk.vta",
+  "size": 4660,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy/boy_walk.vta",
+  "size": 9124,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_die.vta",
+  "size": 23566,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_idle.vta",
+  "size": 45742,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_run.vta",
+  "size": 16636,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_shadow_die.vta",
+  "size": 8980,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_shadow_idle.vta",
+  "size": 17428,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_shadow_run.vta",
+  "size": 5812,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_shadow_walk.vta",
+  "size": 4756,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/boy_enforcer/boy_enforcer_walk.vta",
+  "size": 13864,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/collector/collector_die.vta",
+  "size": 74308,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/collector/collector_idle.vta",
+  "size": 24772,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/collector/collector_money_walk.vta",
+  "size": 74308,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/collector/collector_run.vta",
+  "size": 43348,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/collector/collector_walk.vta",
+  "size": 46444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_attack.vta",
+  "size": 6334,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_die.vta",
+  "size": 41782,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_idle.vta",
+  "size": 55708,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_reload.vta",
+  "size": 26590,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_run.vta",
+  "size": 18994,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_shadow_attack.vta",
+  "size": 2734,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_shadow_die.vta",
+  "size": 18022,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_shadow_idle.vta",
+  "size": 23482,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_shadow_reload.vta",
+  "size": 10378,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_shadow_run.vta",
+  "size": 8194,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_shadow_walk.vta",
+  "size": 5464,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_shadow_work.vta",
+  "size": 15292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_walk.vta",
+  "size": 13930,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/croupier/croupier_work.vta",
+  "size": 39250,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_attack.vta",
+  "size": 16684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_die.vta",
+  "size": 45040,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_prostitute_work.vta",
+  "size": 26692,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_reload.vta",
+  "size": 28360,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_shadow_attack.vta",
+  "size": 5026,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_shadow_die.vta",
+  "size": 13954,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_shadow_reload.vta",
+  "size": 8374,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_shadow_walk.vta",
+  "size": 6142,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_shadow_work.vta",
+  "size": 20092,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_walk.vta",
+  "size": 20020,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/dancer/dancer_work.vta",
+  "size": 61720,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_attack.vta",
+  "size": 29440,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_carry_money.vta",
+  "size": 16060,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_die.vta",
+  "size": 44158,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_reload.vta",
+  "size": 37468,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_run.vta",
+  "size": 21412,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_shadow_attack.vta",
+  "size": 12202,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_shadow_carry_money.vta",
+  "size": 7066,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_shadow_die.vta",
+  "size": 20548,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_shadow_reload.vta",
+  "size": 16696,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_shadow_run.vta",
+  "size": 10276,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_shadow_work.vta",
+  "size": 26326,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller/distiller_work.vta",
+  "size": 58876,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller_goombah/distiller_attack.vta",
+  "size": 5884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller_goombah/distiller_die.vta",
+  "size": 32932,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller_goombah/distiller_reload.vta",
+  "size": 19996,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller_goombah/distiller_run.vta",
+  "size": 18820,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller_goombah/distiller_shadow_attack.vta",
+  "size": 2554,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller_goombah/distiller_shadow_die.vta",
+  "size": 14284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller_goombah/distiller_shadow_reload.vta",
+  "size": 9184,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller_goombah/distiller_shadow_run.vta",
+  "size": 8164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller_goombah/distiller_shadow_work.vta",
+  "size": 2554,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/distiller_goombah/distiller_work.vta",
+  "size": 5884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_die.vta",
+  "size": 127468,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_die_sitting.vta",
+  "size": 48820,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_heal.vta",
+  "size": 37972,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_heal_sitting.vta",
+  "size": 40684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_idle.vta",
+  "size": 330868,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_idle_sitting.vta",
+  "size": 40684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_reload_2tommygun.vta",
+  "size": 43396,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_reload_2tommygun_sitting.vta",
+  "size": 43396,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_reload_tommygun.vta",
+  "size": 51532,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_reload_tommygun_sitting.vta",
+  "size": 48820,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_run.vta",
+  "size": 48820,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_shoot_2tommygun.vta",
+  "size": 10852,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_shoot_2tommygun_sitting.vta",
+  "size": 10852,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_shoot_tommygun.vta",
+  "size": 8140,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_shoot_tommygun_sitting.vta",
+  "size": 8140,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_walk.vta",
+  "size": 35260,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/enforcer_work_in_office.vta",
+  "size": 56956,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/hadow_reload_tommygun_sitting.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_die.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_die_backwards.vta",
+  "size": 23740,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_die_knockout_backwards.vta",
+  "size": 25288,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_die_sitting.vta",
+  "size": 9808,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_heal.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_heal_sitting.vta",
+  "size": 7228,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_idle.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_idle_long.vta",
+  "size": 66052,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_idle_sitting.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_in_office.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_reload_tommygun.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_reload_tommygun_sitting.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_reload_tommyguns_sitting.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_reload_two_tommygun.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_reload_two_tommygun_sitting.vta",
+  "size": 9292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_run_fast.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_shoot_tommygun.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_shoot_tommygun_sitting.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_shoot_two_tommygun.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_shoot_two_tommygun_sitting.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/enforcer/shadow_walk.vta",
+  "size": 7228,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_attack_1xtommygun.vta",
+  "size": 3910,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_attack_2xtommygun.vta",
+  "size": 5212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_die.vta",
+  "size": 37762,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_heal.vta",
+  "size": 29950,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_idle.vta",
+  "size": 29950,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_idle2.vta",
+  "size": 29950,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_in_office.vta",
+  "size": 15628,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_reload_1xtommygun.vta",
+  "size": 16930,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_reload_2xtommygun.vta",
+  "size": 24742,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_run.vta",
+  "size": 54244,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_run2.vta",
+  "size": 19534,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_attack_1xtommygun.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_attack_2xtommygun.vta",
+  "size": 2068,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_die.vta",
+  "size": 13420,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_heal.vta",
+  "size": 11872,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_idle.vta",
+  "size": 11872,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_idle2.vta",
+  "size": 11872,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_reload_1xtommygun.vta",
+  "size": 6712,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_reload_2xtommygun.vta",
+  "size": 9808,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_run.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_run2.vta",
+  "size": 54244,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_sitting_attack_1xtommygun.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_sitting_attack_2xtommygun.vta",
+  "size": 2068,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_sitting_die.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_sitting_heal.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_sitting_idle.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_sitting_idle2.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_sitting_reload_1xtommygun.vta",
+  "size": 7228,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_sitting_reload_2xtommygun.vta",
+  "size": 9292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_walk.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_shadow_walk2.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_sitting_attack_1xtommygun.vta",
+  "size": 3910,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_sitting_attack_2xtommygun.vta",
+  "size": 5212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_sitting_die.vta",
+  "size": 19534,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_sitting_heal.vta",
+  "size": 13024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_sitting_idle.vta",
+  "size": 13024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_sitting_idle2.vta",
+  "size": 13024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_sitting_reload_1xtommygun.vta",
+  "size": 18232,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_sitting_reload_2xtommygun.vta",
+  "size": 27346,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_walk.vta",
+  "size": 13024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/family_henchman/family_henchman_walk2.vta",
+  "size": 13024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_die.vta",
+  "size": 31084,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_idle.vta",
+  "size": 59056,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_run.vta",
+  "size": 15544,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_shadow_die.vta",
+  "size": 10606,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_shadow_idle.vta",
+  "size": 20650,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_shadow_run.vta",
+  "size": 5026,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_shadow_walk.vta",
+  "size": 5026,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/girl/girl_walk.vta",
+  "size": 13990,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_attack.vta",
+  "size": 43516,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_carry_body.vta",
+  "size": 16468,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_carry_body_idle.vta",
+  "size": 11764,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_die.vta",
+  "size": 32932,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_idle.vta",
+  "size": 55276,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_reload.vta",
+  "size": 3532,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_run.vta",
+  "size": 15292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_shadow_attack.vta",
+  "size": 19384,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_shadow_carry_body.vta",
+  "size": 7144,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_shadow_carry_body_idle.vta",
+  "size": 5104,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_shadow_die.vta",
+  "size": 14284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_shadow_idle.vta",
+  "size": 23464,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_shadow_reload.vta",
+  "size": 1534,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_shadow_run.vta",
+  "size": 6634,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_shadow_walk.vta",
+  "size": 6124,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_walk.vta",
+  "size": 14116,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_walk_alpha.vta",
+  "size": 11764,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goombah/goombah_work_attack.vta",
+  "size": 5884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_attack.vta",
+  "size": 4684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_carry_money.vta",
+  "size": 12874,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_die.vta",
+  "size": 38614,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_idle.vta",
+  "size": 51484,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_reload.vta",
+  "size": 25744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_run.vta",
+  "size": 17554,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_shadow_attack.vta",
+  "size": 2224,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_shadow_carry_money.vta",
+  "size": 4444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_shadow_die.vta",
+  "size": 14212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_shadow_idle.vta",
+  "size": 19096,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_shadow_reload.vta",
+  "size": 9772,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_shadow_run.vta",
+  "size": 6664,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_shadow_steal.vta",
+  "size": 11104,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_shadow_walk.vta",
+  "size": 4444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_steal.vta",
+  "size": 28084,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_steel.vta",
+  "size": 29254,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/goon/goon_walk.vta",
+  "size": 12874,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_attack.vta",
+  "size": 33136,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_dance.vta",
+  "size": 54220,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_deteriorated_attack.vta",
+  "size": 16570,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_deteriorated_idle.vta",
+  "size": 42172,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_deteriorated_reload.vta",
+  "size": 37654,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_deteriorated_walk.vta",
+  "size": 12052,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_die.vta",
+  "size": 49702,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_heal.vta",
+  "size": 15064,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_idle.vta",
+  "size": 94882,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_reload.vta",
+  "size": 40666,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_run.vta",
+  "size": 22594,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_attack.vta",
+  "size": 38524,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_deteriorated_attack.vta",
+  "size": 7066,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_deteriorated_idle.vta",
+  "size": 18622,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_deteriorated_reload.vta",
+  "size": 12844,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_deteriorated_walk.vta",
+  "size": 5140,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_die.vta",
+  "size": 18622,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_heal.vta",
+  "size": 6424,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_idle.vta",
+  "size": 35956,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_reload.vta",
+  "size": 16054,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_run.vta",
+  "size": 9634,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_sitting_deteriorated_attack.vta",
+  "size": 7066,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_sitting_deteriorated_idle.vta",
+  "size": 7066,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_sitting_deteriorated_reload.vta",
+  "size": 9634,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_sitting_die.vta",
+  "size": 14770,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_sitting_fire.vta",
+  "size": 9634,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_sitting_heal.vta",
+  "size": 6424,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_sitting_idle.vta",
+  "size": 5782,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_sitting_reload.vta",
+  "size": 16054,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_shadow_walk.vta",
+  "size": 15412,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_sitting_deteriorated_attack.vta",
+  "size": 16570,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_sitting_deteriorated_idle.vta",
+  "size": 18076,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_sitting_deteriorated_reload.vta",
+  "size": 22594,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_sitting_die.vta",
+  "size": 34642,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_sitting_fire.vta",
+  "size": 25606,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_sitting_heal.vta",
+  "size": 15064,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_sitting_idle.vta",
+  "size": 13558,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_sitting_reload.vta",
+  "size": 40666,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/gunman/gunman_walk.vta",
+  "size": 36148,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_attack_1xtommygun.vta",
+  "size": 3586,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_deploy.vta",
+  "size": 9556,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_deploy_die.vta",
+  "size": 16720,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_deploy_reload_1xtommygun.vta",
+  "size": 16720,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_deploy_shoot_1xtommygun.vta",
+  "size": 3586,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_deploy_stand.vta",
+  "size": 16720,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_deploy_start.vta",
+  "size": 42988,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_deteriorated_attack_1xtommygun.vta",
+  "size": 3586,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_deteriorated_idle.vta",
+  "size": 45376,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_deteriorated_reload_1xtommygun.vta",
+  "size": 14332,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_deteriorated_walk.vta",
+  "size": 9556,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_die.vta",
+  "size": 34630,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_heal.vta",
+  "size": 14332,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_idle.vta",
+  "size": 25078,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_reload_1xtommygun.vta",
+  "size": 16720,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_run.vta",
+  "size": 17914,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_attack_1xtommygun.vta",
+  "size": 1570,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_deploy.vta",
+  "size": 4180,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_deploy_die.vta",
+  "size": 8356,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_deploy_reload_1xtommygun.vta",
+  "size": 7312,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_deploy_shoot_1xtommygun.vta",
+  "size": 1570,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_deploy_stand.vta",
+  "size": 6268,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_deploy_start.vta",
+  "size": 16708,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_deteriorated_attack_1xtommygun.vta",
+  "size": 1570,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_deteriorated_idle.vta",
+  "size": 19318,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_deteriorated_reload_1xtommygun.vta",
+  "size": 5224,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_deteriorated_walk.vta",
+  "size": 4702,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_die.vta",
+  "size": 13576,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_heal.vta",
+  "size": 6790,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_idle.vta",
+  "size": 10966,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_reload_1xtommygun.vta",
+  "size": 6790,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_run.vta",
+  "size": 7834,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_sitting_deteriorated_attack_1xtommygun.vta",
+  "size": 1570,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_sitting_deteriorated_idle.vta",
+  "size": 13054,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_sitting_deteriorated_reload_1xtommygun.vta",
+  "size": 5224,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_sitting_heal.vta",
+  "size": 5746,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_shadow_walk.vta",
+  "size": 8878,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_sitting_deteriorated_attack_1xtommygun.vta",
+  "size": 3586,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_sitting_deteriorated_idle.vta",
+  "size": 29854,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_sitting_deteriorated_reload_1xtommygun.vta",
+  "size": 13138,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_sitting_heal.vta",
+  "size": 13138,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/henchman/henchman_walk.vta",
+  "size": 20302,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_bat.vta",
+  "size": 73480,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_bat_deteriorated.vta",
+  "size": 79132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_die.vta",
+  "size": 70654,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_die_sitting.vta",
+  "size": 65002,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_heal.vta",
+  "size": 42394,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_heal_sitting.vta",
+  "size": 42394,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_idle.vta",
+  "size": 392818,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_idle2.vta",
+  "size": 370210,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_idle2_sitting.vta",
+  "size": 33916,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_idle_deteriorated.vta",
+  "size": 25438,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_idle_sitting.vta",
+  "size": 33916,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_idle_sitting_deteriorated.vta",
+  "size": 14134,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_in_office.vta",
+  "size": 76306,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_punch.vta",
+  "size": 62176,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_reload_dynamit.vta",
+  "size": 14134,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_reload_dynamit_sitting.vta",
+  "size": 33916,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_reload_grenade.vta",
+  "size": 14134,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_reload_one_handgun_sitting.vta",
+  "size": 53698,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_run.vta",
+  "size": 39568,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_run2.vta",
+  "size": 39568,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_bat.vta",
+  "size": 12964,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_bat_deteriorated.vta",
+  "size": 12004,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_die.vta",
+  "size": 13444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_die_sitting.vta",
+  "size": 9124,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_heal.vta",
+  "size": 3844,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_heal_sitting.vta",
+  "size": 2884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_idle.vta",
+  "size": 14404,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_idle2.vta",
+  "size": 14404,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_idle2_sitting.vta",
+  "size": 2884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_idle_deteriorated.vta",
+  "size": 8644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_idle_sitting.vta",
+  "size": 2884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_idle_sitting_deteriorated.vta",
+  "size": 3844,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_in_office.vta",
+  "size": 12004,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_reload_grenade.vta",
+  "size": 4804,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_run.vta",
+  "size": 7204,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_run2.vta",
+  "size": 7204,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoot2handgun.vta",
+  "size": 4324,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoot2handgun_reload.vta",
+  "size": 14884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoot2handgun_reload_sitting.vta",
+  "size": 15364,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoot2handgun_sitting.vta",
+  "size": 4324,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoot2machinegun.vta",
+  "size": 2884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoot2machinegun_reload.vta",
+  "size": 13444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoot2machinegun_reload_sitting.vta",
+  "size": 13444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoot2machinegun_sitting.vta",
+  "size": 1444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoothandgun.vta",
+  "size": 2404,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoothandgun_deteriorated.vta",
+  "size": 2404,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoothandgun_reload.vta",
+  "size": 11524,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoothandgun_reload_deteriorated.vta",
+  "size": 11524,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoothandgun_reload_sitting.vta",
+  "size": 11524,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoothandgun_reload_sitting_deteriorated.vta",
+  "size": 10084,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoothandgun_sitting.vta",
+  "size": 1924,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shoothandgun_sitting_deteriorated.vta",
+  "size": 2404,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shootmachinegun.vta",
+  "size": 1444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shootmachinegun_deteriorated.vta",
+  "size": 1924,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shootmachinegun_reload.vta",
+  "size": 7684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shootmachinegun_reload_deteriorated.vta",
+  "size": 9124,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shootmachinegun_reload_sitting.vta",
+  "size": 7684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shootmachinegun_reload_sitting_deteriorated.vta",
+  "size": 8164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shootmachinegun_sitting.vta",
+  "size": 1444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_shootmachinegun_sitting_deteriorated.vta",
+  "size": 11308,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_throw_grenade.vta",
+  "size": 203476,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_walk.vta",
+  "size": 5284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shadow_walk_deteriorated.vta",
+  "size": 4804,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoot2handgun.vta",
+  "size": 28264,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoot2handgun_reload.vta",
+  "size": 48046,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoot2handgun_reload_sitting.vta",
+  "size": 48046,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoot2handgun_sitting.vta",
+  "size": 33916,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoot2machinegun.vta",
+  "size": 16960,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoot2machinegun_reload.vta",
+  "size": 84784,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoot2machinegun_reload_sitting.vta",
+  "size": 90436,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoot2machinegun_sitting.vta",
+  "size": 8482,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoothandgun.vta",
+  "size": 11308,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoothandgun_deteriorated.vta",
+  "size": 16960,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoothandgun_reload.vta",
+  "size": 53698,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoothandgun_reload_deteriorated.vta",
+  "size": 53698,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoothandgun_reload_sitting.vta",
+  "size": 84784,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoothandgun_reload_sitting_deteriorated.vta",
+  "size": 48046,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoothandgun_sitting.vta",
+  "size": 8482,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shoothandgun_sitting_deteriorated.vta",
+  "size": 16960,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shootmachinegun.vta",
+  "size": 8482,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shootmachinegun_deteriorated.vta",
+  "size": 11308,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shootmachinegun_reload.vta",
+  "size": 65002,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shootmachinegun_reload_deteriorated.vta",
+  "size": 36742,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shootmachinegun_reload_sitting.vta",
+  "size": 65002,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shootmachinegun_reload_sitting_deteriorated.vta",
+  "size": 33916,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shootmachinegun_sitting.vta",
+  "size": 8482,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_shootmachinegun_sitting_deteriorated.vta",
+  "size": 8482,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_throw_dynamit.vta",
+  "size": 81958,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_throw_dynamit_sitting.vta",
+  "size": 158260,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_throw_grenade.vta",
+  "size": 206302,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_walk.vta",
+  "size": 42394,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_0_walk_deteriorated.vta",
+  "size": 39568,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_0/hero_level_0_run.vta",
+  "size": 42394,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_bat.vta",
+  "size": 84064,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_bat_deteriorated.vta",
+  "size": 78460,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_die.vta",
+  "size": 14014,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_die_sitting.vta",
+  "size": 50440,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_heal.vta",
+  "size": 44836,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_heal_sitting.vta",
+  "size": 47638,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_idle.vta",
+  "size": 367066,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_idle2.vta",
+  "size": 22420,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_idle2_sitting.vta",
+  "size": 36430,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_idle_deteriorated.vta",
+  "size": 25222,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_idle_punch.vta",
+  "size": 61648,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_idle_sitting.vta",
+  "size": 36430,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_idle_sitting_deteriorated.vta",
+  "size": 22420,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_in_office.vta",
+  "size": 58846,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_punch.vta",
+  "size": 61648,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_reload_grenade.vta",
+  "size": 14014,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_reload_grenade_sitting.vta",
+  "size": 30826,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_reload_one_handgun_sitting.vta",
+  "size": 47638,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_reload_two_handguns.vta",
+  "size": 47638,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_reload_two_handguns_sitting.vta",
+  "size": 47638,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_run.vta",
+  "size": 39232,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_run2.vta",
+  "size": 39232,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_bat.vta",
+  "size": 14452,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_bat_deteriorated.vta",
+  "size": 14452,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_die.vta",
+  "size": 14452,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_die_sitting.vta",
+  "size": 10324,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_heal.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_heal_sitting.vta",
+  "size": 4132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_idle.vta",
+  "size": 15484,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_idle2.vta",
+  "size": 15484,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_idle2_sitting.vta",
+  "size": 4132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_idle_deteriorated.vta",
+  "size": 9808,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_idle_sitting.vta",
+  "size": 4132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_idle_sitting_deteriorated.vta",
+  "size": 4132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_in_office.vta",
+  "size": 12904,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_reload_grenade.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_run.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_run2.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoot2handgun.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoot2handgun_reload.vta",
+  "size": 16000,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoot2handgun_reload_sitting.vta",
+  "size": 17548,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoot2handgun_sitting.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoot2machinegun.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoot2machinegun_reload.vta",
+  "size": 16000,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoot2machinegun_reload_sitting.vta",
+  "size": 16000,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoot2machinegun_sitting.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoothandgun.vta",
+  "size": 2584,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoothandgun_deteriorated.vta",
+  "size": 2584,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoothandgun_reload.vta",
+  "size": 11872,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoothandgun_reload_deteriorated.vta",
+  "size": 12388,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoothandgun_reload_sitting.vta",
+  "size": 11872,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoothandgun_reload_sitting_deteriorated.vta",
+  "size": 11872,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoothandgun_sitting.vta",
+  "size": 2068,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shoothandgun_sitting_deteriorated.vta",
+  "size": 2584,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shootmachinegun.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shootmachinegun_deteriorated.vta",
+  "size": 2068,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shootmachinegun_reload.vta",
+  "size": 9292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shootmachinegun_reload_deteriorated.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shootmachinegun_reload_sitting.vta",
+  "size": 9292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shootmachinegun_reload_sitting_deteriorated.vta",
+  "size": 10324,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shootmachinegun_sitting.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_shootmachinegun_sitting_deteriorated.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_throw_grenade.vta",
+  "size": 14452,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_walk.vta",
+  "size": 5680,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shadow_walk_deteriorated.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoot2handgun.vta",
+  "size": 28024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoot2handgun_reload.vta",
+  "size": 50440,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoot2handgun_reload_sitting.vta",
+  "size": 33628,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoot2handgun_sitting.vta",
+  "size": 30826,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoot2machinegun.vta",
+  "size": 19618,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoot2machinegun_reload.vta",
+  "size": 86866,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoot2machinegun_reload_sitting.vta",
+  "size": 89668,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoot2machinegun_sitting.vta",
+  "size": 8410,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoot_two_handguns.vta",
+  "size": 28024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoot_two_handguns_sitting.vta",
+  "size": 33628,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoothandgun.vta",
+  "size": 8410,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoothandgun_deteriorated.vta",
+  "size": 16816,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoothandgun_reload.vta",
+  "size": 47638,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoothandgun_reload_deteriorated.vta",
+  "size": 47638,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoothandgun_reload_sitting.vta",
+  "size": 81262,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoothandgun_reload_sitting_deteriorated.vta",
+  "size": 42034,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoothandgun_sitting.vta",
+  "size": 8410,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shoothandgun_sitting_deteriorated.vta",
+  "size": 16816,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shootmachinegun.vta",
+  "size": 8410,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shootmachinegun_deteriorated.vta",
+  "size": 11212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shootmachinegun_reload.vta",
+  "size": 58846,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shootmachinegun_reload_deteriorated.vta",
+  "size": 47638,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shootmachinegun_reload_sitting.vta",
+  "size": 58846,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shootmachinegun_reload_sitting_deteriorated.vta",
+  "size": 30826,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shootmachinegun_sitting.vta",
+  "size": 8410,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shootmachinegun_sitting_deteriorated.vta",
+  "size": 8410,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_shootmachinegun_throw_dynamite.vta",
+  "size": 75658,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_throw_grenade.vta",
+  "size": 193342,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_throw_grenade_sitting.vta",
+  "size": 159718,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_walk.vta",
+  "size": 42034,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_1/hero_1_walk_deteriorated.vta",
+  "size": 42034,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_1_shootmachinegun_reload_deteriorated.vta",
+  "size": 67252,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_bat.vta",
+  "size": 88222,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_bat_deteriorated.vta",
+  "size": 82138,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_die.vta",
+  "size": 69970,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_die2.vta",
+  "size": 69970,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_die_sitting.vta",
+  "size": 51718,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_heal.vta",
+  "size": 45634,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_heal_sitting.vta",
+  "size": 48676,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_idle.vta",
+  "size": 407632,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_idle2.vta",
+  "size": 407632,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_idle2_sitting.vta",
+  "size": 24340,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_idle_deteriorated.vta",
+  "size": 24340,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_idle_sitting.vta",
+  "size": 39550,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_idle_sitting2.vta",
+  "size": 39550,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_idle_sitting_deteriorated.vta",
+  "size": 18256,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_in_office.vta",
+  "size": 66928,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_punch.vta",
+  "size": 66928,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_reload_grenade.vta",
+  "size": 15214,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_reload_grenade_sitting.vta",
+  "size": 33466,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_reload_one_handgun.vta",
+  "size": 51718,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_reload_one_handgun_sitting.vta",
+  "size": 51718,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_reload_two_handguns.vta",
+  "size": 45634,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_reload_two_handguns_sitting.vta",
+  "size": 45634,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_run.vta",
+  "size": 54760,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_run2.vta",
+  "size": 54760,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_bat.vta",
+  "size": 16132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_bat_deteriorated.vta",
+  "size": 16132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_die.vta",
+  "size": 17284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_die_sitting.vta",
+  "size": 11524,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_heal.vta",
+  "size": 5188,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_heal_sitting.vta",
+  "size": 4612,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_idle.vta",
+  "size": 17284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_idle2.vta",
+  "size": 17284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_idle2_sitting.vta",
+  "size": 4612,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_idle_deteriorated.vta",
+  "size": 10948,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_idle_sitting.vta",
+  "size": 4612,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_idle_sitting2.vta",
+  "size": 4612,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_idle_sitting_deteriorated.vta",
+  "size": 2308,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_in_office.vta",
+  "size": 13828,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_reload_grenade.vta",
+  "size": 5764,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_run.vta",
+  "size": 8644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_run2.vta",
+  "size": 8644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shadow_shoot2machinegun_sitting.vta",
+  "size": 1444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoot2handgun.vta",
+  "size": 5764,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoot2handgun_reload.vta",
+  "size": 17860,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoot2handgun_reload_sitting.vta",
+  "size": 19588,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoot2handgun_sitting.vta",
+  "size": 5188,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoot2machinegun.vta",
+  "size": 3460,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoot2machinegun_reload.vta",
+  "size": 17860,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoot2machinegun_reload_sitting.vta",
+  "size": 17860,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoot2machinegun_sitting.vta",
+  "size": 1732,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoothandgun.vta",
+  "size": 2884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoothandgun_deteriorated.vta",
+  "size": 2884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoothandgun_reload.vta",
+  "size": 13252,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoothandgun_reload_deteriorated.vta",
+  "size": 13828,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoothandgun_reload_sitting.vta",
+  "size": 13252,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoothandgun_reload_sitting_deteriorated.vta",
+  "size": 13252,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoothandgun_sitting.vta",
+  "size": 2308,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shoothandgun_sitting_deteriorated.vta",
+  "size": 2884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shootmachinegun.vta",
+  "size": 1732,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shootmachinegun_deteriorated.vta",
+  "size": 2884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shootmachinegun_reload.vta",
+  "size": 10372,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shootmachinegun_reload_deteriorated.vta",
+  "size": 12100,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shootmachinegun_reload_sitting.vta",
+  "size": 10372,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shootmachinegun_reload_sitting_deteriorated.vta",
+  "size": 11524,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shootmachinegun_sitting.vta",
+  "size": 1732,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_shootmachinegun_sitting_deteriorated.vta",
+  "size": 1732,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_throw_grenade.vta",
+  "size": 16708,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_walk.vta",
+  "size": 6916,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shadow_walk_deteriorated.vta",
+  "size": 5764,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoot2handgun.vta",
+  "size": 30424,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoot2handgun_reload.vta",
+  "size": 45634,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoot2handgun_reload_sitting.vta",
+  "size": 42592,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoot2handgun_sitting.vta",
+  "size": 30424,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoot2machinegun.vta",
+  "size": 9130,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoot2machinegun_reload.vta",
+  "size": 94306,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoot2machinegun_reload_sitting.vta",
+  "size": 97348,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoot2machinegun_sitting.vta",
+  "size": 9130,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoot_two_handguns.vta",
+  "size": 30424,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoot_two_handguns_sitting.vta",
+  "size": 30424,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoothandgun.vta",
+  "size": 9130,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoothandgun_deteriorated.vta",
+  "size": 18256,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoothandgun_reload.vta",
+  "size": 88222,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoothandgun_reload_deteriorated.vta",
+  "size": 48676,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoothandgun_reload_sitting.vta",
+  "size": 85180,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoothandgun_reload_sitting_deteriorated.vta",
+  "size": 45634,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoothandgun_sitting.vta",
+  "size": 9130,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shoothandgun_sitting_deteriorated.vta",
+  "size": 15214,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shootmachinegun.vta",
+  "size": 9130,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shootmachinegun_deteriorated.vta",
+  "size": 12172,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shootmachinegun_reload.vta",
+  "size": 60844,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shootmachinegun_reload_deteriorated.vta",
+  "size": 30424,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shootmachinegun_reload_sitting.vta",
+  "size": 60844,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shootmachinegun_reload_sitting_deteriorated.vta",
+  "size": 30424,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shootmachinegun_sitting.vta",
+  "size": 9130,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_shootmachinegun_sitting_deteriorated.vta",
+  "size": 9130,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_throw_grenade.vta",
+  "size": 200776,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_throw_grenade_sitting.vta",
+  "size": 161230,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_walk.vta",
+  "size": 51718,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_2_walk_deteriorated.vta",
+  "size": 42592,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/hero_2/hero_level_2_run.vta",
+  "size": 8644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_attack.vta",
+  "size": 5836,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_die.vta",
+  "size": 48118,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_heal.vta",
+  "size": 5836,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_idle.vta",
+  "size": 36454,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_impersonate.vta",
+  "size": 18958,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_reload.vta",
+  "size": 32080,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_run.vta",
+  "size": 21874,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_attack.vta",
+  "size": 2092,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_die.vta",
+  "size": 17230,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_heal.vta",
+  "size": 2092,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_idle.vta",
+  "size": 13054,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_impersonate.vta",
+  "size": 6790,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_reload.vta",
+  "size": 11488,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_run.vta",
+  "size": 7834,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_sitting_attack.vta",
+  "size": 2092,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_sitting_die.vta",
+  "size": 7834,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_sitting_heal.vta",
+  "size": 2092,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_sitting_idle.vta",
+  "size": 6790,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_sitting_reload.vta",
+  "size": 10444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_shadow_walk.vta",
+  "size": 6268,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_sitting_attack.vta",
+  "size": 5836,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_sitting_die.vta",
+  "size": 23332,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_sitting_heal.vta",
+  "size": 5836,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_sitting_idle.vta",
+  "size": 18958,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_sitting_reload.vta",
+  "size": 29164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/infiltrator/infiltrator_walk.vta",
+  "size": 17500,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_attack.vta",
+  "size": 52306,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_die.vta",
+  "size": 102334,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_heal.vta",
+  "size": 15922,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_idle.vta",
+  "size": 206938,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_in_office.vta",
+  "size": 95512,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_shadow_attack.vta",
+  "size": 12148,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_shadow_die.vta",
+  "size": 23236,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_shadow_heal.vta",
+  "size": 3172,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_shadow_idle.vta",
+  "size": 42244,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_shadow_in_office.vta",
+  "size": 46996,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_shadow_sitting_heal.vta",
+  "size": 3172,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_shadow_sitting_idle.vta",
+  "size": 10564,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_shadow_walk.vta",
+  "size": 6340,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_sitting_heal.vta",
+  "size": 15922,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_sitting_idle.vta",
+  "size": 45484,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/lawyer/lawyer_walk.vta",
+  "size": 27292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_attack.vta",
+  "size": 5884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_die.vta",
+  "size": 32932,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_idle.vta",
+  "size": 55276,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_reload.vta",
+  "size": 19996,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_run.vta",
+  "size": 15292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_shadow_attack.vta",
+  "size": 2554,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_shadow_die.vta",
+  "size": 14284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_shadow_idle.vta",
+  "size": 23464,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_shadow_reload.vta",
+  "size": 9184,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_shadow_run.vta",
+  "size": 6634,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_shadow_walk.vta",
+  "size": 6124,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_shadow_work.vta",
+  "size": 19894,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_walk.vta",
+  "size": 14116,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/loanshark/loanshark_work.vta",
+  "size": 48220,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse_die.vta",
+  "size": 36124,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse_idle.vta",
+  "size": 27094,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse_run.vta",
+  "size": 18064,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse_shadow_die.vta",
+  "size": 14098,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse_shadow_idle.vta",
+  "size": 10966,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse_shadow_run.vta",
+  "size": 7834,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse_shadow_walk.vta",
+  "size": 5224,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/male_spouse/male_spouse_walk.vta",
+  "size": 14194,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_curse.vta",
+  "size": 68584,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_die.vta",
+  "size": 50296,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_idle.vta",
+  "size": 33532,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_shadow_curse.vta",
+  "size": 22684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_shadow_die.vta",
+  "size": 16204,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_shadow_idle.vta",
+  "size": 11344,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_shadow_walk.vta",
+  "size": 5404,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_shadow_work.vta",
+  "size": 13504,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_walk.vta",
+  "size": 19816,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/priest/priest_work.vta",
+  "size": 44200,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_die.vta",
+  "size": 59932,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_die_sitting.vta",
+  "size": 54484,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_fist.vta",
+  "size": 68104,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_heal.vta",
+  "size": 40864,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_heal_sitting.vta",
+  "size": 40864,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_idle.vta",
+  "size": 348676,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_idle_deteriorated.vta",
+  "size": 24520,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_idle_sitting.vta",
+  "size": 43588,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_idle_sitting_deteriorated.vta",
+  "size": 13624,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_in_office.vta",
+  "size": 54484,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_grenade.vta",
+  "size": 17212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_grenade_crouched.vta",
+  "size": 29968,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_grenade_crouched_roll.vta",
+  "size": 24520,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_grenade_roll.vta",
+  "size": 29968,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_handgun.vta",
+  "size": 49036,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_handgun_deteriorated.vta",
+  "size": 40864,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_handgun_sitting.vta",
+  "size": 49036,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_handgun_sitting_deteriorated.vta",
+  "size": 40864,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_shotgun.vta",
+  "size": 46312,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_shotgun_sitting.vta",
+  "size": 46312,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_sniper_rifle_sitting.vta",
+  "size": 250612,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_tommygun_deteriorated.vta",
+  "size": 29968,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_tommygun_sitting_deteriorated.vta",
+  "size": 27244,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_two_handgun.vta",
+  "size": 43588,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_two_handgun_sitting.vta",
+  "size": 51760,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_two_handgun_sitting_deteriorated.vta",
+  "size": 40864,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_two_tommygun.vta",
+  "size": 43588,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_reload_two_tommygun_sitting.vta",
+  "size": 49036,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_run.vta",
+  "size": 38140,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shadow_die.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_handgun.vta",
+  "size": 19072,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_handgun_deteriorated.vta",
+  "size": 16348,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_handgun_sitting.vta",
+  "size": 8176,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_handgun_sitting_deteriorated.vta",
+  "size": 16348,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_shotgun.vta",
+  "size": 32692,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_shotgun_sitting.vta",
+  "size": 32692,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_sniper_rifle_sitting.vta",
+  "size": 43588,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_tommygun_deteriorated.vta",
+  "size": 10900,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_two_handgun.vta",
+  "size": 29968,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_two_handgun_sitting.vta",
+  "size": 29968,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_two_tommygun.vta",
+  "size": 19072,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_shoot_two_tommygun_sitting.vta",
+  "size": 16348,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_throw_grenade.vta",
+  "size": 185236,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_throw_grenade_crouched.vta",
+  "size": 144376,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_throw_grenade_roll.vta",
+  "size": 73552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_throw_grenade_sitting_roll.vta",
+  "size": 38140,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_walk.vta",
+  "size": 43588,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/romanno_walk_deteriorated.vta",
+  "size": 35416,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/shadow_die.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/shadow_idle_long.vta",
+  "size": 66052,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/shadow_reload_grenade_crouched_roll.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/shadow_reload_grenade_roll.vta",
+  "size": 5680,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/romanno/shadow_throw_grenade_roll.vta",
+  "size": 14452,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_attack.vta",
+  "size": 61504,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_die.vta",
+  "size": 78724,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_heal.vta",
+  "size": 12304,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_idle.vta",
+  "size": 115624,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_in_office.vta",
+  "size": 46744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_run.vta",
+  "size": 34444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow_attack.vta",
+  "size": 11458,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow_die.vta",
+  "size": 15442,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow_heal.vta",
+  "size": 2494,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow_idle.vta",
+  "size": 22414,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow_in_office.vta",
+  "size": 7972,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow_run.vta",
+  "size": 6976,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow_sitting_heal.vta",
+  "size": 2494,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow_sitting_idle.vta",
+  "size": 8968,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_shadow_walk.vta",
+  "size": 5482,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_sitting_heal.vta",
+  "size": 12304,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_sitting_idle.vta",
+  "size": 46744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/seductress/seductress_walk.vta",
+  "size": 29524,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_attack.vta",
+  "size": 2980,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_attack_fortified.vta",
+  "size": 7444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_attack_fortified_shadow.vta",
+  "size": 2644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_attack_shadow.vta",
+  "size": 1060,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_deploy.vta",
+  "size": 46132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_deployed.vta",
+  "size": 2980,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_deployed_attack.vta",
+  "size": 5956,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_deployed_attack_long.vta",
+  "size": 7444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_deployed_attack_long_sitting.vta",
+  "size": 7444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_deployed_die.vta",
+  "size": 26788,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_deployed_reload.vta",
+  "size": 28276,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_deployed_reload_sitting.vta",
+  "size": 26788,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_die.vta",
+  "size": 31252,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_fortify.vta",
+  "size": 2980,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_heal.vta",
+  "size": 7444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_idle.vta",
+  "size": 11908,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_relaod_fortified.vta",
+  "size": 26788,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_reload.vta",
+  "size": 26788,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_run.vta",
+  "size": 22324,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_attack.vta",
+  "size": 2644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_attack_fortified.vta",
+  "size": 2644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_deploy.vta",
+  "size": 15844,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_deployed.vta",
+  "size": 1060,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_deployed_attack.vta",
+  "size": 2116,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_deployed_attack_long.vta",
+  "size": 2644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_deployed_die.vta",
+  "size": 9508,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_deployed_reload.vta",
+  "size": 8980,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_die.vta",
+  "size": 8980,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_fortify.vta",
+  "size": 1060,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_heal.vta",
+  "size": 2116,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_idle.vta",
+  "size": 4228,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_relaod_fortified.vta",
+  "size": 8980,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_reload.vta",
+  "size": 8980,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_run.vta",
+  "size": 7924,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_sitting_die.vta",
+  "size": 8452,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_sitting_heal.vta",
+  "size": 2116,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_shadow_walk.vta",
+  "size": 5284,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_sitting_attack.vta",
+  "size": 7444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_sitting_attack_shadow.vta",
+  "size": 2644,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_sitting_die.vta",
+  "size": 23812,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_sitting_heal.vta",
+  "size": 7444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_sitting_idle.vta",
+  "size": 8932,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_sitting_idle_shadow.vta",
+  "size": 3172,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_standing_attack.vta",
+  "size": 7444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_standing_attack_shadow.vta",
+  "size": 2116,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_standing_idle.vta",
+  "size": 8932,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_standing_idle_shadow.vta",
+  "size": 3172,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_standing_reload.vta",
+  "size": 28276,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_standing_reload_shadow.vta",
+  "size": 9508,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sniper/sniper_walk.vta",
+  "size": 14884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_die.vta",
+  "size": 25288,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_die_sitting.vta",
+  "size": 9808,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_fist.vta",
+  "size": 10324,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_heal.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_heal_sitting.vta",
+  "size": 7228,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_idle_deteriorated.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_idle_long.vta",
+  "size": 66052,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_idle_sitting.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_idle_sitting_deteriorated.vta",
+  "size": 2584,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_in_office.vta",
+  "size": 60232,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_grenade.vta",
+  "size": 17212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_handgun_deteriorated.vta",
+  "size": 7228,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_handgun_sitting_deteriorated.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_tommygun.vta",
+  "size": 8776,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_tommygun_deteriorated.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_tommygun_sitting_deteriorated.vta",
+  "size": 5164,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_two_handgun.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_two_handgun_sitting.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_two_handgun_sitting_deteriorated.vta",
+  "size": 7228,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_two_tommygun.vta",
+  "size": 8260,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_reload_two_tommygun_sitting.vta",
+  "size": 9292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_run.vta",
+  "size": 57364,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_shoot_handgun_deteriorated.vta",
+  "size": 2584,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_shoot_handgun_sitting_deteriorated.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_shoot_tommygun.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_shoot_tommygun_deteriorated.vta",
+  "size": 1552,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_shoot_tommygun_sitting_deteriorated.vta",
+  "size": 2068,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_shoot_two_handgun.vta",
+  "size": 5680,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_shoot_two_handgun_sitting.vta",
+  "size": 4648,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_shoot_two_tommygun.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_shoot_two_tommygun_sitting.vta",
+  "size": 3100,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_sitting_idle.vta",
+  "size": 7744,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_throw_grenade.vta",
+  "size": 31480,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_throw_grenade_crouched.vta",
+  "size": 146272,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_walk.vta",
+  "size": 6196,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/shadow_walk_deteriorated.vta",
+  "size": 7228,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_die.vta",
+  "size": 152008,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_die_sitting.vta",
+  "size": 54496,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_fist.vta",
+  "size": 71704,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_heal.vta",
+  "size": 43024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_heal_sitting.vta",
+  "size": 45892,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_idle.vta",
+  "size": 369976,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_idle_deteriorated.vta",
+  "size": 25816,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_idle_sitting.vta",
+  "size": 43024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_idle_sitting_deteriorated.vta",
+  "size": 14344,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_in_office.vta",
+  "size": 60232,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_grenade.vta",
+  "size": 17212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_grenade_crouched.vta",
+  "size": 34420,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_handgun_deteriorated.vta",
+  "size": 43024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_handgun_sitting_deteriorated.vta",
+  "size": 43024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_tommygun.vta",
+  "size": 57364,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_tommygun_deteriorated.vta",
+  "size": 28684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_tommygun_sitting.vta",
+  "size": 57364,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_tommygun_sitting_deteriorated.vta",
+  "size": 28684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_two_handgun.vta",
+  "size": 45892,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_two_handgun_sitting.vta",
+  "size": 48760,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_two_handgun_sitting_deteriorated.vta",
+  "size": 43024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_two_tommygun.vta",
+  "size": 43024,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_reload_two_tommygun_sitting.vta",
+  "size": 51628,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_run.vta",
+  "size": 57364,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_run_fast.vta",
+  "size": 60232,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot.vta",
+  "size": 20080,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot_handgun_deteriorated.vta",
+  "size": 17212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot_handgun_sitting_deteriorated.vta",
+  "size": 17212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot_tommygun.vta",
+  "size": 8608,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot_tommygun_deteriorated.vta",
+  "size": 11476,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot_tommygun_sitting.vta",
+  "size": 8608,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot_tommygun_sitting_deteriorated.vta",
+  "size": 11476,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot_two_handgun.vta",
+  "size": 37288,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot_two_handgun_sitting.vta",
+  "size": 28684,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot_two_tommygun.vta",
+  "size": 20080,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_shoot_two_tommygun_sitting.vta",
+  "size": 17212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_throw_grenade.vta",
+  "size": 197896,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_throw_grenade_crouched.vta",
+  "size": 146272,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_walk.vta",
+  "size": 40156,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/sonny/sonny_walk_deteriorated.vta",
+  "size": 40156,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse_die.vta",
+  "size": 34804,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse_idle.vta",
+  "size": 30628,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse_run.vta",
+  "size": 20884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse_shadow_die.vta",
+  "size": 13204,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse_shadow_idle.vta",
+  "size": 11620,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse_shadow_run.vta",
+  "size": 7924,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse_shadow_walk.vta",
+  "size": 6340,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse/spouse_walk.vta",
+  "size": 16708,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_interlectual/spouse_interlectual_die_collapse.vta",
+  "size": 81448,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_interlectual/spouse_interlectual_idle.vta",
+  "size": 51832,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_interlectual/spouse_interlectual_run.vta",
+  "size": 40726,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_interlectual/spouse_interlectual_walk.vta",
+  "size": 51832,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_seductor/spouse_seductor_die_collapse.vta",
+  "size": 69556,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_seductor/spouse_seductor_idle_feminine.vta",
+  "size": 46372,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_seductor/spouse_seductor_run.vta",
+  "size": 36436,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_seductor/spouse_seductor_walk_female.vta",
+  "size": 43060,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_sporty/spouse_sporty_die_knockout.vta",
+  "size": 163948,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_sporty/spouse_sporty_idle_femine.vta",
+  "size": 57028,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_sporty/spouse_sporty_run.vta",
+  "size": 39208,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/spouse_sporty/spouse_sporty_walk_female.vta",
+  "size": 46336,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_attack.vta",
+  "size": 16132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_die.vta",
+  "size": 36292,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_heal.vta",
+  "size": 41668,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_idle.vta",
+  "size": 17476,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_reload.vta",
+  "size": 16132,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_run.vta",
+  "size": 12100,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_attack.vta",
+  "size": 5464,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_die.vta",
+  "size": 10378,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_heal.vta",
+  "size": 18568,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_idle.vta",
+  "size": 6556,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_reload.vta",
+  "size": 7102,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_run.vta",
+  "size": 4918,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_sitting_attack.vta",
+  "size": 25120,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_sitting_die.vta",
+  "size": 10924,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_sitting_heal.vta",
+  "size": 6556,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_sitting_idle.vta",
+  "size": 6556,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_sitting_reload.vta",
+  "size": 20752,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_shadow_work.vta",
+  "size": 7102,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_sitting_attack.vta",
+  "size": 61828,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_sitting_die.vta",
+  "size": 26884,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_sitting_heal.vta",
+  "size": 13444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_sitting_idle.vta",
+  "size": 13444,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_sitting_reload.vta",
+  "size": 51076,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/store_manager/store_manager_work.vta",
+  "size": 22852,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_attack.vta",
+  "size": 18796,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_attack_reload.vta",
+  "size": 26626,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_carry_suitcase.vta",
+  "size": 17230,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_dance.vta",
+  "size": 57946,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_die.vta",
+  "size": 40720,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_heal.vta",
+  "size": 9400,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_idle.vta",
+  "size": 29758,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_pickpocket.vta",
+  "size": 14098,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_reload.vta",
+  "size": 26626,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_run.vta",
+  "size": 23494,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_attack.vta",
+  "size": 6700,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_carry_suitcase.vta",
+  "size": 6142,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_die.vta",
+  "size": 13954,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_heal.vta",
+  "size": 3352,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_idle.vta",
+  "size": 10606,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_pickpocket.vta",
+  "size": 5026,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_reload.vta",
+  "size": 8932,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_run.vta",
+  "size": 7816,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_sitting_heal.vta",
+  "size": 3352,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_sitting_idle.vta",
+  "size": 7816,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_sitting_reload.vta",
+  "size": 7816,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_shadow_walk.vta",
+  "size": 6142,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_sitting_heal.vta",
+  "size": 9400,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_sitting_idle.vta",
+  "size": 21928,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_sitting_reload.vta",
+  "size": 23494,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/street_girl/street_girl_walk.vta",
+  "size": 18796,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_attack.vta",
+  "size": 41836,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_die.vta",
+  "size": 40342,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_heal.vta",
+  "size": 7474,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_idle.vta",
+  "size": 43330,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_pick_lock.vta",
+  "size": 8968,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_reload.vta",
+  "size": 5980,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_run.vta",
+  "size": 20920,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_attack.vta",
+  "size": 14908,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_die.vta",
+  "size": 14908,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_heal.vta",
+  "size": 2764,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_idle.vta",
+  "size": 17116,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_pick_lock.vta",
+  "size": 3316,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_reload.vta",
+  "size": 2212,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_run.vta",
+  "size": 7732,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_sitting_heal.vta",
+  "size": 2764,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_sitting_idle.vta",
+  "size": 8836,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_steal_money.vta",
+  "size": 5524,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_walk.vta",
+  "size": 6628,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_shadow_walk_money.vta",
+  "size": 4972,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_sitting_heal.vta",
+  "size": 7474,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_sitting_idle.vta",
+  "size": 25402,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_steal_money.vta",
+  "size": 14944,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_walk.vta",
+  "size": 17932,
+  "flags": 0
+ },
+ {
+  "name": "italian/characters/thief/thief_walk_money.vta",
+  "size": 13450,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_attack.vta",
+  "size": 12640,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_die.vta",
+  "size": 43528,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_heal.vta",
+  "size": 7024,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_idle.vta",
+  "size": 75820,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_reload.vta",
+  "size": 43528,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_run.vta",
+  "size": 21064,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_attack.vta",
+  "size": 4594,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_die.vta",
+  "size": 15814,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_heal.vta",
+  "size": 2554,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_idle.vta",
+  "size": 26524,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_reload.vta",
+  "size": 14794,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_run.vta",
+  "size": 7654,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_sitting_attack.vta",
+  "size": 4594,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_sitting_die.vta",
+  "size": 11224,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_sitting_heal.vta",
+  "size": 2554,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_sitting_idle.vta",
+  "size": 12754,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_sitting_reload.vta",
+  "size": 18364,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_shadow_walk.vta",
+  "size": 6124,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_sitting_attack.vta",
+  "size": 12640,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_sitting_die.vta",
+  "size": 30892,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_sitting_heal.vta",
+  "size": 7024,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_sitting_idle.vta",
+  "size": 35104,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_sitting_reload.vta",
+  "size": 50548,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/black_widow/black_widow_walk.vta",
+  "size": 15448,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_attack.vta",
+  "size": 24772,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_die.vta",
+  "size": 23224,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_heal.vta",
+  "size": 44896,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_idle.vta",
+  "size": 44896,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_run.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_shadow_attack.vta",
+  "size": 6052,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_shadow_die.vta",
+  "size": 6484,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_shadow_heal.vta",
+  "size": 4324,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_shadow_idle.vta",
+  "size": 4324,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_shadow_run.vta",
+  "size": 3028,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_shadow_sitting_die.vta",
+  "size": 5188,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_shadow_sitting_heal.vta",
+  "size": 3460,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_shadow_sitting_idle.vta",
+  "size": 3460,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_shadow_walk.vta",
+  "size": 2164,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_sitting_die.vta",
+  "size": 12388,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_sitting_heal.vta",
+  "size": 12388,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_sitting_idle.vta",
+  "size": 12388,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/dog_trainer/war_dog_trainer_walk.vta",
+  "size": 9292,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog_attack.vta",
+  "size": 52144,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog_die.vta",
+  "size": 60676,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog_idle.vta",
+  "size": 42664,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog_run.vta",
+  "size": 10432,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog_shadow_attack.vta",
+  "size": 2236,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog_shadow_die.vta",
+  "size": 9304,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog_shadow_idle.vta",
+  "size": 13396,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog_shadow_run.vta",
+  "size": 4096,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog_shadow_walk.vta",
+  "size": 3352,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/shar_pei_war_dog/shar_pei_war_dog_walk.vta",
+  "size": 8536,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_attack.vta",
+  "size": 24772,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_die.vta",
+  "size": 23224,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_heal.vta",
+  "size": 44896,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_idle.vta",
+  "size": 44896,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_run.vta",
+  "size": 10840,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow_attack.vta",
+  "size": 6052,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow_die.vta",
+  "size": 6484,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow_heal.vta",
+  "size": 4324,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow_idle.vta",
+  "size": 4324,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow_run.vta",
+  "size": 3028,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow_sitting_attack.vta",
+  "size": 11236,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow_sitting_die.vta",
+  "size": 7348,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow_sitting_heal.vta",
+  "size": 3460,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow_sitting_idle.vta",
+  "size": 3460,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_shadow_walk.vta",
+  "size": 2164,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_sitting_attack.vta",
+  "size": 44896,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_sitting_die.vta",
+  "size": 24772,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_sitting_heal.vta",
+  "size": 12388,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_sitting_idle.vta",
+  "size": 12388,
+  "flags": 0
+ },
+ {
+  "name": "triad/characters/war_dog_trainer/war_dog_trainer_walk.vta",
+  "size": 9292,
+  "flags": 0
+ }
+]

@@ -2,536 +2,536 @@
  {
   "name": "dev/allmaps.luac",
   "size": 1872,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "dev/benchmark.luac",
   "size": 641,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "dev/benchmarkworld.luac",
   "size": 1624,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "dev/instantstart.luac",
   "size": 1708,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "dev/spawnvehicle.luac",
   "size": 466,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/alertcharacter.luac",
   "size": 1821,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/alertxy.luac",
   "size": 1216,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/lookat.luac",
   "size": 452,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/select.luac",
   "size": 705,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/showminimap.luac",
   "size": 467,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/spawnloan.luac",
   "size": 175,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/spawntaskforce.luac",
   "size": 8184,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/tf_attackbuilding.luac",
   "size": 11112,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/tf_attackcharactergroup.luac",
   "size": 5465,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "general/timer.luac",
   "size": 744,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "include/bosscharacters.luac",
   "size": 1579,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "include/conquestlib.luac",
   "size": 999,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "include/lualib.luac",
   "size": 15582,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "include/resources.luac",
   "size": 4037,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "include/setuplib.luac",
   "size": 11535,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "include/superunits.luac",
   "size": 2384,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/_icmlib.luac",
   "size": 1884,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_blowbuildingtime.ini",
   "size": 428,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_blowbuildingtime.luac",
   "size": 10248,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_blowbuildingtime_guard.luac",
   "size": 500,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_blowbuildingtime_instance.luac",
   "size": 5983,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_buyitem.ini",
   "size": 313,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_buyitem.luac",
   "size": 6855,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_buyitem_guard.luac",
   "size": 889,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_buyitem_instance.luac",
   "size": 7613,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_contractkilltime.ini",
   "size": 379,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_contractkilltime.luac",
   "size": 106,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_contractkilltime_guard.luac",
   "size": 128,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_contractkilltime_instance.luac",
   "size": 1862,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcharacterglobalcontract.ini",
   "size": 448,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcharacterglobalcontract.luac",
   "size": 3418,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcharacterglobalcontract_guard.luac",
   "size": 1327,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcharacterglobalcontract_instance.luac",
   "size": 2657,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcharacterpersonalcontract.ini",
   "size": 394,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcharacterpersonalcontract.luac",
   "size": 3551,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcharacterpersonalcontract_guard.luac",
   "size": 1336,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcharacterpersonalcontract_instance.luac",
   "size": 3954,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcounttime.ini",
   "size": 478,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcounttime.luac",
   "size": 2481,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcounttime_guard.luac",
   "size": 504,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killcounttime_instance.luac",
   "size": 4127,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killstoremanagertime.ini",
   "size": 363,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killstoremanagertime.luac",
   "size": 3391,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killstoremanagertime_guard.luac",
   "size": 132,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_killstoremanagertime_instance.luac",
   "size": 5533,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_loan.ini",
   "size": 318,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_loan.luac",
   "size": 2880,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_loan_guard.luac",
   "size": 571,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_loan_instance.luac",
   "size": 1229,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_loanfailure.ini",
   "size": 390,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_loanfailure.luac",
   "size": 1907,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_loanfailure_decline.luac",
   "size": 1465,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_loanfailure_guard.luac",
   "size": 123,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_loanfailure_instance.luac",
   "size": 760,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_opendoor.ini",
   "size": 332,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_opendoor.luac",
   "size": 2377,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_opendoor_guard.luac",
   "size": 1816,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_opendoor_instance.luac",
   "size": 1983,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_resourceoffertime.ini",
   "size": 461,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_resourceoffertime.luac",
   "size": 5068,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_resourceoffertime_guard.luac",
   "size": 524,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_resourceoffertime_instance.luac",
   "size": 5860,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_retaliation.ini",
   "size": 479,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_retaliation.luac",
   "size": 727,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_retaliation_decline.luac",
   "size": 852,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_retaliation_guard.luac",
   "size": 123,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_retaliation_include.luac",
   "size": 4686,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/icm_retaliation_instance.luac",
   "size": 1250,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/vendetta/icm_killfamilymember.ini",
   "size": 590,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/vendetta/icm_killfamilymember.luac",
   "size": 2209,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/vendetta/icm_killfamilymember_guard.luac",
   "size": 137,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "international/vendetta/icm_killfamilymember_instance.luac",
   "size": 1724,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "mapsetup/_setuplib.luac",
   "size": 90,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "mapsetup/justcapo.luac",
   "size": 2845,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "mapsetup/mp_challenge.luac",
   "size": 8845,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "mapsetup/noboss.luac",
   "size": 11342,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "mapsetup/noboss_custom.luac",
   "size": 9693,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "mapsetup/noboss_strip.luac",
   "size": 11348,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "mapsetup/stdsetup.luac",
   "size": 11959,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/_missionlib.luac",
   "size": 2206,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/deliver_package.luac",
   "size": 11435,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/deliver_package_guard.luac",
   "size": 117,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/extort_armsdealer.luac",
   "size": 8497,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/extort_armsdealer_guard.luac",
   "size": 723,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/extort_misc.luac",
   "size": 7988,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/extort_misc_guard.luac",
   "size": 804,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/extort_neighborhood.luac",
   "size": 6341,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/extort_neighborhood_guard.luac",
   "size": 121,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/family_hit.luac",
   "size": 13315,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/family_hit_guard.luac",
   "size": 899,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/kill_bouncer.luac",
   "size": 9292,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/kill_bouncer_guard.luac",
   "size": 114,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/kill_driveby.luac",
   "size": 9848,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/kill_driveby_guard.luac",
   "size": 114,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/reactive_1_attack_prospect.luac",
   "size": 5715,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/reactive_1_attack_prospect_guard.luac",
   "size": 673,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/reactive_1_protect_prospect.luac",
   "size": 8999,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/reactive_1_protect_prospect_guard.luac",
   "size": 129,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/takeover_distillery.luac",
   "size": 5725,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/takeover_distillery_guard.luac",
   "size": 121,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/takeover_restaurant.luac",
   "size": 6230,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "npcboss/takeover_restaurant_guard.luac",
   "size": 535,
-  "flag": 1
+  "flags": 1
  }
 ]

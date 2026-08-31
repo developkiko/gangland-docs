@@ -2,11 +2,11 @@
  {
   "name": "default.lcl",
   "size": 130860,
-  "flag": 1
+  "flags": 1
  },
  {
   "name": "settings.ini",
   "size": 25,
-  "flag": 1
+  "flags": 1
  }
 ]

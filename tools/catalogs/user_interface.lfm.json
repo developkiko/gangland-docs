@@ -1,0 +1,3422 @@
+[
+ {
+  "name": "ammobar/ammomarker.png",
+  "size": 3498,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/bullethi.png",
+  "size": 2306,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/bulletlo.png",
+  "size": 2102,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/bulletmid.png",
+  "size": 2054,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/cyanide.png",
+  "size": 5160,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/empty.png",
+  "size": 190,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/frags.png",
+  "size": 1373,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/gasgrenade.png",
+  "size": 2583,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/grenade.png",
+  "size": 2482,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/medkit.png",
+  "size": 5132,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/money.png",
+  "size": 4983,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/picklock.png",
+  "size": 2551,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/timebomb.png",
+  "size": 4870,
+  "flags": 0
+ },
+ {
+  "name": "ammobar/tutti.png",
+  "size": 2950,
+  "flags": 0
+ },
+ {
+  "name": "bottom-bg.dds",
+  "size": 262272,
+  "flags": 0
+ },
+ {
+  "name": "businessinfo/bg.png",
+  "size": 35156,
+  "flags": 0
+ },
+ {
+  "name": "businessinfo/bigbutton.png",
+  "size": 425,
+  "flags": 0
+ },
+ {
+  "name": "businessinfo/buttons.png",
+  "size": 672,
+  "flags": 0
+ },
+ {
+  "name": "businessinfo/mainbutton_hi.png",
+  "size": 565,
+  "flags": 0
+ },
+ {
+  "name": "businessinfo/mainbutton_lo.png",
+  "size": 416,
+  "flags": 0
+ },
+ {
+  "name": "businessinfo/subbutton_hi.png",
+  "size": 392,
+  "flags": 0
+ },
+ {
+  "name": "businessinfo/subbutton_lo.png",
+  "size": 392,
+  "flags": 0
+ },
+ {
+  "name": "buy_weapons/background.png",
+  "size": 26394,
+  "flags": 0
+ },
+ {
+  "name": "buy_weapons/lrgbutton.png",
+  "size": 1093,
+  "flags": 0
+ },
+ {
+  "name": "buy_weapons/smlbutton.png",
+  "size": 977,
+  "flags": 0
+ },
+ {
+  "name": "buy_weapons/weaponmarker.png",
+  "size": 2957,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/ammo_icon.png",
+  "size": 2511,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/bulletlo.png",
+  "size": 2628,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/icon_bat.png",
+  "size": 1728,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/icon_bazooka.png",
+  "size": 2120,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/icon_dynamite.png",
+  "size": 2074,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/icon_fist.png",
+  "size": 2119,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/icon_gasgrenade.png",
+  "size": 2323,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/icon_knife.png",
+  "size": 2023,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/icon_poison.png",
+  "size": 2319,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/icon_sai.png",
+  "size": 2100,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/icon_seduction.png",
+  "size": 1734,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/icon_teargas.png",
+  "size": 2169,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/kill.png",
+  "size": 2512,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/killskill.png",
+  "size": 2512,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/money_icon.png",
+  "size": 2890,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/skill.png",
+  "size": 2128,
+  "flags": 0
+ },
+ {
+  "name": "characterinfo/weaponbg.png",
+  "size": 5090,
+  "flags": 0
+ },
+ {
+  "name": "characterviewer/chex00r.png",
+  "size": 15823,
+  "flags": 0
+ },
+ {
+  "name": "chat/chat_bg.png",
+  "size": 2952,
+  "flags": 0
+ },
+ {
+  "name": "chat/chat_button.png",
+  "size": 3402,
+  "flags": 0
+ },
+ {
+  "name": "chat/chat_handlesfield.png",
+  "size": 5912,
+  "flags": 0
+ },
+ {
+  "name": "chat/chat_inputfield.png",
+  "size": 3661,
+  "flags": 0
+ },
+ {
+  "name": "chat/chat_textfield.png",
+  "size": 7787,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_01.png",
+  "size": 464926,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_02.png",
+  "size": 408380,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_03.png",
+  "size": 347052,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_04.png",
+  "size": 395744,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_05.png",
+  "size": 471914,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_06.png",
+  "size": 398661,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_07.png",
+  "size": 355921,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_08.png",
+  "size": 391407,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_09.png",
+  "size": 373060,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_10.png",
+  "size": 450449,
+  "flags": 0
+ },
+ {
+  "name": "credits/credits_11.png",
+  "size": 370873,
+  "flags": 0
+ },
+ {
+  "name": "cursor_default.dds",
+  "size": 1152,
+  "flags": 0
+ },
+ {
+  "name": "cursor_default.png",
+  "size": 826,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-bottom.dds",
+  "size": 192,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-bottom2.png",
+  "size": 2810,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-corner-bottomleft.dds",
+  "size": 192,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-corner-bottomleft2.png",
+  "size": 2910,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-corner-bottomright.dds",
+  "size": 192,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-corner-bottomright2.png",
+  "size": 2907,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-corner-topleft.dds",
+  "size": 192,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-corner-topleft2.png",
+  "size": 2958,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-corner-topright.dds",
+  "size": 192,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-corner-topright2.png",
+  "size": 2946,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-left.dds",
+  "size": 192,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-left2.png",
+  "size": 2807,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-right.dds",
+  "size": 192,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-right2.png",
+  "size": 2810,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-top.dds",
+  "size": 192,
+  "flags": 0
+ },
+ {
+  "name": "defaultwindow-top2.png",
+  "size": 2830,
+  "flags": 0
+ },
+ {
+  "name": "dialogs/dialog_npc_adtakeover.png",
+  "size": 59654,
+  "flags": 0
+ },
+ {
+  "name": "dialogs/dialog_npc_alreadyextorted.png",
+  "size": 35440,
+  "flags": 0
+ },
+ {
+  "name": "dialogs/dialog_npc_background.png",
+  "size": 58298,
+  "flags": 0
+ },
+ {
+  "name": "dialogs/dialog_npc_backgroundnotpossible.png",
+  "size": 167255,
+  "flags": 0
+ },
+ {
+  "name": "dialogs/dialog_npc_backgroundweapon.png",
+  "size": 168033,
+  "flags": 0
+ },
+ {
+  "name": "dialogs/dialog_npc_extort.png",
+  "size": 64326,
+  "flags": 0
+ },
+ {
+  "name": "dialogs/dialog_npc_notpossibleextort.png",
+  "size": 35727,
+  "flags": 0
+ },
+ {
+  "name": "dialogs/dialog_npc_retakeover.png",
+  "size": 59756,
+  "flags": 0
+ },
+ {
+  "name": "dialogs/dialog_npc_takeover.png",
+  "size": 62210,
+  "flags": 0
+ },
+ {
+  "name": "editor/button.png",
+  "size": 421,
+  "flags": 0
+ },
+ {
+  "name": "editor/button64.png",
+  "size": 438,
+  "flags": 0
+ },
+ {
+  "name": "editor/filemenuframe.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "editor/layercontrolframe.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "editor/smallbutton.png",
+  "size": 410,
+  "flags": 0
+ },
+ {
+  "name": "editor/statusframe.dds",
+  "size": 32896,
+  "flags": 0
+ },
+ {
+  "name": "editor/topbottom.png",
+  "size": 35903,
+  "flags": 0
+ },
+ {
+  "name": "editor/topbottom2.png",
+  "size": 1621,
+  "flags": 0
+ },
+ {
+  "name": "filerequester/button_cancel.png",
+  "size": 861,
+  "flags": 0
+ },
+ {
+  "name": "filerequester/button_ok.png",
+  "size": 635,
+  "flags": 0
+ },
+ {
+  "name": "filerequester/fullreq.png",
+  "size": 4664,
+  "flags": 0
+ },
+ {
+  "name": "filerequester/scroll-arrows.png",
+  "size": 952,
+  "flags": 0
+ },
+ {
+  "name": "filerequester/sliderbg.png",
+  "size": 1551,
+  "flags": 0
+ },
+ {
+  "name": "fonts.ini",
+  "size": 1377,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/attack.png",
+  "size": 2499,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/attack_hold.png",
+  "size": 2327,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/biz_italian_armsdealer0.png",
+  "size": 2724,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/biz_italian_gambling_den0.png",
+  "size": 2995,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/biz_italian_gambling_den1.png",
+  "size": 2900,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/biz_italian_gambling_den2.png",
+  "size": 3106,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/biz_italian_loansharking0.png",
+  "size": 3030,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/biz_italian_speakeasy0.png",
+  "size": 2867,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/biz_italian_speakeasy1.png",
+  "size": 3004,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/build_tunnel.png",
+  "size": 2474,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/business_detail.png",
+  "size": 2362,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/buy.png",
+  "size": 3026,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/change_business.png",
+  "size": 2928,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/angelo.png",
+  "size": 2958,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/assassin.png",
+  "size": 2912,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/bazookaunit.png",
+  "size": 3475,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/bigmamma.png",
+  "size": 3027,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/blackwidow.png",
+  "size": 3223,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/bodyguard.png",
+  "size": 3366,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/bomber.png",
+  "size": 2881,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/bouncer.png",
+  "size": 2842,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/boy_enforcer.png",
+  "size": 3075,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/businessman.png",
+  "size": 3380,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/civilian_female.png",
+  "size": 3196,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/civilian_male.png",
+  "size": 3158,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/constructionworker.png",
+  "size": 3178,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/croupier.png",
+  "size": 2744,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/dancer.png",
+  "size": 2825,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/default.png",
+  "size": 3066,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/distiller.png",
+  "size": 2885,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/fakecop.png",
+  "size": 2881,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/familyhenchman.png",
+  "size": 2971,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/fbi_agent.png",
+  "size": 3066,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/girl.png",
+  "size": 3330,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/goombah.png",
+  "size": 3063,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/goon.png",
+  "size": 3040,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/gunman.png",
+  "size": 3214,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/henchman.png",
+  "size": 2864,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/hoodlum.png",
+  "size": 3103,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/hoodlumleader.png",
+  "size": 3199,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/infiltrator.png",
+  "size": 2997,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/lawyer.png",
+  "size": 3046,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/loanshark.png",
+  "size": 2842,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/mario.png",
+  "size": 2934,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/mario_1.png",
+  "size": 2973,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/mario_2.png",
+  "size": 2973,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/mayor.png",
+  "size": 3124,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/ninja.png",
+  "size": 3075,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/npcstoremanager.png",
+  "size": 3122,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/priest.png",
+  "size": 3133,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/rip.png",
+  "size": 1556,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/romano.png",
+  "size": 2942,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/seductress.png",
+  "size": 2986,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/sniper.png",
+  "size": 4982,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/sonny.png",
+  "size": 2977,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/spouse.png",
+  "size": 3096,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/storemanager.png",
+  "size": 3027,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/streetcop.png",
+  "size": 3096,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/streetgirl.png",
+  "size": 3181,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/superbouncer.png",
+  "size": 3349,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/superninja.png",
+  "size": 3081,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/character_icons_32x32/thief.png",
+  "size": 2731,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/charactersheet.png",
+  "size": 2362,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/contract.png",
+  "size": 2313,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/contract_disabled.png",
+  "size": 4904,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/default.png",
+  "size": 1712,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/details.png",
+  "size": 2825,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/drop.png",
+  "size": 2820,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/frame.png",
+  "size": 336,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/hold_fire.png",
+  "size": 2690,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/liquor.png",
+  "size": 2910,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/lock_door.png",
+  "size": 3336,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/matresses.png",
+  "size": 3694,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/med_kit.png",
+  "size": 2983,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/overlays/black.png",
+  "size": 324,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/overlays/default.png",
+  "size": 1726,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/overlays/disabled.png",
+  "size": 2647,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/patrol.png",
+  "size": 2853,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/primary_slash_secondaryattack.png",
+  "size": 1430,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/primaryattack.png",
+  "size": 1721,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/reload.png",
+  "size": 5657,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/roll.png",
+  "size": 3655,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/secondaryattack.png",
+  "size": 1203,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/sell.png",
+  "size": 3082,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/sit.png",
+  "size": 4039,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/sit_slash_stand.png",
+  "size": 4867,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/stand.png",
+  "size": 4770,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/stealth.png",
+  "size": 2463,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/vehicle_leave_all.png",
+  "size": 2310,
+  "flags": 0
+ },
+ {
+  "name": "functionbar/vehicle_leave_minus_driver.png",
+  "size": 481,
+  "flags": 0
+ },
+ {
+  "name": "halloffame/victories_back.png",
+  "size": 120119,
+  "flags": 0
+ },
+ {
+  "name": "icons/mainmenu_icons/icon_thumb.png",
+  "size": 3621,
+  "flags": 0
+ },
+ {
+  "name": "icons/mainmenu_icons/icon_thumb32.png",
+  "size": 1518,
+  "flags": 0
+ },
+ {
+  "name": "icons/mainmenu_icons/r_accept.png",
+  "size": 3509,
+  "flags": 0
+ },
+ {
+  "name": "icons/mainmenu_icons/r_boot.png",
+  "size": 5147,
+  "flags": 0
+ },
+ {
+  "name": "icons/mainmenu_icons/r_cancel.png",
+  "size": 3444,
+  "flags": 0
+ },
+ {
+  "name": "icons/mainmenu_icons/r_refresh.png",
+  "size": 5319,
+  "flags": 0
+ },
+ {
+  "name": "icons/mainmenu_icons/r_start.png",
+  "size": 4120,
+  "flags": 0
+ },
+ {
+  "name": "ingamelobby/button.png",
+  "size": 892,
+  "flags": 0
+ },
+ {
+  "name": "ingamelobby/frame.png",
+  "size": 4087,
+  "flags": 0
+ },
+ {
+  "name": "ingamelobby/singleplayer_frame.png",
+  "size": 13546,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/boss_background.png",
+  "size": 8298,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/boss_selected.png",
+  "size": 1122,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/buttons/attack.png",
+  "size": 3174,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/buttons/contract.png",
+  "size": 2322,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/buttons/contract_disabled.png",
+  "size": 4896,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/buttons/details.png",
+  "size": 2825,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/buttons/matresses.png",
+  "size": 1122,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/child_background.png",
+  "size": 4125,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/child_background2.png",
+  "size": 8111,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/child_selected.png",
+  "size": 13006,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/coinanim.png",
+  "size": 5889,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/coinanimation.png",
+  "size": 5889,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/donotdisturb.png",
+  "size": 18396,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/indicator.png",
+  "size": 219,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/staranim.dds",
+  "size": 4224,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/statusicons/bodyguarding.png",
+  "size": 591,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/statusicons/driving.png",
+  "size": 540,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/statusicons/fortifying.png",
+  "size": 543,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/statusicons/patroling.png",
+  "size": 577,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/statusicons/skimming.png",
+  "size": 528,
+  "flags": 0
+ },
+ {
+  "name": "leaderbar/tutti.png",
+  "size": 2950,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/assassin.png",
+  "size": 23349,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/bazooka.png",
+  "size": 27457,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/big_mamma.png",
+  "size": 30188,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/black_widow.png",
+  "size": 29199,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/bodyguard.png",
+  "size": 37949,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/bomber.png",
+  "size": 38057,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/businessman.png",
+  "size": 32593,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/infiltrator.png",
+  "size": 32569,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/ninja.png",
+  "size": 29974,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/sniper.png",
+  "size": 23634,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/super_bouncer.png",
+  "size": 34365,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/challenge/thief.png",
+  "size": 30252,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/docks_c5.png",
+  "size": 22920,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/docks_c6.png",
+  "size": 31103,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/docks_c7.png",
+  "size": 23605,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/docks_c8.png",
+  "size": 30216,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/little_italy_c1.png",
+  "size": 34899,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/little_italy_c2.png",
+  "size": 31226,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/little_italy_c3.png",
+  "size": 40276,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/little_italy_c4.png",
+  "size": 33259,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/poor_c10.png",
+  "size": 28749,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/poor_c11.png",
+  "size": 28969,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/poor_c9.png",
+  "size": 25348,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/vegas_c12.png",
+  "size": 36888,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/vegas_c13.png",
+  "size": 22172,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/vegas_c14.png",
+  "size": 32548,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/vegas_c15.png",
+  "size": 29034,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/conquest/vegas_c16.png",
+  "size": 33403,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/customlevel.png",
+  "size": 29695,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_challenge/bazooka.png",
+  "size": 38790,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_challenge/black_widdow.png",
+  "size": 37824,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_challenge/bodyguard.png",
+  "size": 40246,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_challenge/ninja.png",
+  "size": 45548,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_little_italy_1.png",
+  "size": 35770,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_little_italy_2.png",
+  "size": 35666,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_little_italy_3.png",
+  "size": 42995,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_little_italy_4.png",
+  "size": 41091,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_suburbs_1.png",
+  "size": 40050,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_suburbs_2.png",
+  "size": 33722,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_suburbs_3.png",
+  "size": 35014,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_the_docks_1.png",
+  "size": 39153,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_the_docks_2.png",
+  "size": 30732,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_the_docks_3.png",
+  "size": 39065,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_the_docks_4.png",
+  "size": 36108,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_the_strip_1.png",
+  "size": 43103,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_the_strip_2.png",
+  "size": 43447,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_the_strip_3.png",
+  "size": 36614,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_the_strip_4.png",
+  "size": 38313,
+  "flags": 0
+ },
+ {
+  "name": "map_selection/mp_conquest/mp_splash_the_strip_5.png",
+  "size": 39189,
+  "flags": 0
+ },
+ {
+  "name": "menu/bg.dds",
+  "size": 1048704,
+  "flags": 0
+ },
+ {
+  "name": "menu/bg.png",
+  "size": 1090973,
+  "flags": 0
+ },
+ {
+  "name": "menu/editor.png",
+  "size": 41604,
+  "flags": 0
+ },
+ {
+  "name": "menu/logo.png",
+  "size": 169342,
+  "flags": 0
+ },
+ {
+  "name": "menu/not_available.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "menu/toplogo.dds",
+  "size": 131200,
+  "flags": 0
+ },
+ {
+  "name": "minimap/alert.png",
+  "size": 1966,
+  "flags": 0
+ },
+ {
+  "name": "minimap/boss_marker.png",
+  "size": 495,
+  "flags": 0
+ },
+ {
+  "name": "minimap/boss_marker_arrow.png",
+  "size": 239,
+  "flags": 0
+ },
+ {
+  "name": "minimap/favor.png",
+  "size": 2013,
+  "flags": 0
+ },
+ {
+  "name": "minimap/minimap.png",
+  "size": 70506,
+  "flags": 0
+ },
+ {
+  "name": "minimap/minimap_bottom.png",
+  "size": 15360,
+  "flags": 0
+ },
+ {
+  "name": "minimap/minimap_pointer.png",
+  "size": 387,
+  "flags": 0
+ },
+ {
+  "name": "minimap/prospect_notice.png",
+  "size": 2044,
+  "flags": 0
+ },
+ {
+  "name": "minimap/tiles.png",
+  "size": 19712,
+  "flags": 0
+ },
+ {
+  "name": "minimap/woods.dds",
+  "size": 65664,
+  "flags": 0
+ },
+ {
+  "name": "not_avail.png",
+  "size": 92081,
+  "flags": 0
+ },
+ {
+  "name": "options/options_4pixelsgreenbar.png",
+  "size": 2865,
+  "flags": 0
+ },
+ {
+  "name": "options/options_background.png",
+  "size": 6817,
+  "flags": 0
+ },
+ {
+  "name": "options/options_button.png",
+  "size": 3770,
+  "flags": 0
+ },
+ {
+  "name": "options/options_genericfield.png",
+  "size": 4025,
+  "flags": 0
+ },
+ {
+  "name": "preplay/arrowleft.png",
+  "size": 825,
+  "flags": 0
+ },
+ {
+  "name": "preplay/arrowright.png",
+  "size": 802,
+  "flags": 0
+ },
+ {
+  "name": "preplay/bg-blue.png",
+  "size": 1413,
+  "flags": 0
+ },
+ {
+  "name": "preplay/bg-green.png",
+  "size": 2630,
+  "flags": 0
+ },
+ {
+  "name": "preplay/button_accept.png",
+  "size": 3545,
+  "flags": 0
+ },
+ {
+  "name": "preplay/button_cancel.png",
+  "size": 3481,
+  "flags": 0
+ },
+ {
+  "name": "preplay/cancel.png",
+  "size": 2489,
+  "flags": 0
+ },
+ {
+  "name": "preplay/chatbar.png",
+  "size": 1836,
+  "flags": 0
+ },
+ {
+  "name": "preplay/hiscore/hiscore_back.png",
+  "size": 5557,
+  "flags": 0
+ },
+ {
+  "name": "preplay/hiscore/hiscore_back2.png",
+  "size": 5302,
+  "flags": 0
+ },
+ {
+  "name": "preplay/hiscore/hiscore_medium_back.png",
+  "size": 3464,
+  "flags": 0
+ },
+ {
+  "name": "preplay/hiscore/hiscore_medium_long_back.png",
+  "size": 4356,
+  "flags": 0
+ },
+ {
+  "name": "preplay/hiscore/killsnskillsback.png",
+  "size": 6221,
+  "flags": 0
+ },
+ {
+  "name": "preplay/hiscore/killsnskillsback2.png",
+  "size": 5934,
+  "flags": 0
+ },
+ {
+  "name": "preplay/hiscore/multiplayer.png",
+  "size": 640,
+  "flags": 0
+ },
+ {
+  "name": "preplay/hiscore/shame.png",
+  "size": 26289,
+  "flags": 0
+ },
+ {
+  "name": "preplay/join_game.png",
+  "size": 2301,
+  "flags": 0
+ },
+ {
+  "name": "preplay/joingame/arrowdown.png",
+  "size": 928,
+  "flags": 0
+ },
+ {
+  "name": "preplay/joingame/arrowup.png",
+  "size": 911,
+  "flags": 0
+ },
+ {
+  "name": "preplay/joingame/buttonsbg.png",
+  "size": 5990,
+  "flags": 0
+ },
+ {
+  "name": "preplay/joingame/key.png",
+  "size": 316,
+  "flags": 0
+ },
+ {
+  "name": "preplay/joingame/scrollbg.png",
+  "size": 2976,
+  "flags": 0
+ },
+ {
+  "name": "preplay/joingame/serverinfo.png",
+  "size": 4756,
+  "flags": 0
+ },
+ {
+  "name": "preplay/joingame/serverlist_bg.png",
+  "size": 13192,
+  "flags": 0
+ },
+ {
+  "name": "preplay/joingame/updatingbg.png",
+  "size": 3714,
+  "flags": 0
+ },
+ {
+  "name": "preplay/kick_player.png",
+  "size": 3005,
+  "flags": 0
+ },
+ {
+  "name": "preplay/main_button_clicked.png",
+  "size": 1583,
+  "flags": 0
+ },
+ {
+  "name": "preplay/main_button_normal.png",
+  "size": 895,
+  "flags": 0
+ },
+ {
+  "name": "preplay/main_button_over.png",
+  "size": 895,
+  "flags": 0
+ },
+ {
+  "name": "preplay/map/arrow-left.png",
+  "size": 1510,
+  "flags": 0
+ },
+ {
+  "name": "preplay/map/arrow-right.png",
+  "size": 1579,
+  "flags": 0
+ },
+ {
+  "name": "preplay/map/map_back.png",
+  "size": 3239,
+  "flags": 0
+ },
+ {
+  "name": "preplay/map/map_back_selected.png",
+  "size": 5835,
+  "flags": 0
+ },
+ {
+  "name": "preplay/map/mappic.png",
+  "size": 30295,
+  "flags": 0
+ },
+ {
+  "name": "preplay/map/mappice.png",
+  "size": 54850,
+  "flags": 0
+ },
+ {
+  "name": "preplay/multiplayer/createmp_centerwindow.png",
+  "size": 5570,
+  "flags": 0
+ },
+ {
+  "name": "preplay/multiplayer/createmp_leftwindow.png",
+  "size": 5609,
+  "flags": 0
+ },
+ {
+  "name": "preplay/multiplayer/createmp_rightwindow.png",
+  "size": 5508,
+  "flags": 0
+ },
+ {
+  "name": "preplay/multiplayer/createmp_smallbutton.png",
+  "size": 3542,
+  "flags": 0
+ },
+ {
+  "name": "preplay/player_name_bck_normal.png",
+  "size": 755,
+  "flags": 0
+ },
+ {
+  "name": "preplay/player_name_bck_over.png",
+  "size": 618,
+  "flags": 0
+ },
+ {
+  "name": "preplay/player_name_bck_over_center.png",
+  "size": 2877,
+  "flags": 0
+ },
+ {
+  "name": "preplay/player_name_bck_over_left.png",
+  "size": 3048,
+  "flags": 0
+ },
+ {
+  "name": "preplay/player_name_bck_over_right.png",
+  "size": 3120,
+  "flags": 0
+ },
+ {
+  "name": "preplay/player_name_lobby_bck.png",
+  "size": 3186,
+  "flags": 0
+ },
+ {
+  "name": "preplay/powered_by_gamespy.png",
+  "size": 8346,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/bg_characterbg.png",
+  "size": 43523,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/bg_characterdata.png",
+  "size": 8853,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/bg_profile_name.png",
+  "size": 1103,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/bg_unlockedcharacters.png",
+  "size": 20502,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/dummyprofiles.png",
+  "size": 112901,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/herobackground.png",
+  "size": 41851,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/herotextbackground.png",
+  "size": 4606,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/herotransparentbg.png",
+  "size": 6642,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/inputfield.png",
+  "size": 3668,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/inputfieldtransparent.png",
+  "size": 5419,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/multiplayer_border.png",
+  "size": 6447,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/pic_angelo.png",
+  "size": 11449,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/pic_mario.png",
+  "size": 8770,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/pic_romano.png",
+  "size": 10526,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/pic_sonny.png",
+  "size": 10939,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/profileborder.png",
+  "size": 6599,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/profilebordermouseover.png",
+  "size": 6625,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/profileclosewindow.png",
+  "size": 3677,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/profileclosewindow2.png",
+  "size": 3185,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/profilehighlightborder.png",
+  "size": 6553,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/title.png",
+  "size": 5390,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/titlecreate.png",
+  "size": 5066,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/toggledifficulty.png",
+  "size": 3300,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/unlockedcharacters.png",
+  "size": 5661,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/unlockedcharactersbackground.png",
+  "size": 4603,
+  "flags": 0
+ },
+ {
+  "name": "preplay/profileview/unlockedcharacterstransparent.png",
+  "size": 4835,
+  "flags": 0
+ },
+ {
+  "name": "preplay/ready.png",
+  "size": 2301,
+  "flags": 0
+ },
+ {
+  "name": "preplay/serverinfo/back.png",
+  "size": 4429,
+  "flags": 0
+ },
+ {
+  "name": "preplay/singleplayer/campaignselect_standard.png",
+  "size": 1022,
+  "flags": 0
+ },
+ {
+  "name": "preplay/singleplayer/mapblocked.png",
+  "size": 9290,
+  "flags": 0
+ },
+ {
+  "name": "preplay/update.png",
+  "size": 2846,
+  "flags": 0
+ },
+ {
+  "name": "propertysheet/scroll-arrows.png",
+  "size": 952,
+  "flags": 0
+ },
+ {
+  "name": "resourcebar/antiques.png",
+  "size": 5535,
+  "flags": 0
+ },
+ {
+  "name": "resourcebar/exp_cloth.png",
+  "size": 4464,
+  "flags": 0
+ },
+ {
+  "name": "resourcebar/info.png",
+  "size": 5242,
+  "flags": 0
+ },
+ {
+  "name": "resourcebar/information.png",
+  "size": 5242,
+  "flags": 0
+ },
+ {
+  "name": "resourcebar/jewellery.png",
+  "size": 4874,
+  "flags": 0
+ },
+ {
+  "name": "resourcebar/liquor.png",
+  "size": 4107,
+  "flags": 0
+ },
+ {
+  "name": "resourcebar/q_food.png",
+  "size": 5204,
+  "flags": 0
+ },
+ {
+  "name": "resourcebar/spare_parts.png",
+  "size": 5260,
+  "flags": 0
+ },
+ {
+  "name": "resourcebar/stolen_goods.png",
+  "size": 4931,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegame_bluebg.png",
+  "size": 8123,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegame_bluebutton.png",
+  "size": 3693,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegame_greenbg.png",
+  "size": 8222,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegame_greenbutton.png",
+  "size": 3700,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegame_whitebar.png",
+  "size": 3375,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/blackboss.png",
+  "size": 42193,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/bloodstained_money_1.png",
+  "size": 38419,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/bloodstained_money_2.png",
+  "size": 44827,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/bridge_suburbs.png",
+  "size": 45220,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/building_target.png",
+  "size": 42519,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/chineseboss.png",
+  "size": 40929,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/chineseboss2.png",
+  "size": 41210,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/cigarettes.png",
+  "size": 38616,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/columbianboss1.png",
+  "size": 41681,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/gun_and_bloodstained_money.png",
+  "size": 46057,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/japaneseboss1.png",
+  "size": 41015,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/japaneseboss2.png",
+  "size": 41875,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/jewishboss.png",
+  "size": 40634,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/large_yellow_note.png",
+  "size": 38693,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/money.png",
+  "size": 38670,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/money_in_envelope.png",
+  "size": 52783,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/note_and_two_photos.png",
+  "size": 48057,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/photo_bridge.png",
+  "size": 40687,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/photo_bridge_note.png",
+  "size": 42502,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/photo_building_note.png",
+  "size": 42273,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/photo_of_building.png",
+  "size": 44810,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/photo_of_child.png",
+  "size": 43118,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/photo_of_uniform.png",
+  "size": 44361,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/photos_and_keys.png",
+  "size": 44766,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/redlined_photo_humwee.png",
+  "size": 41352,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/redlined_photo_people.png",
+  "size": 45708,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/russianboss1.png",
+  "size": 43247,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/russianboss2.png",
+  "size": 41465,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/russianboss3.png",
+  "size": 42410,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/savegame_file_dummy.png",
+  "size": 26427,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/sicilianboss1.png",
+  "size": 42190,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/sicilianboss2.png",
+  "size": 42122,
+  "flags": 0
+ },
+ {
+  "name": "savegamedialog/savegameimages/two_photos_street.png",
+  "size": 41781,
+  "flags": 0
+ },
+ {
+  "name": "selectionhub/frame.png",
+  "size": 490,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/cha_1_splash_1.png",
+  "size": 998452,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/cha_1_splash_2.png",
+  "size": 998199,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/cha_1_splash_intro.png",
+  "size": 985726,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/cha_1_splash_success_failure.png",
+  "size": 990403,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/cha_1_splash_unlock_character.png",
+  "size": 318673,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/assassin.png",
+  "size": 494469,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/assassin_unlock.png",
+  "size": 297302,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/bazooka.png",
+  "size": 738430,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/bazooka_unlock.png",
+  "size": 350561,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/big_mamma.png",
+  "size": 570667,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/big_mamma_unlock.png",
+  "size": 625470,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/black_widow.png",
+  "size": 705042,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/black_widow_unlock.png",
+  "size": 644510,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/bodyguard.png",
+  "size": 787739,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/bodyguard_unlock.png",
+  "size": 757758,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/bomber.png",
+  "size": 755760,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/bomber_unlock.png",
+  "size": 693132,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/businessman.png",
+  "size": 847842,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/businessman_unlock.png",
+  "size": 754355,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/infiltrator.png",
+  "size": 576604,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/infiltrator_unlock.png",
+  "size": 792684,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/ninja.png",
+  "size": 309873,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/ninja_unlock.png",
+  "size": 505870,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/sniper.png",
+  "size": 709104,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/sniper_unlock.png",
+  "size": 300520,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/super_bouncer.png",
+  "size": 710017,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/super_bouncer_unlock.png",
+  "size": 727985,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/thief.png",
+  "size": 669711,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge/thief_unlock.png",
+  "size": 560726,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/challenge_ninja.png",
+  "size": 1117812,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/con1_splash_1.png",
+  "size": 759390,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/con1_splash_2.png",
+  "size": 959169,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/con1_splash_3.png",
+  "size": 754879,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/con1_splash_intro.png",
+  "size": 990248,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/docks_1.png",
+  "size": 656593,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_1.png",
+  "size": 707307,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c1_epilogue.png",
+  "size": 839767,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c1_prologue.png",
+  "size": 831817,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c1_tgun1.png",
+  "size": 821605,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c1_tgun2.png",
+  "size": 460465,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c2_epilogue.png",
+  "size": 485240,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c2_prologue.png",
+  "size": 690535,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c2_sp1.png",
+  "size": 625438,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c2_sp2.png",
+  "size": 629797,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c2_sp3.png",
+  "size": 353324,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c3_epilogue.png",
+  "size": 475055,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c3_prologue.png",
+  "size": 1014798,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c3_sp1.png",
+  "size": 699765,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c3_sp2.png",
+  "size": 687137,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c3_sp3.png",
+  "size": 396375,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c3_sp4.png",
+  "size": 421561,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c3_sp5.png",
+  "size": 353324,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c4_epilogue.png",
+  "size": 464184,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c4_prologue.png",
+  "size": 438481,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c4_sp1.png",
+  "size": 464094,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c4_sp2.png",
+  "size": 421561,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c4_sp3.png",
+  "size": 384297,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c4_sp4.png",
+  "size": 489759,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c5_child_familyhenchman.png",
+  "size": 324479,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c5_child_lawyer.png",
+  "size": 440717,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c5_child_seductress.png",
+  "size": 389258,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c5_epilogue.png",
+  "size": 586486,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c5_prologue.png",
+  "size": 502611,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c5_sp1.png",
+  "size": 347478,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c5_sp2.png",
+  "size": 470067,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c6_epilogue.png",
+  "size": 421561,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c6_prologue.png",
+  "size": 639896,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c7_epilogue.png",
+  "size": 421561,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c7_prologue.png",
+  "size": 264983,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c8_epilogue.png",
+  "size": 372406,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c8_prologue.png",
+  "size": 606137,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c8_sp2.png",
+  "size": 470067,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c8_sp3.png",
+  "size": 421561,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c9_epilogue.png",
+  "size": 305956,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/little_italy_c9_prologue.png",
+  "size": 326404,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/poor_1.png",
+  "size": 569746,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/poor_c10_epilogue.png",
+  "size": 491520,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/poor_c10_prologue.png",
+  "size": 609854,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/poor_c11_epilogue.png",
+  "size": 525142,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/poor_c11_prologue.png",
+  "size": 662388,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_1.png",
+  "size": 754298,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c12_epilogue.png",
+  "size": 444608,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c12_prologue.png",
+  "size": 825003,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c13_epilogue.png",
+  "size": 419772,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c13_prologue.png",
+  "size": 307578,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c13_sp2.png",
+  "size": 483842,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c13_sp3.png",
+  "size": 355883,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c13_sp4.png",
+  "size": 367692,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c14_epilogue_intellectual.png",
+  "size": 342020,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c14_epilogue_sophisticated.png",
+  "size": 304450,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c14_epilogue_sporty.png",
+  "size": 364564,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c14_prologue.png",
+  "size": 508611,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c14_sp1.png",
+  "size": 323392,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c14_sp2.png",
+  "size": 291381,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c15_epilogue.png",
+  "size": 407037,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c15_prologue.png",
+  "size": 388160,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c15_sp2.png",
+  "size": 381201,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c16_epilogue.png",
+  "size": 345082,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/conquest/vegas_c16_prologue.png",
+  "size": 285200,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/genericsplash.png",
+  "size": 469961,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_challenge/bazooka.png",
+  "size": 546989,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_challenge/black_widow.png",
+  "size": 440918,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_challenge/bodyguard.png",
+  "size": 524254,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_challenge/ninja.png",
+  "size": 655670,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_little_italy_1.png",
+  "size": 706470,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_little_italy_2.png",
+  "size": 643634,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_little_italy_3.png",
+  "size": 726719,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_little_italy_4.png",
+  "size": 791049,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_suburbs_1.png",
+  "size": 569746,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_suburbs_2.png",
+  "size": 609854,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_suburbs_3.png",
+  "size": 630002,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_the_docks_1.png",
+  "size": 729412,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_the_docks_2.png",
+  "size": 579843,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_the_docks_3.png",
+  "size": 656593,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_the_docks_4.png",
+  "size": 560205,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_the_strip_1.png",
+  "size": 749448,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_the_strip_2.png",
+  "size": 553480,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_the_strip_3.png",
+  "size": 656957,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_the_strip_4.png",
+  "size": 653799,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/mp_conquest/mp_splash_the_strip_5.png",
+  "size": 754298,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/multiplayer_splash_screen.png",
+  "size": 1349536,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/placeholder_splash.png",
+  "size": 101501,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/splash_con1_multi_intro.png",
+  "size": 990248,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/splash_con1_s1.png",
+  "size": 990248,
+  "flags": 0
+ },
+ {
+  "name": "splashscreens/testsplash.png",
+  "size": 866969,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_01.png",
+  "size": 85921,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_02.png",
+  "size": 85879,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_03.png",
+  "size": 86076,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_04.png",
+  "size": 85951,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_05.png",
+  "size": 86072,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_06.png",
+  "size": 85834,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_07.png",
+  "size": 85761,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_08.png",
+  "size": 86160,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_09.png",
+  "size": 86289,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_10.png",
+  "size": 86528,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_11.png",
+  "size": 86525,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_12.png",
+  "size": 86700,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_13.png",
+  "size": 86605,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_14.png",
+  "size": 87065,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_15.png",
+  "size": 87320,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_16.png",
+  "size": 87681,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_17.png",
+  "size": 87629,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_18.png",
+  "size": 87400,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_19.png",
+  "size": 86835,
+  "flags": 0
+ },
+ {
+  "name": "startup/gangland_logo/logo_20.png",
+  "size": 86525,
+  "flags": 0
+ },
+ {
+  "name": "startup/gl-logo-loading.png",
+  "size": 13831,
+  "flags": 0
+ },
+ {
+  "name": "startup/gl-logo.png",
+  "size": 90904,
+  "flags": 0
+ },
+ {
+  "name": "startup/gl-mask.png",
+  "size": 65513,
+  "flags": 0
+ },
+ {
+  "name": "startup/loaderpic.png",
+  "size": 6612,
+  "flags": 0
+ },
+ {
+  "name": "startup/mm_logo_classic.png",
+  "size": 9538,
+  "flags": 0
+ },
+ {
+  "name": "startup/mm_logo_classic2.png",
+  "size": 63308,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_01.png",
+  "size": 27952,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_02.png",
+  "size": 27889,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_03.png",
+  "size": 27885,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_04.png",
+  "size": 27869,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_05.png",
+  "size": 27866,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_06.png",
+  "size": 27886,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_07.png",
+  "size": 27869,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_08.png",
+  "size": 27832,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_09.png",
+  "size": 27846,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_10.png",
+  "size": 27775,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_11.png",
+  "size": 27773,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_12.png",
+  "size": 27776,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_13.png",
+  "size": 26856,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_14.png",
+  "size": 26881,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_15.png",
+  "size": 26893,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_16.png",
+  "size": 26891,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_17.png",
+  "size": 26884,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_18.png",
+  "size": 26953,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_19.png",
+  "size": 26926,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_20.png",
+  "size": 26287,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_21.png",
+  "size": 26284,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_22.png",
+  "size": 26298,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_23.png",
+  "size": 26307,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_24.png",
+  "size": 26315,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_25.png",
+  "size": 26316,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_26.png",
+  "size": 26387,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_27.png",
+  "size": 26388,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_28.png",
+  "size": 26659,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_29.png",
+  "size": 26661,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_30.png",
+  "size": 26877,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_31.png",
+  "size": 26994,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_32.png",
+  "size": 27172,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_33.png",
+  "size": 27339,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_34.png",
+  "size": 27545,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_35.png",
+  "size": 27803,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_36.png",
+  "size": 28044,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_37.png",
+  "size": 28052,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_38.png",
+  "size": 28220,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_39.png",
+  "size": 28438,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_40.png",
+  "size": 28512,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_41.png",
+  "size": 28553,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_42.png",
+  "size": 28606,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_43.png",
+  "size": 28696,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_44.png",
+  "size": 28760,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_45.png",
+  "size": 28767,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_46.png",
+  "size": 28807,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_47.png",
+  "size": 28804,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_48.png",
+  "size": 28852,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_49.png",
+  "size": 28895,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_50.png",
+  "size": 28808,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_51.png",
+  "size": 28865,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_52.png",
+  "size": 28872,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_53.png",
+  "size": 28921,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_54.png",
+  "size": 28944,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_55.png",
+  "size": 29016,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo/logo_56.png",
+  "size": 29092,
+  "flags": 0
+ },
+ {
+  "name": "startup/whiptail_logo_classic2.png",
+  "size": 5604,
+  "flags": 0
+ },
+ {
+  "name": "stats/bottom_window.png",
+  "size": 2517,
+  "flags": 0
+ },
+ {
+  "name": "stats/deadplayer.png",
+  "size": 2512,
+  "flags": 0
+ },
+ {
+  "name": "stats/middle_window.png",
+  "size": 358,
+  "flags": 0
+ },
+ {
+  "name": "stats/top_window.png",
+  "size": 2529,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/attack.png",
+  "size": 2466,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/bless.png",
+  "size": 3279,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/bodyguard.png",
+  "size": 3094,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/bribe.png",
+  "size": 3330,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/collect.png",
+  "size": 2046,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/disarmbomb.png",
+  "size": 3218,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/engage.png",
+  "size": 2364,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/entervehicle.png",
+  "size": 2323,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/follow.png",
+  "size": 1104,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/fortify.png",
+  "size": 3246,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/gamble.png",
+  "size": 3376,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/goto.png",
+  "size": 2443,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/heal.png",
+  "size": 2964,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/hire.png",
+  "size": 3101,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/impersonate.png",
+  "size": 3708,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/inoffice.png",
+  "size": 3579,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/marry.png",
+  "size": 2684,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/mate.png",
+  "size": 5428,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/noattack.png",
+  "size": 2365,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/notalk.png",
+  "size": 2826,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/pickupbody.png",
+  "size": 3300,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/pickupcrate.png",
+  "size": 2653,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/pickupmoney.png",
+  "size": 2653,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/placec4.png",
+  "size": 2835,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/placecarbomb.png",
+  "size": 2835,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/placetimebomb.png",
+  "size": 2835,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/putoutcontract.png",
+  "size": 1384,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/steal.png",
+  "size": 3082,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/steal_car.png",
+  "size": 5813,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/talk.png",
+  "size": 2126,
+  "flags": 0
+ },
+ {
+  "name": "targeticons/work.png",
+  "size": 2653,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/button.dds",
+  "size": 8320,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/buttonnew.png",
+  "size": 988,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/dialogbackground.dds",
+  "size": 262272,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/dialogbackgroundnew.png",
+  "size": 33762,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/dialogbackgroundnew_bg.png",
+  "size": 8679,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/dialogbackgroundnew_windows.png",
+  "size": 33233,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/phone_00.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/phone_01.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/phone_02.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/phoneoff.dds",
+  "size": 16512,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/vincenzo.png",
+  "size": 25236,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/vincenzoparts/l1.png",
+  "size": 969,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/vincenzoparts/l2.png",
+  "size": 959,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/vincenzoparts/l3.png",
+  "size": 965,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/vincenzoparts/l4.png",
+  "size": 961,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/vincenzoparts/r1.png",
+  "size": 965,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/vincenzoparts/r2.png",
+  "size": 943,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/vincenzoparts/r3.png",
+  "size": 961,
+  "flags": 0
+ },
+ {
+  "name": "telephoneview/vincenzoparts/r4.png",
+  "size": 958,
+  "flags": 0
+ },
+ {
+  "name": "winlose/familygone.png",
+  "size": 4161,
+  "flags": 0
+ },
+ {
+  "name": "winlose/loselarge.png",
+  "size": 11119,
+  "flags": 0
+ },
+ {
+  "name": "winlose/winlarge.png",
+  "size": 11022,
+  "flags": 0
+ }
+]
