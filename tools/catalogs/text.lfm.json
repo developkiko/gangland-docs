@@ -1,0 +1,1572 @@
+[
+ {
+  "name": "aisettings/aggressive_nonexpansive_modifier.ini",
+  "size": 419,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/business_modifier.ini",
+  "size": 472,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/descriptor.ini",
+  "size": 2059,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/exploding_modifier.ini",
+  "size": 396,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/hunting_modifier.ini",
+  "size": 512,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/mp_hard.ini",
+  "size": 1013,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/mp_nonexpansive.ini",
+  "size": 543,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/mp_normal.ini",
+  "size": 347,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/mp_weak.ini",
+  "size": 603,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/multiplayer.ini",
+  "size": 347,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/normal.ini",
+  "size": 2048,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/passive_modifier.ini",
+  "size": 418,
+  "flag": 1
+ },
+ {
+  "name": "aisettings/weakpassive_modifier.ini",
+  "size": 689,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/armsdealer_1.ini",
+  "size": 811,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/armsdealer_2.ini",
+  "size": 715,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/bank.ini",
+  "size": 708,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/casino_exclusive.ini",
+  "size": 727,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/church_baptist.ini",
+  "size": 526,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/church_catholic.ini",
+  "size": 620,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/demolished.ini",
+  "size": 561,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/demolished_3x2.ini",
+  "size": 561,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/demolished_3x3.ini",
+  "size": 561,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/demolished_3x4.ini",
+  "size": 465,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/demolished_3x5.ini",
+  "size": 467,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/demolished_4x4.ini",
+  "size": 465,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/distillery.ini",
+  "size": 584,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/fashion_boutique.ini",
+  "size": 968,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/garage.ini",
+  "size": 748,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/hotel_exclusive.ini",
+  "size": 804,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/hotel_worndown.ini",
+  "size": 838,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/import_export.ini",
+  "size": 873,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/jeweller.ini",
+  "size": 857,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/museum.ini",
+  "size": 724,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/office_1.ini",
+  "size": 851,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/office_2.ini",
+  "size": 933,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/pawnshop.ini",
+  "size": 911,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/policestation.ini",
+  "size": 514,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/residential_condemned.ini",
+  "size": 716,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/residential_nice.ini",
+  "size": 665,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/residential_trashy.ini",
+  "size": 676,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/restaurant_1.ini",
+  "size": 1070,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/restaurant_2.ini",
+  "size": 1126,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/restaurant_3.ini",
+  "size": 1111,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/restaurant_giant.ini",
+  "size": 1009,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/safehouse_1.ini",
+  "size": 624,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/safehouse_2.ini",
+  "size": 625,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/safehouse_3.ini",
+  "size": 626,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/testbuilding.ini",
+  "size": 592,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/warehouse_1.ini",
+  "size": 581,
+  "flag": 1
+ },
+ {
+  "name": "businessproperties/warehouse_2.ini",
+  "size": 581,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/angelo.ini",
+  "size": 1059,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/assassin.ini",
+  "size": 443,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/bazooka_guy.ini",
+  "size": 559,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/bazookaunit.ini",
+  "size": 482,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/blackboss.ini",
+  "size": 349,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/blackpriest.ini",
+  "size": 447,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/blackwidow.ini",
+  "size": 503,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/bodyguard.ini",
+  "size": 544,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/bomber.ini",
+  "size": 554,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/bouncer.ini",
+  "size": 668,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/boyenforcer.ini",
+  "size": 191,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/boylawyer.ini",
+  "size": 187,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/businessman.ini",
+  "size": 589,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/chiefofpolice.ini",
+  "size": 208,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/chineseboss.ini",
+  "size": 410,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/civilian_female.ini",
+  "size": 139,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/civilian_male.ini",
+  "size": 127,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/collecter.ini",
+  "size": 363,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/columbianboss.ini",
+  "size": 350,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/constructionworker.ini",
+  "size": 137,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/croupier.ini",
+  "size": 357,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/dancer.ini",
+  "size": 379,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/descriptor.ini",
+  "size": 897,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/distiller.ini",
+  "size": 377,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/fakecop.ini",
+  "size": 321,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/familyhenchman.ini",
+  "size": 582,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/fbiagent.ini",
+  "size": 228,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/general.ini",
+  "size": 175,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/girl.ini",
+  "size": 188,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/girlseductress.ini",
+  "size": 198,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/goombah.ini",
+  "size": 483,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/goon.ini",
+  "size": 473,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/gunman.ini",
+  "size": 599,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/heavystoremanager.ini",
+  "size": 176,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/henchman.ini",
+  "size": 571,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/hero.ini",
+  "size": 730,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/hero_1.ini",
+  "size": 735,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/hero_2.ini",
+  "size": 735,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/hoodlum.ini",
+  "size": 177,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/hoodlumleader.ini",
+  "size": 285,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/infiltrator.ini",
+  "size": 363,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/japaneseboss.ini",
+  "size": 376,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/jewishboss.ini",
+  "size": 373,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/lawyer.ini",
+  "size": 556,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/loanshark.ini",
+  "size": 377,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/mario.ini",
+  "size": 1057,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/mario_1.ini",
+  "size": 1055,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/mario_2.ini",
+  "size": 1055,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/newspaperboy.ini",
+  "size": 126,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/ninja.ini",
+  "size": 528,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/npcboss.ini",
+  "size": 398,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/npcstoremanager.ini",
+  "size": 136,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/priest.ini",
+  "size": 436,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/prostitute.ini",
+  "size": 387,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/receptionist.ini",
+  "size": 164,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/romano.ini",
+  "size": 1051,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/russianboss.ini",
+  "size": 358,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/securityguard.ini",
+  "size": 211,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/seductress.ini",
+  "size": 469,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/sicilianboss.ini",
+  "size": 355,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/sniper.ini",
+  "size": 553,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/sonny.ini",
+  "size": 1052,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/spouse.ini",
+  "size": 125,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/spouseintellectual.ini",
+  "size": 125,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/spouseseductive.ini",
+  "size": 125,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/spousesporty.ini",
+  "size": 125,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/storemanager.ini",
+  "size": 368,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/streetcop.ini",
+  "size": 270,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/streetgirl.ini",
+  "size": 556,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/superbouncer.ini",
+  "size": 564,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/superninja.ini",
+  "size": 568,
+  "flag": 1
+ },
+ {
+  "name": "characterproperties/thief.ini",
+  "size": 433,
+  "flag": 1
+ },
+ {
+  "name": "credits/credits.ini",
+  "size": 3160,
+  "flag": 1
+ },
+ {
+  "name": "credits/handlecredits.ini",
+  "size": 1708,
+  "flag": 1
+ },
+ {
+  "name": "hints/advancedhints.ini",
+  "size": 591,
+  "flag": 1
+ },
+ {
+  "name": "hints/beginnerhints.ini",
+  "size": 1297,
+  "flag": 1
+ },
+ {
+  "name": "hints/intermediatehints.ini",
+  "size": 589,
+  "flag": 1
+ },
+ {
+  "name": "icmsimulator/black.ini",
+  "size": 235,
+  "flag": 1
+ },
+ {
+  "name": "icmsimulator/chinese.ini",
+  "size": 234,
+  "flag": 1
+ },
+ {
+  "name": "icmsimulator/columbian.ini",
+  "size": 309,
+  "flag": 1
+ },
+ {
+  "name": "icmsimulator/default.ini",
+  "size": 806,
+  "flag": 1
+ },
+ {
+  "name": "icmsimulator/japanese.ini",
+  "size": 234,
+  "flag": 1
+ },
+ {
+  "name": "icmsimulator/jewish.ini",
+  "size": 307,
+  "flag": 1
+ },
+ {
+  "name": "icmsimulator/multiplayer.ini",
+  "size": 806,
+  "flag": 1
+ },
+ {
+  "name": "icmsimulator/russian.ini",
+  "size": 387,
+  "flag": 1
+ },
+ {
+  "name": "icmsimulator/sicilian.ini",
+  "size": 231,
+  "flag": 1
+ },
+ {
+  "name": "popups/building/buy.ini",
+  "size": 55,
+  "flag": 1
+ },
+ {
+  "name": "popups/character/attack.ini",
+  "size": 47,
+  "flag": 1
+ },
+ {
+  "name": "popups/character/moveto.ini",
+  "size": 60,
+  "flag": 1
+ },
+ {
+  "name": "speech/01.ini",
+  "size": 275,
+  "flag": 1
+ },
+ {
+  "name": "speech/02.ini",
+  "size": 171,
+  "flag": 1
+ },
+ {
+  "name": "speech/03.ini",
+  "size": 431,
+  "flag": 1
+ },
+ {
+  "name": "speech/04.ini",
+  "size": 431,
+  "flag": 1
+ },
+ {
+  "name": "speech/05.ini",
+  "size": 9629,
+  "flag": 1
+ },
+ {
+  "name": "speech/06.ini",
+  "size": 23126,
+  "flag": 1
+ },
+ {
+  "name": "speech/07.ini",
+  "size": 16276,
+  "flag": 1
+ },
+ {
+  "name": "speech/08.ini",
+  "size": 1726,
+  "flag": 1
+ },
+ {
+  "name": "speech/09.ini",
+  "size": 1935,
+  "flag": 1
+ },
+ {
+  "name": "speech/10.ini",
+  "size": 2195,
+  "flag": 1
+ },
+ {
+  "name": "speech/100.ini",
+  "size": 203,
+  "flag": 1
+ },
+ {
+  "name": "speech/101.ini",
+  "size": 622,
+  "flag": 1
+ },
+ {
+  "name": "speech/102.ini",
+  "size": 351,
+  "flag": 1
+ },
+ {
+  "name": "speech/103.ini",
+  "size": 342,
+  "flag": 1
+ },
+ {
+  "name": "speech/11.ini",
+  "size": 1434,
+  "flag": 1
+ },
+ {
+  "name": "speech/12.ini",
+  "size": 574,
+  "flag": 1
+ },
+ {
+  "name": "speech/13.ini",
+  "size": 1778,
+  "flag": 1
+ },
+ {
+  "name": "speech/14.ini",
+  "size": 1749,
+  "flag": 1
+ },
+ {
+  "name": "speech/15.ini",
+  "size": 1099,
+  "flag": 1
+ },
+ {
+  "name": "speech/16.ini",
+  "size": 425,
+  "flag": 1
+ },
+ {
+  "name": "speech/17.ini",
+  "size": 562,
+  "flag": 1
+ },
+ {
+  "name": "speech/18.ini",
+  "size": 394,
+  "flag": 1
+ },
+ {
+  "name": "speech/19.ini",
+  "size": 465,
+  "flag": 1
+ },
+ {
+  "name": "speech/20.ini",
+  "size": 756,
+  "flag": 1
+ },
+ {
+  "name": "speech/21.ini",
+  "size": 579,
+  "flag": 1
+ },
+ {
+  "name": "speech/23.ini",
+  "size": 533,
+  "flag": 1
+ },
+ {
+  "name": "speech/24.ini",
+  "size": 1046,
+  "flag": 1
+ },
+ {
+  "name": "speech/25.ini",
+  "size": 592,
+  "flag": 1
+ },
+ {
+  "name": "speech/26.ini",
+  "size": 1073,
+  "flag": 1
+ },
+ {
+  "name": "speech/27.ini",
+  "size": 1200,
+  "flag": 1
+ },
+ {
+  "name": "speech/28.ini",
+  "size": 794,
+  "flag": 1
+ },
+ {
+  "name": "speech/29.ini",
+  "size": 608,
+  "flag": 1
+ },
+ {
+  "name": "speech/30.ini",
+  "size": 206,
+  "flag": 1
+ },
+ {
+  "name": "speech/31.ini",
+  "size": 1501,
+  "flag": 1
+ },
+ {
+  "name": "speech/32.ini",
+  "size": 7362,
+  "flag": 1
+ },
+ {
+  "name": "speech/33.ini",
+  "size": 4589,
+  "flag": 1
+ },
+ {
+  "name": "speech/34.ini",
+  "size": 2995,
+  "flag": 1
+ },
+ {
+  "name": "speech/35.ini",
+  "size": 656,
+  "flag": 1
+ },
+ {
+  "name": "speech/36.ini",
+  "size": 541,
+  "flag": 1
+ },
+ {
+  "name": "speech/37.ini",
+  "size": 640,
+  "flag": 1
+ },
+ {
+  "name": "speech/38.ini",
+  "size": 872,
+  "flag": 1
+ },
+ {
+  "name": "speech/40.ini",
+  "size": 453,
+  "flag": 1
+ },
+ {
+  "name": "speech/41.ini",
+  "size": 460,
+  "flag": 1
+ },
+ {
+  "name": "speech/42.ini",
+  "size": 307,
+  "flag": 1
+ },
+ {
+  "name": "speech/43.ini",
+  "size": 310,
+  "flag": 1
+ },
+ {
+  "name": "speech/44.ini",
+  "size": 305,
+  "flag": 1
+ },
+ {
+  "name": "speech/45.ini",
+  "size": 3260,
+  "flag": 1
+ },
+ {
+  "name": "speech/47.ini",
+  "size": 312,
+  "flag": 1
+ },
+ {
+  "name": "speech/48.ini",
+  "size": 367,
+  "flag": 1
+ },
+ {
+  "name": "speech/51.ini",
+  "size": 420,
+  "flag": 1
+ },
+ {
+  "name": "speech/52.ini",
+  "size": 440,
+  "flag": 1
+ },
+ {
+  "name": "speech/53.ini",
+  "size": 346,
+  "flag": 1
+ },
+ {
+  "name": "speech/54.ini",
+  "size": 327,
+  "flag": 1
+ },
+ {
+  "name": "speech/55.ini",
+  "size": 429,
+  "flag": 1
+ },
+ {
+  "name": "speech/57.ini",
+  "size": 587,
+  "flag": 1
+ },
+ {
+  "name": "speech/59.ini",
+  "size": 400,
+  "flag": 1
+ },
+ {
+  "name": "speech/60.ini",
+  "size": 1028,
+  "flag": 1
+ },
+ {
+  "name": "speech/61.ini",
+  "size": 1694,
+  "flag": 1
+ },
+ {
+  "name": "speech/62.ini",
+  "size": 807,
+  "flag": 1
+ },
+ {
+  "name": "speech/63.ini",
+  "size": 1130,
+  "flag": 1
+ },
+ {
+  "name": "speech/64.ini",
+  "size": 479,
+  "flag": 1
+ },
+ {
+  "name": "speech/65.ini",
+  "size": 429,
+  "flag": 1
+ },
+ {
+  "name": "speech/66.ini",
+  "size": 462,
+  "flag": 1
+ },
+ {
+  "name": "speech/71.ini",
+  "size": 432,
+  "flag": 1
+ },
+ {
+  "name": "speech/72.ini",
+  "size": 231,
+  "flag": 1
+ },
+ {
+  "name": "speech/73.ini",
+  "size": 213,
+  "flag": 1
+ },
+ {
+  "name": "speech/74.ini",
+  "size": 237,
+  "flag": 1
+ },
+ {
+  "name": "speech/75.ini",
+  "size": 238,
+  "flag": 1
+ },
+ {
+  "name": "speech/76.ini",
+  "size": 231,
+  "flag": 1
+ },
+ {
+  "name": "speech/77.ini",
+  "size": 594,
+  "flag": 1
+ },
+ {
+  "name": "speech/78.ini",
+  "size": 1152,
+  "flag": 1
+ },
+ {
+  "name": "speech/79.ini",
+  "size": 293,
+  "flag": 1
+ },
+ {
+  "name": "speech/80.ini",
+  "size": 228,
+  "flag": 1
+ },
+ {
+  "name": "speech/81.ini",
+  "size": 217,
+  "flag": 1
+ },
+ {
+  "name": "speech/82.ini",
+  "size": 219,
+  "flag": 1
+ },
+ {
+  "name": "speech/84.ini",
+  "size": 5361,
+  "flag": 1
+ },
+ {
+  "name": "speech/86.ini",
+  "size": 655,
+  "flag": 1
+ },
+ {
+  "name": "speech/87.ini",
+  "size": 1580,
+  "flag": 1
+ },
+ {
+  "name": "speech/88.ini",
+  "size": 1072,
+  "flag": 1
+ },
+ {
+  "name": "speech/89.ini",
+  "size": 626,
+  "flag": 1
+ },
+ {
+  "name": "speech/90.ini",
+  "size": 728,
+  "flag": 1
+ },
+ {
+  "name": "speech/91.ini",
+  "size": 290,
+  "flag": 1
+ },
+ {
+  "name": "speech/92.ini",
+  "size": 296,
+  "flag": 1
+ },
+ {
+  "name": "speech/93.ini",
+  "size": 182,
+  "flag": 1
+ },
+ {
+  "name": "speech/94.ini",
+  "size": 7129,
+  "flag": 1
+ },
+ {
+  "name": "speech/95.ini",
+  "size": 6233,
+  "flag": 1
+ },
+ {
+  "name": "speech/96.ini",
+  "size": 1533,
+  "flag": 1
+ },
+ {
+  "name": "speech/97.ini",
+  "size": 406,
+  "flag": 1
+ },
+ {
+  "name": "speech/98.ini",
+  "size": 472,
+  "flag": 1
+ },
+ {
+  "name": "speech/99.ini",
+  "size": 335,
+  "flag": 1
+ },
+ {
+  "name": "speech/descriptor.ini",
+  "size": 1552,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/assassin.ini",
+  "size": 205,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/bazooka.ini",
+  "size": 203,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/big_mamma.ini",
+  "size": 807,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/black_widow.ini",
+  "size": 205,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/bodyguard.ini",
+  "size": 820,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/bomber.ini",
+  "size": 602,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/businessman.ini",
+  "size": 205,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con01.ini",
+  "size": 807,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con02.ini",
+  "size": 807,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con03.ini",
+  "size": 807,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con04.ini",
+  "size": 807,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con05.ini",
+  "size": 602,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con06.ini",
+  "size": 602,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con07.ini",
+  "size": 602,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con08.ini",
+  "size": 602,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con09.ini",
+  "size": 820,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con10.ini",
+  "size": 820,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con11.ini",
+  "size": 820,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con12.ini",
+  "size": 205,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con13.ini",
+  "size": 205,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con14.ini",
+  "size": 205,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con15.ini",
+  "size": 205,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/con16.ini",
+  "size": 205,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/daylight.ini",
+  "size": 203,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/infiltrator.ini",
+  "size": 807,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/ninja.ini",
+  "size": 190,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/sniper.ini",
+  "size": 820,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/super_bouncer.ini",
+  "size": 820,
+  "flag": 1
+ },
+ {
+  "name": "tileengine/thief.ini",
+  "size": 820,
+  "flag": 1
+ },
+ {
+  "name": "vehicleproperties/chrysler.ini",
+  "size": 1102,
+  "flag": 1
+ },
+ {
+  "name": "vehicleproperties/descriptor.ini",
+  "size": 1504,
+  "flag": 1
+ },
+ {
+  "name": "vehicleproperties/humvee.ini",
+  "size": 1315,
+  "flag": 1
+ },
+ {
+  "name": "vehicleproperties/mini.ini",
+  "size": 1099,
+  "flag": 1
+ },
+ {
+  "name": "vehicleproperties/police.ini",
+  "size": 1329,
+  "flag": 1
+ },
+ {
+  "name": "vehicleproperties/tank.ini",
+  "size": 962,
+  "flag": 1
+ },
+ {
+  "name": "vehicleproperties/towncar.ini",
+  "size": 1300,
+  "flag": 1
+ },
+ {
+  "name": "vehicleproperties/truck.ini",
+  "size": 889,
+  "flag": 1
+ },
+ {
+  "name": "vehicleproperties/viper.ini",
+  "size": 1130,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/acidspray.ini",
+  "size": 407,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/baseballbat.ini",
+  "size": 253,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/baseballbat_stun.ini",
+  "size": 421,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/baseballbatspiked.ini",
+  "size": 268,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/baseballbatspiked_stun.ini",
+  "size": 445,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/baton.ini",
+  "size": 265,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/bazooka.ini",
+  "size": 395,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/bodysack.ini",
+  "size": 90,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/calculator.ini",
+  "size": 114,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/derringer.ini",
+  "size": 456,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/descriptor.ini",
+  "size": 398,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/dynamite.ini",
+  "size": 408,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/fist.ini",
+  "size": 240,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/fist_stun.ini",
+  "size": 249,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/gasgrenade.ini",
+  "size": 416,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/handgrenade.ini",
+  "size": 438,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/handgun.ini",
+  "size": 448,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/handgun2x.ini",
+  "size": 451,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/handgun2xscope.ini",
+  "size": 461,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/handgunscope.ini",
+  "size": 474,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/knife.ini",
+  "size": 256,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/medickit.ini",
+  "size": 222,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/newspaper_female.ini",
+  "size": 108,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/newspaper_male.ini",
+  "size": 106,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/newspaper_newspaperboy.ini",
+  "size": 108,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/ninjafist.ini",
+  "size": 261,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/ninjasai.ini",
+  "size": 252,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/pepperspray.ini",
+  "size": 425,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/poison.ini",
+  "size": 273,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/seduce.ini",
+  "size": 166,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/semihandgun.ini",
+  "size": 458,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/semihandgun2x.ini",
+  "size": 470,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/semihandgunscope.ini",
+  "size": 484,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/shotgun.ini",
+  "size": 434,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/shotgundoublebarreled.ini",
+  "size": 491,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/sniperrifle.ini",
+  "size": 412,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/sniperriflescope.ini",
+  "size": 437,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/sniperriflescopesilencer.ini",
+  "size": 474,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/suitcase.ini",
+  "size": 193,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/tommygun.ini",
+  "size": 453,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/tommygun2x.ini",
+  "size": 451,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/tommygun2xsilencer.ini",
+  "size": 475,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/tommygunsilencer.ini",
+  "size": 453,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/uzi.ini",
+  "size": 398,
+  "flag": 1
+ },
+ {
+  "name": "weaponproperties/woodenbox.ini",
+  "size": 90,
+  "flag": 1
+ },
+ {
+  "name": "o111",
+  "size": 0,
+  "flag": 0
+ }
+]

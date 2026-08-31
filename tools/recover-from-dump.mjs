@@ -68,7 +68,32 @@ const targets = {
   'maps.lfm': null, // 70631940
   'locale.lfm': null, // 130885
 };
-const outDir = 'C:\\Meine\\tools\\dirs';
+// восстанавливает первый байт: у первой записи цепочки в памяти бывает мусорный префикс
+// (kdev→dev, 9aisettings→aisettings, Pcharacters→characters, /buildings→buildings).
+// Срезаем ведущие символы, пока исправленный сегмент не начнёт встречаться в других записях.
+function cleanFirstName(entries) {
+  const rest = entries.slice(1);
+  let name = entries[0].name;
+  const known = (candidate) => rest.some((e) => e.name.startsWith(candidate));
+  for (let cut = 0; cut < Math.min(4, name.length); cut++) {
+    const candidate = name.slice(cut);
+    const seg = candidate.split('/')[0];
+    if (known(seg) || known(candidate)) {
+      entries[0] = { ...entries[0], name: candidate };
+      break;
+    }
+  }
+  return entries;
+}
+
+// точные первые имена для каталогов, где автопочинка не срабатывает
+// (единственная запись верхнего уровня, на неё нет других ссылок)
+const FIRST_NAME_OVERRIDES = {
+  'characters.lfm': 'characters.ini',
+  'maps.lfm': 'buildings/arms_dealer_2x2_corner_building.cst',
+};
+
+const outDir = path.join(webDir, 'tools', 'catalogs');
 fs.mkdirSync(outDir, { recursive: true });
 
 for (const lfmName of Object.keys(targets)) {
@@ -81,8 +106,10 @@ for (const lfmName of Object.keys(targets)) {
     const d = fs.readFileSync(reg);
     const chain = findChain(d, dataLen);
     if (chain && chain.sum === dataLen) {
-      const entries = readChain(d, chain.start, chain.count);
-      entries[0].name = entries[0].name.replace(/^[^a-zA-Z0-9_./]/, '');
+      const entries = cleanFirstName(readChain(d, chain.start, chain.count));
+      if (FIRST_NAME_OVERRIDES[lfmName]) {
+        entries[0] = { ...entries[0], name: FIRST_NAME_OVERRIDES[lfmName] };
+      }
       result = { region: path.basename(reg), entries };
       break;
     }

@@ -29,8 +29,20 @@ for (const file of archives) {
   const dest = path.join(outDir, name);
 
   if (!parsed.ok) {
-    console.log(`--  ${file}: каталог зашифрован, пропуск (данные: ${(buf.length - parsed.dataOffset) / 1048576 | 0} MB после offset ${parsed.dataOffset})`);
-    index.archives.push({ name, file, status: 'encrypted', dataOffset: parsed.dataOffset, entries: 0 });
+    // каталог шифрован, но восстановлен из памяти (tools/recover-from-dump.mjs):
+    // прикрепляем список имён и размеров к той же карточке архива
+    const catPath = path.join(webDir, 'tools', 'catalogs', `${name}.lfm.json`);
+    const catalog = fs.existsSync(catPath)
+      ? JSON.parse(fs.readFileSync(catPath, 'utf8'))
+      : null;
+    console.log(`--  ${file}: каталог был зашифрован${catalog ? `, восстановлен: ${catalog.length} файлов` : ''}`);
+    index.archives.push({
+      name, file, status: 'encrypted', dataOffset: parsed.dataOffset,
+      entries: catalog ? catalog.length : 0,
+      bytes: catalog ? catalog.reduce((a, e) => a + e.size, 0) : 0,
+      files: catalog ? catalog.map((e) => ({ n: e.name, s: e.size })) : undefined,
+      recovered: Boolean(catalog),
+    });
     continue;
   }
 
@@ -62,29 +74,24 @@ for (const file of archives) {
 }
 
 if (!process.argv.includes('--no-index')) {
-  // псевдо-архивы из восстановленных каталогов/памяти (см. tools/carve-maps.mjs и сессию реверса)
-  const pseudo = [
-    ['lua', 'extracted/lua'],
-    ['maps', 'extracted/maps'],
-    ['maps_carved', 'extracted/maps_carved'],
-  ];
-  for (const [name, rel] of pseudo) {
-    const root = path.join(webDir, rel);
-    if (!fs.existsSync(root)) continue;
+  // maps_carved из файловой системы (карты, вырезанные до восстановления каталога)
+  const carvedRoot = path.join(webDir, 'extracted', 'maps_carved');
+  if (fs.existsSync(carvedRoot)) {
     const files = [];
     (function walk(dir) {
       for (const f of fs.readdirSync(dir, { withFileTypes: true })) {
         const full = path.join(dir, f.name);
         if (f.isDirectory()) walk(full);
-        else files.push({ n: path.relative(root, full).replace(/\\/g, '/'), s: fs.statSync(full).size });
+        else files.push({ n: path.relative(carvedRoot, full).replace(/\\/g, '/'), s: fs.statSync(full).size });
       }
-    })(root);
+    })(carvedRoot);
     index.archives.push({
-      name, file: rel, status: 'ok', entries: files.length,
-      bytes: files.reduce((a, x) => a + x.s, 0),
+      name: 'maps_carved', file: 'extracted/maps_carved', status: 'ok',
+      entries: files.length, bytes: files.reduce((a, x) => a + x.s, 0),
       files: files.sort((a, b) => a.n.localeCompare(b.n)),
     });
   }
+
   fs.writeFileSync(indexOut, JSON.stringify(index));
   console.log(`\nИндекс: ${indexOut} (${(fs.statSync(indexOut).size / 1048576).toFixed(2)} MB)`);
 }

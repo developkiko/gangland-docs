@@ -1,0 +1,2797 @@
+[
+ {
+  "name": "buildings/arms_dealer_2x2_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/arms_dealer_2x2_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/arms_dealer_2x2_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/arms_dealer_2x2_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/arms_dealer_4x2_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/arms_dealer_4x2_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/bank_4x4_back_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/bank_4x4_back_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/bank_4x4_front_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/bank_4x4_front_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/brothel_exclusive_3x2_standard_building.cst",
+  "size": 1152,
+  "flag": 0
+ },
+ {
+  "name": "buildings/brothel_exclusive_3x2_standard_walk.wmap",
+  "size": 384,
+  "flag": 0
+ },
+ {
+  "name": "buildings/brothel_worn_3x2_standard_building.cst",
+  "size": 1152,
+  "flag": 0
+ },
+ {
+  "name": "buildings/brothel_worn_3x2_standard_walk.wmap",
+  "size": 384,
+  "flag": 0
+ },
+ {
+  "name": "buildings/casino_4x4_back_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/casino_4x4_back_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/casino_4x4_front_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/casino_4x4_front_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_baptist_2x2_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_baptist_2x2_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_baptist_2x2_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_baptist_2x2_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x2_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x2_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x2_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x2_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x4_back_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x4_back_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x4_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x4_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x4_front_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x4_front_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x4_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/church_catholic_2x4_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_2x2_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_2x2_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_2x2_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_2x2_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_2x4_front_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_2x4_front_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_2x4_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_2x4_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x1_corner_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x1_corner_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x1_standard_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x1_standard_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_back_corner_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_back_corner_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_back_standard_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_back_standard_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_corner_building.cst",
+  "size": 1152,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_corner_walk.wmap",
+  "size": 384,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_front_corner_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_front_corner_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_front_standard_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_front_standard_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_standard_building.cst",
+  "size": 1152,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x2_standard_walk.wmap",
+  "size": 384,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x3_standard_building.cst",
+  "size": 1728,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_3x3_standard_walk.wmap",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_4x2_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_4x2_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_4x4_back_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_4x4_back_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_4x4_front_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/destroyed_4x4_front_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/distillery_4x4_back_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/distillery_4x4_back_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/distillery_4x4_front_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/distillery_4x4_front_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/empty_back_2x2_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/empty_back_2x2_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_back_corner_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_back_corner_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_back_standard_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_back_standard_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_corner_building.cst",
+  "size": 1728,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_corner_walk.wmap",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_front_corner_building.cst",
+  "size": 1152,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_front_corner_walk.wmap",
+  "size": 384,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_front_standard_building.cst",
+  "size": 1152,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_front_standard_walk.wmap",
+  "size": 384,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_standard_building.cst",
+  "size": 1728,
+  "flag": 0
+ },
+ {
+  "name": "buildings/fashion_boutique_3x3_standard_walk.wmap",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/gambling_den_2x2_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/gambling_den_2x2_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/gambling_den_4x2_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/gambling_den_4x2_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/garage_2x2_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/garage_2x2_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/garage_2x2_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/garage_2x2_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/hotel_exclusive_3x3_standard_building.cst",
+  "size": 1728,
+  "flag": 0
+ },
+ {
+  "name": "buildings/hotel_exclusive_3x3_standard_walk.wmap",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/hotel_worn_3x2_standard_building.cst",
+  "size": 1152,
+  "flag": 0
+ },
+ {
+  "name": "buildings/hotel_worn_3x2_standard_walk.wmap",
+  "size": 384,
+  "flag": 0
+ },
+ {
+  "name": "buildings/import_export_2x2_back_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/import_export_2x2_back_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/import_export_2x2_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/import_export_2x2_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/import_export_2x2_front_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/import_export_2x2_front_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/import_export_2x2_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/import_export_2x2_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/jeweler_3x1_back_corner_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/jeweler_3x1_back_corner_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/jeweler_3x1_back_standard_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/jeweler_3x1_back_standard_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/jeweler_3x1_front_corner_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/jeweler_3x1_front_corner_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/jeweler_3x1_front_standard_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/jeweler_3x1_front_standard_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/loanshark_2x2_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/loanshark_2x2_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/museum_4x4_back_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/museum_4x4_back_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/museum_4x4_front_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/museum_4x4_front_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/noaccess_2x2_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/noaccess_2x2_corner_mirror_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/noaccess_2x2_corner_mirror_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/noaccess_2x2_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/noaccess_2x2_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/noaccess_2x2_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_back_corner_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_back_corner_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_back_standard_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_back_standard_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_front_corner_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_front_corner_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_front_standard_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_001_3x2_front_standard_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_back_corner_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_back_corner_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_back_standard_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_back_standard_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_front_corner_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_front_corner_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_front_standard_building.cst",
+  "size": 576,
+  "flag": 0
+ },
+ {
+  "name": "buildings/office_building_002_3x2_front_standard_walk.wmap",
+  "size": 192,
+  "flag": 0
+ },
+ {
+  "name": "buildings/pawnshop_2x2_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/pawnshop_2x2_corner_mirror_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/pawnshop_2x2_corner_mirror_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/pawnshop_2x2_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/pawnshop_2x2_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/pawnshop_2x2_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/police_station_2x2_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/police_station_2x2_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/police_station_2x2_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/police_station_2x2_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_2x2_back_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_2x2_back_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_2x2_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_2x2_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_2x2_front_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_2x2_front_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_2x2_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_2x2_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_back_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_back_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_front_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_front_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_condemned_2x4_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_back_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_back_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_front_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_front_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_nice_2x4_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x2_back_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x2_back_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x2_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x2_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x2_front_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x2_front_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x2_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/residential_trashy_2x2_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_0_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_0_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_0_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_0_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_1_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_1_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_1_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_1_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_2_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_2_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_2_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_2x2_level_2_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_4x4_back_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_4x4_back_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_4x4_front_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/restaurant_4x4_front_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_0_back_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_0_back_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_0_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_0_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_0_front_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_0_front_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_0_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_0_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_1_back_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_1_back_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_1_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_1_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_1_front_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_1_front_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_1_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_1_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_2_back_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_2_back_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_2_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_2_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_2_front_corner_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_2_front_corner_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_2_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/safehouse_2x2_level_2_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/speak_easy_2x2_level_0_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/speak_easy_2x2_level_0_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/speak_easy_2x2_level_1_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/speak_easy_2x2_level_1_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/warehouse_2x4_back_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/warehouse_2x4_back_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/warehouse_2x4_front_standard_building.cst",
+  "size": 768,
+  "flag": 0
+ },
+ {
+  "name": "buildings/warehouse_2x4_front_standard_walk.wmap",
+  "size": 256,
+  "flag": 0
+ },
+ {
+  "name": "buildings/warehouse_4x4_back_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/warehouse_4x4_back_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "buildings/warehouse_4x4_front_standard_building.cst",
+  "size": 1536,
+  "flag": 0
+ },
+ {
+  "name": "buildings/warehouse_4x4_front_standard_walk.wmap",
+  "size": 512,
+  "flag": 0
+ },
+ {
+  "name": "challenge/assassin/_mapsetup.luac",
+  "size": 4463,
+  "flag": 1
+ },
+ {
+  "name": "challenge/assassin/assassin.fmp",
+  "size": 563283,
+  "flag": 0
+ },
+ {
+  "name": "challenge/assassin/assassin.ini",
+  "size": 1721,
+  "flag": 1
+ },
+ {
+  "name": "challenge/assassin/assassin.luac",
+  "size": 11613,
+  "flag": 1
+ },
+ {
+  "name": "challenge/assassin/assassin.rmp",
+  "size": 27102,
+  "flag": 0
+ },
+ {
+  "name": "challenge/assassin/assassin.scm",
+  "size": 211592,
+  "flag": 0
+ },
+ {
+  "name": "challenge/assassin/assassin.vis",
+  "size": 59064,
+  "flag": 0
+ },
+ {
+  "name": "challenge/assassin/hints.ini",
+  "size": 143,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bazooka/_bossgraph.ini",
+  "size": 224,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bazooka/_mapsetup.luac",
+  "size": 4419,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bazooka/bazooka.fmp",
+  "size": 418590,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bazooka/bazooka.ini",
+  "size": 1694,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bazooka/bazooka.luac",
+  "size": 6821,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bazooka/bazooka.rmp",
+  "size": 19312,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bazooka/bazooka.scm",
+  "size": 149768,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bazooka/bazooka.vis",
+  "size": 33944,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bazooka/hints.ini",
+  "size": 181,
+  "flag": 1
+ },
+ {
+  "name": "challenge/big_mamma/_mapsetup.luac",
+  "size": 4221,
+  "flag": 1
+ },
+ {
+  "name": "challenge/big_mamma/big_mamma.fmp",
+  "size": 563806,
+  "flag": 0
+ },
+ {
+  "name": "challenge/big_mamma/big_mamma.ini",
+  "size": 1843,
+  "flag": 1
+ },
+ {
+  "name": "challenge/big_mamma/big_mamma.luac",
+  "size": 13916,
+  "flag": 1
+ },
+ {
+  "name": "challenge/big_mamma/big_mamma.rmp",
+  "size": 48170,
+  "flag": 0
+ },
+ {
+  "name": "challenge/big_mamma/big_mamma.scm",
+  "size": 192008,
+  "flag": 0
+ },
+ {
+  "name": "challenge/big_mamma/big_mamma.vis",
+  "size": 36430,
+  "flag": 0
+ },
+ {
+  "name": "challenge/big_mamma/hints.ini",
+  "size": 157,
+  "flag": 1
+ },
+ {
+  "name": "challenge/black_widow/_mapsetup.luac",
+  "size": 3975,
+  "flag": 1
+ },
+ {
+  "name": "challenge/black_widow/black_widow.fmp",
+  "size": 787377,
+  "flag": 0
+ },
+ {
+  "name": "challenge/black_widow/black_widow.ini",
+  "size": 1761,
+  "flag": 1
+ },
+ {
+  "name": "challenge/black_widow/black_widow.luac",
+  "size": 17856,
+  "flag": 1
+ },
+ {
+  "name": "challenge/black_widow/black_widow.rmp",
+  "size": 160574,
+  "flag": 0
+ },
+ {
+  "name": "challenge/black_widow/black_widow.scm",
+  "size": 289672,
+  "flag": 0
+ },
+ {
+  "name": "challenge/black_widow/black_widow.vis",
+  "size": 146004,
+  "flag": 0
+ },
+ {
+  "name": "challenge/black_widow/hints.ini",
+  "size": 151,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bodyguard/_mapsetup.luac",
+  "size": 3963,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bodyguard/bodyguard.fmp",
+  "size": 757206,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bodyguard/bodyguard.ini",
+  "size": 1683,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bodyguard/bodyguard.luac",
+  "size": 15747,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bodyguard/bodyguard.rmp",
+  "size": 119670,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bodyguard/bodyguard.scm",
+  "size": 266248,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bodyguard/bodyguard.vis",
+  "size": 119300,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bodyguard/hints.ini",
+  "size": 179,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bomber/_mapsetup.luac",
+  "size": 4071,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bomber/bomber.fmp",
+  "size": 1066199,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bomber/bomber.ini",
+  "size": 1636,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bomber/bomber.luac",
+  "size": 9970,
+  "flag": 1
+ },
+ {
+  "name": "challenge/bomber/bomber.rmp",
+  "size": 211372,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bomber/bomber.scm",
+  "size": 491912,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bomber/bomber.vis",
+  "size": 316646,
+  "flag": 0
+ },
+ {
+  "name": "challenge/bomber/hints.ini",
+  "size": 269,
+  "flag": 1
+ },
+ {
+  "name": "challenge/businessman/_mapsetup.luac",
+  "size": 4598,
+  "flag": 1
+ },
+ {
+  "name": "challenge/businessman/businessman.fmp",
+  "size": 353707,
+  "flag": 0
+ },
+ {
+  "name": "challenge/businessman/businessman.ini",
+  "size": 1721,
+  "flag": 1
+ },
+ {
+  "name": "challenge/businessman/businessman.luac",
+  "size": 12278,
+  "flag": 1
+ },
+ {
+  "name": "challenge/businessman/businessman.rmp",
+  "size": 15344,
+  "flag": 0
+ },
+ {
+  "name": "challenge/businessman/businessman.scm",
+  "size": 125448,
+  "flag": 0
+ },
+ {
+  "name": "challenge/businessman/businessman.vis",
+  "size": 17412,
+  "flag": 0
+ },
+ {
+  "name": "challenge/businessman/hints.ini",
+  "size": 176,
+  "flag": 1
+ },
+ {
+  "name": "challenge/infiltrator/_mapsetup.luac",
+  "size": 3958,
+  "flag": 1
+ },
+ {
+  "name": "challenge/infiltrator/hints.ini",
+  "size": 198,
+  "flag": 1
+ },
+ {
+  "name": "challenge/infiltrator/infiltrator.fmp",
+  "size": 738058,
+  "flag": 0
+ },
+ {
+  "name": "challenge/infiltrator/infiltrator.ini",
+  "size": 1875,
+  "flag": 1
+ },
+ {
+  "name": "challenge/infiltrator/infiltrator.luac",
+  "size": 15488,
+  "flag": 1
+ },
+ {
+  "name": "challenge/infiltrator/infiltrator.rmp",
+  "size": 80540,
+  "flag": 0
+ },
+ {
+  "name": "challenge/infiltrator/infiltrator.scm",
+  "size": 280712,
+  "flag": 0
+ },
+ {
+  "name": "challenge/infiltrator/infiltrator.vis",
+  "size": 53526,
+  "flag": 0
+ },
+ {
+  "name": "challenge/ninja/_mapsetup.luac",
+  "size": 3599,
+  "flag": 1
+ },
+ {
+  "name": "challenge/ninja/hints.ini",
+  "size": 473,
+  "flag": 1
+ },
+ {
+  "name": "challenge/ninja/itemactivate.luac",
+  "size": 226,
+  "flag": 1
+ },
+ {
+  "name": "challenge/ninja/ninja.fmp",
+  "size": 167451,
+  "flag": 0
+ },
+ {
+  "name": "challenge/ninja/ninja.ini",
+  "size": 1844,
+  "flag": 1
+ },
+ {
+  "name": "challenge/ninja/ninja.luac",
+  "size": 19485,
+  "flag": 1
+ },
+ {
+  "name": "challenge/ninja/ninja.rmp",
+  "size": 18202,
+  "flag": 0
+ },
+ {
+  "name": "challenge/ninja/ninja.scm",
+  "size": 73736,
+  "flag": 0
+ },
+ {
+  "name": "challenge/ninja/ninja.vis",
+  "size": 9544,
+  "flag": 0
+ },
+ {
+  "name": "challenge/sniper/_mapsetup.luac",
+  "size": 4089,
+  "flag": 1
+ },
+ {
+  "name": "challenge/sniper/hints.ini",
+  "size": 211,
+  "flag": 1
+ },
+ {
+  "name": "challenge/sniper/sniper.fmp",
+  "size": 396086,
+  "flag": 0
+ },
+ {
+  "name": "challenge/sniper/sniper.ini",
+  "size": 1684,
+  "flag": 1
+ },
+ {
+  "name": "challenge/sniper/sniper.luac",
+  "size": 10128,
+  "flag": 1
+ },
+ {
+  "name": "challenge/sniper/sniper.rmp",
+  "size": 16732,
+  "flag": 0
+ },
+ {
+  "name": "challenge/sniper/sniper.scm",
+  "size": 126472,
+  "flag": 0
+ },
+ {
+  "name": "challenge/sniper/sniper.vis",
+  "size": 41092,
+  "flag": 0
+ },
+ {
+  "name": "challenge/super_bouncer/_mapsetup.luac",
+  "size": 3900,
+  "flag": 1
+ },
+ {
+  "name": "challenge/super_bouncer/hints.ini",
+  "size": 126,
+  "flag": 1
+ },
+ {
+  "name": "challenge/super_bouncer/super_bouncer.fmp",
+  "size": 891454,
+  "flag": 0
+ },
+ {
+  "name": "challenge/super_bouncer/super_bouncer.ini",
+  "size": 1834,
+  "flag": 1
+ },
+ {
+  "name": "challenge/super_bouncer/super_bouncer.luac",
+  "size": 9630,
+  "flag": 1
+ },
+ {
+  "name": "challenge/super_bouncer/super_bouncer.rmp",
+  "size": 105858,
+  "flag": 0
+ },
+ {
+  "name": "challenge/super_bouncer/super_bouncer.scm",
+  "size": 359944,
+  "flag": 0
+ },
+ {
+  "name": "challenge/super_bouncer/super_bouncer.vis",
+  "size": 245242,
+  "flag": 0
+ },
+ {
+  "name": "challenge/thief/_mapsetup.luac",
+  "size": 4456,
+  "flag": 1
+ },
+ {
+  "name": "challenge/thief/hints.ini",
+  "size": 169,
+  "flag": 1
+ },
+ {
+  "name": "challenge/thief/thief.fmp",
+  "size": 824530,
+  "flag": 0
+ },
+ {
+  "name": "challenge/thief/thief.ini",
+  "size": 1605,
+  "flag": 1
+ },
+ {
+  "name": "challenge/thief/thief.luac",
+  "size": 13190,
+  "flag": 1
+ },
+ {
+  "name": "challenge/thief/thief.rmp",
+  "size": 72116,
+  "flag": 0
+ },
+ {
+  "name": "challenge/thief/thief.scm",
+  "size": 330632,
+  "flag": 0
+ },
+ {
+  "name": "challenge/thief/thief.vis",
+  "size": 132742,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/bazooka/bazooka.fmp",
+  "size": 409494,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/bazooka/bazooka.ini",
+  "size": 1272,
+  "flag": 1
+ },
+ {
+  "name": "challenge_multiplayer/bazooka/bazooka.rmp",
+  "size": 16104,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/bazooka/bazooka.scm",
+  "size": 149768,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/bazooka/bazooka.vis",
+  "size": 32010,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/bazooka/mapsetup.luac",
+  "size": 582,
+  "flag": 1
+ },
+ {
+  "name": "challenge_multiplayer/black_widow/black_widow.fmp",
+  "size": 726273,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/black_widow/black_widow.ini",
+  "size": 1288,
+  "flag": 1
+ },
+ {
+  "name": "challenge_multiplayer/black_widow/black_widow.rmp",
+  "size": 155426,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/black_widow/black_widow.scm",
+  "size": 261896,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/black_widow/black_widow.vis",
+  "size": 138810,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/black_widow/mapsetup.luac",
+  "size": 599,
+  "flag": 1
+ },
+ {
+  "name": "challenge_multiplayer/bodyguard/bodyguard.fmp",
+  "size": 752902,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/bodyguard/bodyguard.ini",
+  "size": 1271,
+  "flag": 1
+ },
+ {
+  "name": "challenge_multiplayer/bodyguard/bodyguard.rmp",
+  "size": 119670,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/bodyguard/bodyguard.scm",
+  "size": 266248,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/bodyguard/bodyguard.vis",
+  "size": 119292,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/bodyguard/mapsetup.luac",
+  "size": 579,
+  "flag": 1
+ },
+ {
+  "name": "challenge_multiplayer/ninja/mapsetup.luac",
+  "size": 563,
+  "flag": 1
+ },
+ {
+  "name": "challenge_multiplayer/ninja/ninja.fmp",
+  "size": 164355,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/ninja/ninja.ini",
+  "size": 1240,
+  "flag": 1
+ },
+ {
+  "name": "challenge_multiplayer/ninja/ninja.rmp",
+  "size": 18202,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/ninja/ninja.scm",
+  "size": 73736,
+  "flag": 0
+ },
+ {
+  "name": "challenge_multiplayer/ninja/ninja.vis",
+  "size": 9544,
+  "flag": 0
+ },
+ {
+  "name": "conquest/docks/con5/_mapsetup.luac",
+  "size": 8678,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con5/allied.luac",
+  "size": 787,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con5/docks.ini",
+  "size": 2389,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con5/hints.ini",
+  "size": 193,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con5/world.luac",
+  "size": 14121,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con6/_mapsetup.luac",
+  "size": 8032,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con6/allied.luac",
+  "size": 428,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con6/docks.ini",
+  "size": 2084,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con6/world.luac",
+  "size": 4612,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con7/_mapsetup.luac",
+  "size": 6656,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con7/docks.ini",
+  "size": 2142,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con7/world.luac",
+  "size": 5712,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con8/_mapsetup.luac",
+  "size": 7775,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con8/docks.ini",
+  "size": 2541,
+  "flag": 1
+ },
+ {
+  "name": "conquest/docks/con8/world.luac",
+  "size": 7574,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con1/_bossgraph.ini",
+  "size": 2049,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con1/_mapsetup.luac",
+  "size": 11811,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con1/icmsimulatorsettings.ini",
+  "size": 500,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con1/little_italy.ini",
+  "size": 2071,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con1/mainevent_1.luac",
+  "size": 9442,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con1/mainevent_1_guard.luac",
+  "size": 132,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con1/mainevent_2.luac",
+  "size": 6766,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con1/mainevent_2_guard.luac",
+  "size": 132,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con1/world.luac",
+  "size": 2005,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con2/_bossgraph.ini",
+  "size": 546,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con2/_mapsetup.luac",
+  "size": 9731,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con2/little_italy.ini",
+  "size": 2164,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con2/mainevent_1.luac",
+  "size": 9406,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con2/mainevent_1_guard.luac",
+  "size": 132,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con2/world.luac",
+  "size": 5160,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con3/_bossgraph.ini",
+  "size": 1227,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con3/_mapsetup.luac",
+  "size": 9121,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con3/little_italy.ini",
+  "size": 1905,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con3/mainevent_1.luac",
+  "size": 15168,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con3/mainevent_1_guard.luac",
+  "size": 132,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con3/world.luac",
+  "size": 3876,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con4/_bossgraph.ini",
+  "size": 3759,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con4/_mapsetup.luac",
+  "size": 10579,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con4/little_italy.ini",
+  "size": 2433,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con4/mainevent_1.luac",
+  "size": 3399,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con4/mainevent_1_guard.luac",
+  "size": 132,
+  "flag": 1
+ },
+ {
+  "name": "conquest/little_italy/con4/world.luac",
+  "size": 15531,
+  "flag": 1
+ },
+ {
+  "name": "conquest/poor/con10/_mapsetup.luac",
+  "size": 5816,
+  "flag": 1
+ },
+ {
+  "name": "conquest/poor/con10/poor.ini",
+  "size": 2027,
+  "flag": 1
+ },
+ {
+  "name": "conquest/poor/con10/world.luac",
+  "size": 4588,
+  "flag": 1
+ },
+ {
+  "name": "conquest/poor/con11/_mapsetup.luac",
+  "size": 6356,
+  "flag": 1
+ },
+ {
+  "name": "conquest/poor/con11/poor.ini",
+  "size": 2036,
+  "flag": 1
+ },
+ {
+  "name": "conquest/poor/con11/world.luac",
+  "size": 4889,
+  "flag": 1
+ },
+ {
+  "name": "conquest/poor/con9/_bossgraph.ini",
+  "size": 1080,
+  "flag": 1
+ },
+ {
+  "name": "conquest/poor/con9/_mapsetup.luac",
+  "size": 5442,
+  "flag": 1
+ },
+ {
+  "name": "conquest/poor/con9/poor.ini",
+  "size": 2123,
+  "flag": 1
+ },
+ {
+  "name": "conquest/poor/con9/world.luac",
+  "size": 4580,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con12/_mapsetup.luac",
+  "size": 6554,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con12/vegas.ini",
+  "size": 2454,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con12/world.luac",
+  "size": 5248,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con13/_mapsetup.luac",
+  "size": 6079,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con13/vegas.ini",
+  "size": 2305,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con13/world.luac",
+  "size": 14872,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con14/_mapsetup.luac",
+  "size": 6751,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con14/vegas.ini",
+  "size": 2375,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con14/world.luac",
+  "size": 9398,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con15/_mapsetup.luac",
+  "size": 7842,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con15/vegas.ini",
+  "size": 2228,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con15/world.luac",
+  "size": 6543,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con16/_mapsetup.luac",
+  "size": 7883,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con16/vegas.ini",
+  "size": 2178,
+  "flag": 1
+ },
+ {
+  "name": "conquest/vegas/con16/world.luac",
+  "size": 5539,
+  "flag": 1
+ },
+ {
+  "name": "docks/01.fmp",
+  "size": 1132975,
+  "flag": 0
+ },
+ {
+  "name": "docks/01.rmp",
+  "size": 311190,
+  "flag": 0
+ },
+ {
+  "name": "docks/01.scm",
+  "size": 488456,
+  "flag": 0
+ },
+ {
+  "name": "docks/01.vis",
+  "size": 263628,
+  "flag": 0
+ },
+ {
+  "name": "docks/02.fmp",
+  "size": 1195223,
+  "flag": 0
+ },
+ {
+  "name": "docks/02.rmp",
+  "size": 622074,
+  "flag": 0
+ },
+ {
+  "name": "docks/02.scm",
+  "size": 495240,
+  "flag": 0
+ },
+ {
+  "name": "docks/02.vis",
+  "size": 404486,
+  "flag": 0
+ },
+ {
+  "name": "docks/03.fmp",
+  "size": 1635351,
+  "flag": 0
+ },
+ {
+  "name": "docks/03.rmp",
+  "size": 1072118,
+  "flag": 0
+ },
+ {
+  "name": "docks/03.scm",
+  "size": 672776,
+  "flag": 0
+ },
+ {
+  "name": "docks/03.vis",
+  "size": 535020,
+  "flag": 0
+ },
+ {
+  "name": "docks/base.fmp",
+  "size": 1401219,
+  "flag": 0
+ },
+ {
+  "name": "docks/base.rmp",
+  "size": 1327828,
+  "flag": 0
+ },
+ {
+  "name": "docks/base.scm",
+  "size": 590728,
+  "flag": 0
+ },
+ {
+  "name": "docks/base.vis",
+  "size": 569302,
+  "flag": 0
+ },
+ {
+  "name": "docks/basemap.ini",
+  "size": 458,
+  "flag": 1
+ },
+ {
+  "name": "editor_helperlayers.ini",
+  "size": 290,
+  "flag": 1
+ },
+ {
+  "name": "editor_helperobjects.ini",
+  "size": 403,
+  "flag": 1
+ },
+ {
+  "name": "little_italy/01.fmp",
+  "size": 703762,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/01.rmp",
+  "size": 171508,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/01.scm",
+  "size": 236552,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/01.vis",
+  "size": 86594,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/02.fmp",
+  "size": 1018018,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/02.rmp",
+  "size": 480294,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/02.scm",
+  "size": 344072,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/02.vis",
+  "size": 136816,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/03.fmp",
+  "size": 1181502,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/03.rmp",
+  "size": 412404,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/03.scm",
+  "size": 415880,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/03.vis",
+  "size": 129120,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/base.fmp",
+  "size": 1303790,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/base.rmp",
+  "size": 800200,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/base.scm",
+  "size": 430472,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/base.vis",
+  "size": 177038,
+  "flag": 0
+ },
+ {
+  "name": "little_italy/basemap.ini",
+  "size": 484,
+  "flag": 1
+ },
+ {
+  "name": "map_14.10.2002/map.cst",
+  "size": 1600,
+  "flag": 0
+ },
+ {
+  "name": "map_14.10.2002/map.vis",
+  "size": 213876,
+  "flag": 0
+ },
+ {
+  "name": "map_italy_test.ini",
+  "size": 1303,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer.ini",
+  "size": 2043,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/docks/docks_01.ini",
+  "size": 1566,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/docks/docks_02.ini",
+  "size": 1594,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/docks/docks_03.ini",
+  "size": 1597,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/docks/docks_04.ini",
+  "size": 1569,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/little_italy/little_italy_01.ini",
+  "size": 1607,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/little_italy/little_italy_02.ini",
+  "size": 1641,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/little_italy/little_italy_03.ini",
+  "size": 1618,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/little_italy/little_italy_04.ini",
+  "size": 1611,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/little_italy/little_italy_vincenzo_01.ini",
+  "size": 1628,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/little_italy/little_italy_vincenzo_02.ini",
+  "size": 1662,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/little_italy/little_italy_vincenzo_03.ini",
+  "size": 1639,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/little_italy/little_italy_vincenzo_04.ini",
+  "size": 1632,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/little_italy_test/map_4player.ini",
+  "size": 1648,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/little_italy_test/map_6player.ini",
+  "size": 1659,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/poor/poor_01.ini",
+  "size": 1545,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/poor/poor_02.ini",
+  "size": 1559,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/poor/poor_03.ini",
+  "size": 1550,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/smalltest/boss.ini",
+  "size": 3507,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/smalltest/icm_list.ini",
+  "size": 1010,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/smalltest/icmsimulatorsettings.ini",
+  "size": 505,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/smalltest/mapcapo.ini",
+  "size": 1362,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/smalltest/mapstd.ini",
+  "size": 1614,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/smalltest/newidmap_02.fmp",
+  "size": 182883,
+  "flag": 0
+ },
+ {
+  "name": "multiplayer/smalltest/newidmap_02.scm",
+  "size": 51254,
+  "flag": 0
+ },
+ {
+  "name": "multiplayer/smalltest/newidmap_02.vis",
+  "size": 4506,
+  "flag": 0
+ },
+ {
+  "name": "multiplayer/vegas/vegas_01.ini",
+  "size": 1673,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/vegas/vegas_02.ini",
+  "size": 1670,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/vegas/vegas_03.ini",
+  "size": 1678,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/vegas/vegas_04.ini",
+  "size": 1692,
+  "flag": 1
+ },
+ {
+  "name": "multiplayer/vegas/vegas_05.ini",
+  "size": 1675,
+  "flag": 1
+ },
+ {
+  "name": "poor/01.fmp",
+  "size": 941094,
+  "flag": 0
+ },
+ {
+  "name": "poor/01.rmp",
+  "size": 178448,
+  "flag": 0
+ },
+ {
+  "name": "poor/01.scm",
+  "size": 341000,
+  "flag": 0
+ },
+ {
+  "name": "poor/01.vis",
+  "size": 256104,
+  "flag": 0
+ },
+ {
+  "name": "poor/02.fmp",
+  "size": 1866874,
+  "flag": 0
+ },
+ {
+  "name": "poor/02.rmp",
+  "size": 515530,
+  "flag": 0
+ },
+ {
+  "name": "poor/02.scm",
+  "size": 758920,
+  "flag": 0
+ },
+ {
+  "name": "poor/02.vis",
+  "size": 407794,
+  "flag": 0
+ },
+ {
+  "name": "poor/base.fmp",
+  "size": 1852502,
+  "flag": 0
+ },
+ {
+  "name": "poor/base.rmp",
+  "size": 1271574,
+  "flag": 0
+ },
+ {
+  "name": "poor/base.scm",
+  "size": 729352,
+  "flag": 0
+ },
+ {
+  "name": "poor/base.vis",
+  "size": 588162,
+  "flag": 0
+ },
+ {
+  "name": "poor/basemap.ini",
+  "size": 450,
+  "flag": 1
+ },
+ {
+  "name": "poor/config/system.ini",
+  "size": 89,
+  "flag": 1
+ },
+ {
+  "name": "singleplayer.ini",
+  "size": 2116,
+  "flag": 1
+ },
+ {
+  "name": "test/all_buildings.fmp",
+  "size": 594958,
+  "flag": 0
+ },
+ {
+  "name": "test/all_buildings.ini",
+  "size": 1076,
+  "flag": 1
+ },
+ {
+  "name": "test/all_buildings.rmp",
+  "size": 355292,
+  "flag": 0
+ },
+ {
+  "name": "test/all_buildings.scm",
+  "size": 204808,
+  "flag": 0
+ },
+ {
+  "name": "test/all_buildings.vis",
+  "size": 109596,
+  "flag": 0
+ },
+ {
+  "name": "test/italian_buildings.fmp",
+  "size": 316568,
+  "flag": 0
+ },
+ {
+  "name": "test/italian_buildings.vis",
+  "size": 72160,
+  "flag": 0
+ },
+ {
+  "name": "test/poor_and_docks_buildings.fmp",
+  "size": 361828,
+  "flag": 0
+ },
+ {
+  "name": "test/poor_and_docks_buildings.vis",
+  "size": 67000,
+  "flag": 0
+ },
+ {
+  "name": "test/vegas_buildings.fmp",
+  "size": 384564,
+  "flag": 0
+ },
+ {
+  "name": "test/vegas_buildings.vis",
+  "size": 42810,
+  "flag": 0
+ },
+ {
+  "name": "tileobjects/buildings.ini",
+  "size": 31783,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/editor/editor_helperlayers.ini",
+  "size": 529,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/editor/editor_helperobjects.ini",
+  "size": 646,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/ground_docks.ini",
+  "size": 13124,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/ground_general.ini",
+  "size": 10586,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/ground_italy.ini",
+  "size": 5871,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/ground_poor.ini",
+  "size": 6468,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/ground_vegas.ini",
+  "size": 6526,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/streetaccessories_docks.ini",
+  "size": 14191,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/streetaccessories_general.ini",
+  "size": 28388,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/streetaccessories_italy.ini",
+  "size": 829,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/streetaccessories_poor.ini",
+  "size": 698,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/streetaccessories_vegas.ini",
+  "size": 5154,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/topgenerator/firestairs.ini",
+  "size": 542,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/topgenerator/misc.ini",
+  "size": 2867,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/topgenerator/roofs.ini",
+  "size": 1233,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/topgenerator/walls.ini",
+  "size": 1864,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/topgenerator/windows.ini",
+  "size": 327,
+  "flag": 1
+ },
+ {
+  "name": "tileobjects/water.ini",
+  "size": 3657,
+  "flag": 1
+ },
+ {
+  "name": "vegas/01.fmp",
+  "size": 1562959,
+  "flag": 0
+ },
+ {
+  "name": "vegas/01.rmp",
+  "size": 971566,
+  "flag": 0
+ },
+ {
+  "name": "vegas/01.scm",
+  "size": 568328,
+  "flag": 0
+ },
+ {
+  "name": "vegas/01.vis",
+  "size": 444492,
+  "flag": 0
+ },
+ {
+  "name": "vegas/02.fmp",
+  "size": 1978707,
+  "flag": 0
+ },
+ {
+  "name": "vegas/02.rmp",
+  "size": 528368,
+  "flag": 0
+ },
+ {
+  "name": "vegas/02.scm",
+  "size": 719880,
+  "flag": 0
+ },
+ {
+  "name": "vegas/02.vis",
+  "size": 359902,
+  "flag": 0
+ },
+ {
+  "name": "vegas/03.fmp",
+  "size": 1971963,
+  "flag": 0
+ },
+ {
+  "name": "vegas/03.rmp",
+  "size": 631466,
+  "flag": 0
+ },
+ {
+  "name": "vegas/03.scm",
+  "size": 719880,
+  "flag": 0
+ },
+ {
+  "name": "vegas/03.vis",
+  "size": 339042,
+  "flag": 0
+ },
+ {
+  "name": "vegas/04.fmp",
+  "size": 1952183,
+  "flag": 0
+ },
+ {
+  "name": "vegas/04.rmp",
+  "size": 1270372,
+  "flag": 0
+ },
+ {
+  "name": "vegas/04.scm",
+  "size": 719880,
+  "flag": 0
+ },
+ {
+  "name": "vegas/04.vis",
+  "size": 481718,
+  "flag": 0
+ },
+ {
+  "name": "vegas/base.fmp",
+  "size": 1937979,
+  "flag": 0
+ },
+ {
+  "name": "vegas/base.rmp",
+  "size": 1932614,
+  "flag": 0
+ },
+ {
+  "name": "vegas/base.scm",
+  "size": 719880,
+  "flag": 0
+ },
+ {
+  "name": "vegas/base.vis",
+  "size": 562316,
+  "flag": 0
+ },
+ {
+  "name": "vegas/basemap.ini",
+  "size": 456,
+  "flag": 1
+ }
+]

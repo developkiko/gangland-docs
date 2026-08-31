@@ -10,6 +10,7 @@ interface ArchiveInfo {
   bytes?: number;
   dataOffset?: number;
   exts?: Record<string, number>;
+  recovered?: boolean;
   files?: Entry[];
 }
 interface AssetsIndex {
@@ -82,6 +83,9 @@ function initBrowser(index: AssetsIndex) {
   const enc = index.archives.filter((a) => a.status === 'encrypted');
   statsEl.textContent =
     `${index.game} · открыто: ${okArchives.length} архивов, ${totalFiles} файлов, ${(totalBytes / 1048576).toFixed(0)} MB · зашифровано: ${enc.map((a) => a.name).join(', ')}`;
+  if (!/^localhost$|^127\.0\.0\.1$/.test(location.hostname)) {
+    statsEl.textContent += ' · онлайн: доступны только списки файлов';
+  }
 
   let current: ArchiveInfo | null = null;
 
@@ -90,8 +94,10 @@ function initBrowser(index: AssetsIndex) {
     div.className = 'archive';
     const meta = a.status === 'ok'
       ? `${a.entries} файлов · ${((a.bytes ?? 0) / 1048576).toFixed(1)} MB`
-      : `каталог зашифрован · данные с offset ${a.dataOffset}`;
-    div.innerHTML = `<span class="badge ${a.status}">${a.status === 'ok' ? 'OK' : 'ENC'}</span>
+      : a.recovered
+        ? `${a.entries} файлов (каталог восстановлен) · содержимое шифровано`
+        : `каталог зашифрован · данные с offset ${a.dataOffset}`;
+    div.innerHTML = `<span class="badge ${a.status}">${a.status === 'ok' || a.recovered ? 'OK' : 'ENC'}</span>
       <div class="name">${a.name}</div><div class="meta">${meta}</div>`;
     div.addEventListener('click', () => selectArchive(a, div));
     archivesEl.appendChild(div);
@@ -129,14 +135,14 @@ function initBrowser(index: AssetsIndex) {
     current = a;
     document.querySelectorAll('.archive').forEach((x) => x.classList.remove('active'));
     div.classList.add('active');
-    filterEl.disabled = a.status !== 'ok';
+    filterEl.disabled = !a.files;
     filterEl.value = '';
     renderFiles();
   }
 
   function renderFiles() {
     filesEl.innerHTML = '';
-    if (!current || current.status !== 'ok' || !current.files) return;
+    if (!current || !current.files) return;
     const query = filterEl.value.toLowerCase();
     const items = query ? current.files.filter((f) => f.n.toLowerCase().includes(query)) : current.files;
     const LIMIT = 800;
@@ -170,15 +176,29 @@ function initBrowser(index: AssetsIndex) {
     const ext = f.n.slice(f.n.lastIndexOf('.')).toLowerCase();
     previewEl.innerHTML = `<h2>${current.name}/${f.n} <span style="color:var(--muted)">(${fmtSize(f.s)})</span></h2>`;
 
+    const res = await fetch(url);
+    if (!res.ok) {
+      const note = document.createElement('div');
+      note.className = 'note';
+      note.textContent = 'Содержимое недоступно: ассеты игры не публикуются и существуют только локально (npm run extract). Здесь показан список файлов.';
+      previewEl.appendChild(note);
+      const pre = document.createElement('pre');
+      pre.textContent = `${current.name}/${f.n}\nразмер: ${f.s} байт`;
+      previewEl.appendChild(pre);
+      return;
+    }
+    const buf = await res.arrayBuffer();
+    const blob = (type: string) => URL.createObjectURL(new Blob([buf], { type }));
+
     if (ext === '.png') {
       const img = document.createElement('img');
-      img.src = url;
+      img.src = blob('image/png');
       img.alt = f.n;
       previewEl.appendChild(img);
-      addCaption(`PNG ${img.naturalWidth || ''}`);
+      addCaption('PNG');
     } else if (ext === '.dds') {
       try {
-        const img = decodeDds(await (await fetch(url)).arrayBuffer());
+        const img = decodeDds(buf);
         const canvas = document.createElement('canvas');
         canvas.width = img.width;
         canvas.height = img.height;
@@ -191,22 +211,19 @@ function initBrowser(index: AssetsIndex) {
     } else if (ext === '.ogg' || ext === '.wav') {
       const audio = document.createElement('audio');
       audio.controls = true;
-      audio.src = url;
+      audio.src = blob(ext === '.ogg' ? 'audio/ogg' : 'audio/wav');
       previewEl.appendChild(audio);
       addCaption('аудио, играй напрямую');
     } else if (ext === '.ini' || ext === '.txt' || ext === '.lua') {
-      const text = await (await fetch(url)).text();
       const pre = document.createElement('pre');
-      pre.textContent = text.slice(0, 20000);
+      pre.textContent = new TextDecoder().decode(buf).slice(0, 20000);
       previewEl.appendChild(pre);
       addCaption('текст');
     } else {
-      const buf = new Uint8Array(await (await fetch(url)).arrayBuffer());
       const pre = document.createElement('pre');
-      pre.textContent = hexdump(buf.subarray(0, 512));
+      pre.textContent = hexdump(new Uint8Array(buf).subarray(0, 512));
       previewEl.appendChild(pre);
-      if (ext === '.dds') addCaption('DDS-текстура: рендер в браузере появится после конвертации в webp/atlas (фаза 0.5).');
-      else if (ext === '.luac') addCaption('байткод Lua 5.0 (кастомная шапка) — декомпилятор запланирован.');
+      if (ext === '.luac') addCaption('байткод Lua 5.0 (кастомная шапка) — декомпилятор запланирован.');
       else addCaption(`формат ${ext}: разбор формата запланирован (см. docs/ASSET-FORMATS.md).`);
     }
   }
