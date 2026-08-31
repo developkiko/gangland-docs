@@ -1,0 +1,20 @@
+{
+  "name": "gangland-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Web-порт GangLand (2004) — ремейк на TypeScript. Ассеты оригинала используются только локально.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "extract": "node tools/lfm-extract.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "pixi.js": "^8.6.0"
+  }
+}

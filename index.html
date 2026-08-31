@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GangLand Web — Asset Browser</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>GangLand <span>web-порт · фаза 0</span></h1>
+      <div id="stats"></div>
+    </header>
+    <main>
+      <nav id="archives"></nav>
+      <section id="files-pane">
+        <input id="filter" type="search" placeholder="фильтр файлов…" disabled />
+        <ul id="files"></ul>
+      </section>
+      <section id="preview">
+        <div class="placeholder">Выберите архив слева, затем файл.<br />PNG открывается как картинка, OGG/WAV — как звук, INI/LUA — как текст, прочие форматы — как hex-дамп.</div>
+      </section>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
