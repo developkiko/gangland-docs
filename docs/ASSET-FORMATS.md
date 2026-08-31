@@ -45,6 +45,12 @@
 `02`, нули, хвостовое int32 (16712). Т.е. байт +18 (=0xFE) на этом типе —
 константа, а стены-ряды ниндзя — другой тип записи. Разделение типов секций
 и привязка ID к TileObjects INI — главные нерешённые вопросы.
+
+**Модель секций (рабочая гипотеза):** секции тела FMP соответствуют группам
+TileObjects из map.ini (`StreetAccessoriesArea`, `GroundArea` + неявные buildings
+/topgenerator). Проверка на ninja.ini: объявлены 2 группы + buildings — секций 4.
+`.rmp` = **RoomMap** (комнаты), НЕ дороги; `.scm` = SeekCoverMap; `.vis` = Visibility
+(всё перечислено в `[Maps]` map.ini вместе с fmp).
 TileObjects INI (расшифрованы, `extracted/maps/tileobjects/`) дают: ID → .mmo
 модель, ShopSize (в тайлах), MiniMapID, Cost. Земля генерируется движком из
 ground_*.ini — в FMP сетки земли нет, есть только РАЗМЕЩЁННЫЕ объекты.
