@@ -70,6 +70,11 @@ export function parseFmp(buf: Uint8Array): FmpMap {
     });
     prevY = y;
   }
+
+  // ВАЖНО: на картах vegas-стиля (76×74) секция 0 — это записи ОБЪЕКТОВ (~204 Б,
+  // последовательные instance-ID ~6000+, float поворота π/2), а не стены-ряды,
+  // поэтому поле +18 там константа 0xFE и wall-рендер к ним неприменим.
+  // Разделение типов секций — нерешённая задача (см. docs/ASSET-FORMATS.md).
   return {
     version,
     srcPath,
