@@ -1,5 +1,7 @@
 import './style.css';
+import { Application, Graphics } from 'pixi.js';
 import { decodeDds } from './lib/dds';
+import { parseFmp } from './lib/fmp';
 
 interface Entry { n: string; s: number; d?: string }
 interface ArchiveInfo {
@@ -219,19 +221,43 @@ function initBrowser(index: AssetsIndex) {
       pre.textContent = new TextDecoder().decode(buf).slice(0, 20000);
       previewEl.appendChild(pre);
       addCaption('текст');
+    } else if (ext === '.fmp') {
+      try {
+        const map = parseFmp(new Uint8Array(buf));
+        const cell = 14;
+        const app = new Application();
+        await app.init({ width: map.gridB * cell + 2, height: map.gridA * cell + 2, background: '#101216' });
+        const g = new Graphics();
+        for (let gx = 0; gx <= map.gridB; gx++) {
+          g.moveTo(gx * cell, 0).lineTo(gx * cell, map.gridA * cell).stroke({ width: 1, color: 0x1d2129 });
+        }
+        for (let gy = 0; gy <= map.gridA; gy++) {
+          g.moveTo(0, gy * cell).lineTo(map.gridB * cell, gy * cell).stroke({ width: 1, color: 0x1d2129 });
+        }
+        const colors = [0xd8a048, 0x6fbf73, 0x5b8dd8, 0xc96f6f, 0xb088d8];
+        for (const w of map.walls) {
+          const x0 = w.x0 < 0 ? 0 : w.x0;
+          const x1 = w.x1 < 0 ? map.gridB - 1 : w.x1;
+          const lo = Math.max(0, Math.min(x0, x1));
+          const hi = Math.min(map.gridB - 1, Math.max(x0, x1));
+          if (hi < lo) continue;
+          g.rect(lo * cell + 1, w.y * cell + 1, (hi - lo + 1) * cell - 2, cell - 2)
+            .fill({ color: colors[w.type % colors.length], alpha: 0.85 });
+        }
+        app.stage.addChild(g);
+        previewEl.appendChild(app.canvas);
+        addCaption(`FWMP ${map.gridA}×${map.gridB}, исходник ${map.srcPath}. Гипотеза: секция стен (записей ${map.walls.length}) — +18=Y, +26=тип, +31/+43=X-диапазон. Валидация визуалом.`);
+      } catch (e) {
+        const pre = document.createElement('pre');
+        pre.textContent = hexdump(new Uint8Array(buf).subarray(0, 512));
+        previewEl.appendChild(pre);
+        addCaption(`FMP не отрендерен: ${(e as Error).message}`);
+      }
     } else {
       const pre = document.createElement('pre');
       pre.textContent = hexdump(new Uint8Array(buf).subarray(0, 512));
       previewEl.appendChild(pre);
-      if (ext === '.fmp') {
-        try {
-          const dv = new DataView(buf);
-          const plen = dv.getUint32(8, true);
-          const src = new TextDecoder().decode(new Uint8Array(buf).subarray(12, 12 + plen));
-          const a = dv.getUint32(12 + plen, true), b = dv.getUint32(16 + plen, true);
-          addCaption(`FWMP: исходник ${src}, сетка ${a}×${b} (${a * b} тайлов). Тело — записи объектов, разбор в процессе (docs/ASSET-FORMATS.md).`);
-        } catch { /* маленький файл */ }
-      } else if (ext === '.luac') addCaption('байткод Lua 5.0 (кастомная шапка) — декомпилятор запланирован.');
+      if (ext === '.luac') addCaption('байткод Lua 5.0 (кастомная шапка) — декомпилятор запланирован.');
       else addCaption(`формат ${ext}: разбор формата запланирован (см. docs/ASSET-FORMATS.md).`);
     }
   }
