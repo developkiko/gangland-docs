@@ -223,7 +223,15 @@ function initBrowser(index: AssetsIndex) {
       const pre = document.createElement('pre');
       pre.textContent = hexdump(new Uint8Array(buf).subarray(0, 512));
       previewEl.appendChild(pre);
-      if (ext === '.luac') addCaption('байткод Lua 5.0 (кастомная шапка) — декомпилятор запланирован.');
+      if (ext === '.fmp') {
+        try {
+          const dv = new DataView(buf);
+          const plen = dv.getUint32(8, true);
+          const src = new TextDecoder().decode(new Uint8Array(buf).subarray(12, 12 + plen));
+          const a = dv.getUint32(12 + plen, true), b = dv.getUint32(16 + plen, true);
+          addCaption(`FWMP: исходник ${src}, сетка ${a}×${b} (${a * b} тайлов). Тело — записи объектов, разбор в процессе (docs/ASSET-FORMATS.md).`);
+        } catch { /* маленький файл */ }
+      } else if (ext === '.luac') addCaption('байткод Lua 5.0 (кастомная шапка) — декомпилятор запланирован.');
       else addCaption(`формат ${ext}: разбор формата запланирован (см. docs/ASSET-FORMATS.md).`);
     }
   }

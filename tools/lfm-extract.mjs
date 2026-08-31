@@ -29,18 +29,32 @@ for (const file of archives) {
   const dest = path.join(outDir, name);
 
   if (!parsed.ok) {
-    // каталог шифрован, но восстановлен из памяти (tools/recover-from-dump.mjs):
+    // каталог шифрован, но восстановлен (tools/lfm-decrypt.mjs пишет tools/catalogs):
     // прикрепляем список имён и размеров к той же карточке архива
     const catPath = path.join(webDir, 'tools', 'catalogs', `${name}.lfm.json`);
     const catalog = fs.existsSync(catPath)
       ? JSON.parse(fs.readFileSync(catPath, 'utf8'))
       : null;
+    const files = catalog
+      ? catalog.map((e) => {
+          const f = { n: e.name, s: e.size };
+          if (name === 'maps' && f.n.endsWith('.fmp')) {
+            try {
+              const d = fs.readFileSync(path.join(outDir, name, f.n));
+              const plen = d.readUInt32LE(8);
+              const p = 12 + plen;
+              f.d = `${f.n} · сетка ${d.readUInt32LE(p)}×${d.readUInt32LE(p + 4)}`;
+            } catch { /* файла нет локально */ }
+          }
+          return f;
+        })
+      : undefined;
     console.log(`--  ${file}: каталог был зашифрован${catalog ? `, восстановлен: ${catalog.length} файлов` : ''}`);
     index.archives.push({
       name, file, status: 'encrypted', dataOffset: parsed.dataOffset,
       entries: catalog ? catalog.length : 0,
       bytes: catalog ? catalog.reduce((a, e) => a + e.size, 0) : 0,
-      files: catalog ? catalog.map((e) => ({ n: e.name, s: e.size })) : undefined,
+      files,
       recovered: Boolean(catalog),
     });
     continue;
