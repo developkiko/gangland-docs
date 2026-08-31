@@ -24,7 +24,8 @@ public class FindXrefs extends GhidraScript {
         di.openProgram(currentProgram);
         PrintWriter out = new PrintWriter(new FileWriter(OUT));
         for (String arg : args) {
-            Address a = currentProgram.getAddressFactory().getAddress(arg);
+            long raw = Long.parseLong(arg.replace("0x", "").replace("0X", ""), 16);
+            Address a = currentProgram.getAddressFactory().getDefaultAddressSpace().getAddress(raw);
             out.println("// #### ССЫЛКИ НА " + arg + " ####");
             Set<Function> funcs = new LinkedHashSet<>();
             for (Reference r : getReferencesTo(a)) {
