@@ -107,3 +107,32 @@ nav {
 #preview audio { width: 100%; }
 #preview h2 { font-size: 13px; font-family: Consolas, monospace; color: var(--accent); margin: 0 0 12px; }
 .note { color: var(--enc); font-size: 12px; margin-top: 8px; }
+
+.landing {
+  max-width: 720px;
+  margin: 48px auto;
+  padding: 28px 32px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  line-height: 1.65;
+}
+.landing h2 { color: var(--accent); margin-top: 0; }
+.landing h3 { font-size: 14px; margin: 22px 0 8px; }
+.landing ul { padding-left: 20px; margin: 8px 0; }
+.landing li { margin: 4px 0; }
+.landing pre {
+  background: var(--panel2);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 12px 14px;
+  overflow: auto;
+  font-size: 13px;
+}
+.landing .links a { color: var(--accent); }
+.landing code {
+  background: var(--panel2);
+  padding: 1px 5px;
+  border-radius: 4px;
+  font-size: 12px;
+}
