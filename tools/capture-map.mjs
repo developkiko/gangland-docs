@@ -15,15 +15,20 @@ const gameDir = path.dirname(webDir);
 const outDir = path.join(webDir, '..', 'info', 'maps-colored');
 fs.mkdirSync(outDir, { recursive: true });
 
-// --- 1. дамп памяти ---
-console.log('дамп памяти игры...');
+// --- 1. дамп памяти (или --reuse для существующего info/memdump-last) ---
+const reuse = process.argv.includes('--reuse');
 const dumpDir = path.join(webDir, '..', 'info', 'memdump-last');
-fs.rmSync(dumpDir, { recursive: true, force: true });
-fs.mkdirSync(dumpDir, { recursive: true });
-execSync(
-  `powershell -NoProfile -ExecutionPolicy Bypass -File "${path.join(webDir, 'tools', 'dump-mem.ps1')}" -OutDir "${dumpDir}"`,
-  { stdio: 'inherit' },
-);
+if (!reuse) {
+  console.log('дамп памяти игры...');
+  fs.rmSync(dumpDir, { recursive: true, force: true });
+  fs.mkdirSync(dumpDir, { recursive: true });
+  execSync(
+    `powershell -NoProfile -ExecutionPolicy Bypass -File "${path.join(webDir, 'tools', 'dump-mem.ps1')}" -OutDir "${dumpDir}"`,
+    { stdio: 'inherit' },
+  );
+} else {
+  console.log('переиспользуем существующий дамп');
+}
 
 // --- 2. примитивы и сбор ячеек ---
 const VT_SMALL = 0x672a7c, VT_BIG = 0x672ab0;
@@ -128,13 +133,37 @@ if (identified) {
   H = Math.ceil(best.len / W);
 }
 const scale = Math.max(2, Math.floor(900 / Math.max(W, H)));
+// цвет по категории из словаря ID → Filename (info/tileobject-dict.json)
+const dictPath = path.join(webDir, '..', 'info', 'tileobject-dict.json');
+const dict = fs.existsSync(dictPath) ? JSON.parse(fs.readFileSync(dictPath, 'utf8')) : [];
+const id2file = new Map(dict.map((d) => [d.id, d.filename || '']));
+function category(id) {
+  const f = (id2file.get(id) || '').toLowerCase();
+  if (!f) return 'unknown';
+  if (f.includes('/buildings/') || f.includes('building')) return 'building';
+  if (f.includes('pavement') || f.includes('cobblestone') || f.includes('asphalt') || f.includes('parkinglot') || f.includes('walkway')) return 'road';
+  if (f.includes('grass') || f.includes('park') || f.includes('tree') || f.includes('dead_grass')) return 'green';
+  if (f.includes('water') || f.includes('river')) return 'water';
+  if (f.includes('wall') || f.includes('roof') || f.includes('window') || f.includes('firestairs')) return 'topgen';
+  if (f.includes('street_accessories') || f.includes('fence') || f.includes('lightpost')) return 'decor';
+  return 'other';
+}
+const CAT_COLORS = {
+  building: [168, 66, 52],
+  road: [150, 150, 158],
+  green: [64, 140, 64],
+  water: [52, 96, 200],
+  topgen: [210, 140, 48],
+  decor: [70, 170, 170],
+  other: [150, 90, 170],
+  unknown: [12, 12, 14],
+};
 const px = Buffer.alloc(W * scale * H * scale * 3).fill(10);
 for (let i = 0; i < cellsData.length; i++) {
   const gx = i % W, gy = Math.floor(i / W);
   const id = cellsData[i].map((b) => b.id).find((v) => v > 0);
   if (!id) continue;
-  const h = Math.abs((id * 2654435761) >>> 0);
-  const col = [80 + (h & 0x7f), 80 + ((h >> 7) & 0x7f), 80 + ((h >> 14) & 0x7f)];
+  const col = CAT_COLORS[category(id)] || CAT_COLORS.unknown;
   for (let dy = 0; dy < scale; dy++) {
     for (let dx = 0; dx < scale; dx++) {
       const o = ((gy * scale + dy) * (W * scale) + gx * scale + dx) * 3;
